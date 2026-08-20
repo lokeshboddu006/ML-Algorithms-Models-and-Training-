@@ -1,0 +1,3001 @@
+IncidentID,Hour,Weather,RoadType,TrafficDensity,VisibilityKm,AverageSpeed,VehicleCount,Weekend,RoadCondition,Incident
+TRF-00001,20,Clear,Residential,17,8.7,77,527,Yes,Fair,No Incident
+TRF-00002,4,Rain,Urban,63,11.5,82,607,No,Good,No Incident
+TRF-00003,0,Clear,Urban,63,14.2,36,220,No,Good,No Incident
+TRF-00004,15,Fog,Residential,55,10.8,96,253,No,Fair,No Incident
+TRF-00005,8,Fog,Residential,27,12.6,22,155,No,Good,Incident
+TRF-00006,11,Clear,Highway,32,3.3,73,550,No,Fair,No Incident
+TRF-00007,1,Rain,Urban,63,8.3,66,243,No,Fair,No Incident
+TRF-00008,8,Clear,Residential,21,14.1,64,494,No,Good,No Incident
+TRF-00009,15,Rain,Industrial,14,5.5,34,412,No,Good,No Incident
+TRF-00010,8,Clear,Urban,55,3.5,28,144,No,Good,No Incident
+TRF-00011,19,Clear,Urban,87,9.4,21,656,No,Good,No Incident
+TRF-00012,18,Storm,Urban,57,14.0,100,141,No,Fair,Incident
+TRF-00013,16,Fog,Urban,22,1.9,39,426,No,Fair,No Incident
+TRF-00014,21,Clear,Highway,94,11.4,59,568,No,Good,No Incident
+TRF-00015,17,Clear,Urban,28,13.3,30,503,No,Good,No Incident
+TRF-00016,4,Clear,Urban,22,12.7,79,315,No,Good,No Incident
+TRF-00017,20,Clear,Residential,65,6.9,63,706,No,Fair,No Incident
+TRF-00018,15,Clear,Residential,36,14.7,27,277,No,Fair,No Incident
+TRF-00019,2,Clear,Residential,71,14.0,30,664,Yes,Fair,No Incident
+TRF-00020,7,Clear,Urban,59,3.1,78,484,Yes,Fair,Incident
+TRF-00021,3,Clear,Urban,8,10.0,79,507,No,Good,Incident
+TRF-00022,23,Clear,Highway,56,5.6,60,270,No,Fair,No Incident
+TRF-00023,17,Fog,Industrial,51,5.3,58,550,No,Good,Incident
+TRF-00024,22,Rain,Residential,38,5.2,71,596,No,Good,No Incident
+TRF-00025,6,Rain,Residential,45,4.2,76,591,No,Fair,No Incident
+TRF-00026,15,Rain,Industrial,91,11.0,43,542,Yes,Good,No Incident
+TRF-00027,14,Clear,Urban,5,6.1,78,142,No,Good,No Incident
+TRF-00028,18,Rain,Urban,6,8.0,33,161,No,Good,Incident
+TRF-00029,2,Fog,Urban,10,10.5,72,284,Yes,Good,No Incident
+TRF-00030,12,Storm,Industrial,33,4.7,70,663,Yes,Good,No Incident
+TRF-00031,15,Clear,Residential,41,1.4,75,215,No,Poor,Incident
+TRF-00032,19,Fog,Highway,69,10.4,95,214,Yes,Fair,Incident
+TRF-00033,15,Rain,Urban,10,6.3,94,95,No,Good,Incident
+TRF-00034,10,Clear,Highway,24,1.3,45,979,Yes,Fair,Incident
+TRF-00035,11,Rain,Urban,75,4.3,89,624,No,Fair,Incident
+TRF-00036,8,Clear,Residential,93,4.2,89,567,No,Poor,Incident
+TRF-00037,3,Clear,Residential,85,12.4,86,894,No,Good,Incident
+TRF-00038,6,Clear,Residential,26,2.4,34,226,Yes,Fair,Incident
+TRF-00039,3,Rain,Highway,93,8.3,60,787,No,Fair,Incident
+TRF-00040,5,Clear,Industrial,6,12.6,70,132,No,Fair,No Incident
+TRF-00041,20,Clear,Urban,55,11.8,32,976,No,Good,No Incident
+TRF-00042,12,Clear,Urban,21,6.3,95,166,No,Poor,Incident
+TRF-00043,2,Clear,Industrial,66,14.0,41,474,No,Good,No Incident
+TRF-00044,10,Rain,Highway,77,12.0,81,193,Yes,Good,No Incident
+TRF-00045,6,Clear,Highway,12,2.2,59,235,No,Good,No Incident
+TRF-00046,15,Rain,Highway,96,13.9,94,734,No,Poor,Incident
+TRF-00047,19,Fog,Residential,52,13.6,62,583,No,Fair,No Incident
+TRF-00048,0,Storm,Urban,99,12.5,66,339,No,Good,Incident
+TRF-00049,11,Clear,Residential,11,11.3,87,778,No,Good,No Incident
+TRF-00050,10,Clear,Residential,81,3.0,100,500,No,Fair,Incident
+TRF-00051,23,Clear,Industrial,31,8.0,58,749,Yes,Poor,No Incident
+TRF-00052,8,Clear,Residential,55,3.0,70,392,No,Good,Incident
+TRF-00053,3,Clear,Urban,16,4.5,42,699,No,Poor,No Incident
+TRF-00054,4,Rain,Residential,38,9.9,76,92,Yes,Fair,No Incident
+TRF-00055,11,Clear,Residential,31,11.9,55,233,No,Good,No Incident
+TRF-00056,14,Clear,Highway,19,5.6,60,623,No,Good,No Incident
+TRF-00057,7,Clear,Residential,20,3.1,49,593,No,Good,No Incident
+TRF-00058,10,Clear,Urban,45,14.7,92,671,No,Good,No Incident
+TRF-00059,15,Rain,Highway,1,3.8,82,906,No,Fair,Incident
+TRF-00060,7,Clear,Urban,49,1.7,27,510,No,Poor,Incident
+TRF-00061,23,Clear,Highway,13,4.0,55,444,No,Good,No Incident
+TRF-00062,5,Rain,Urban,6,3.4,45,905,No,Good,Incident
+TRF-00063,22,Clear,Highway,40,10.0,71,112,No,Poor,No Incident
+TRF-00064,20,Rain,Residential,25,13.0,22,691,Yes,Fair,No Incident
+TRF-00065,22,Clear,Highway,41,9.0,97,387,No,Poor,No Incident
+TRF-00066,19,Rain,Highway,97,13.1,74,690,No,Good,Incident
+TRF-00067,12,Clear,Residential,60,9.6,31,451,No,Fair,No Incident
+TRF-00068,14,Clear,Urban,35,2.5,89,385,No,Fair,No Incident
+TRF-00069,4,Rain,Urban,40,6.2,31,505,No,Fair,Incident
+TRF-00070,8,Clear,Highway,11,14.7,69,278,Yes,Poor,Incident
+TRF-00071,11,Rain,Urban,41,7.8,79,581,No,Good,No Incident
+TRF-00072,22,Fog,Residential,6,2.9,33,95,No,Good,Incident
+TRF-00073,19,Clear,Highway,85,2.2,61,274,No,Fair,Incident
+TRF-00074,13,Clear,Residential,67,9.7,97,446,No,Good,No Incident
+TRF-00075,14,Rain,Highway,95,13.1,20,772,No,Good,Incident
+TRF-00076,10,Clear,Urban,15,10.4,65,916,No,Good,No Incident
+TRF-00077,10,Rain,Highway,31,13.7,47,538,No,Good,No Incident
+TRF-00078,21,Clear,Residential,55,6.7,60,560,No,Poor,No Incident
+TRF-00079,0,Clear,Residential,51,3.6,62,501,No,Good,No Incident
+TRF-00080,7,Clear,Highway,99,7.0,69,123,No,Good,No Incident
+TRF-00081,9,Rain,Residential,8,9.2,33,801,No,Good,No Incident
+TRF-00082,16,Rain,Residential,78,6.9,84,825,Yes,Poor,Incident
+TRF-00083,9,Rain,Industrial,54,14.2,20,233,No,Fair,Incident
+TRF-00084,7,Fog,Urban,74,6.6,61,325,No,Good,No Incident
+TRF-00085,1,Storm,Urban,29,4.6,35,397,No,Fair,Incident
+TRF-00086,6,Clear,Highway,99,4.1,28,997,No,Fair,No Incident
+TRF-00087,2,Rain,Highway,90,12.8,96,394,No,Fair,Incident
+TRF-00088,16,Clear,Highway,21,9.1,95,578,No,Good,No Incident
+TRF-00089,10,Clear,Highway,41,9.3,92,101,Yes,Good,No Incident
+TRF-00090,5,Fog,Urban,31,5.8,32,680,No,Good,No Incident
+TRF-00091,12,Clear,Residential,11,9.2,60,659,Yes,Fair,No Incident
+TRF-00092,11,Clear,Residential,72,5.0,57,143,No,Good,No Incident
+TRF-00093,11,Clear,Urban,36,1.1,97,135,No,Good,No Incident
+TRF-00094,13,Rain,Urban,87,12.3,48,491,Yes,Fair,No Incident
+TRF-00095,15,Fog,Residential,37,10.3,100,326,No,Good,Incident
+TRF-00096,4,Rain,Highway,60,7.1,67,373,No,Good,No Incident
+TRF-00097,3,Rain,Urban,4,5.8,34,133,Yes,Fair,No Incident
+TRF-00098,17,Clear,Urban,37,7.6,32,353,No,Good,No Incident
+TRF-00099,23,Clear,Industrial,89,14.2,48,68,No,Fair,No Incident
+TRF-00100,13,Clear,Urban,45,3.8,82,814,No,Fair,Incident
+TRF-00101,10,Rain,Residential,25,11.4,60,469,Yes,Fair,No Incident
+TRF-00102,14,Clear,Industrial,69,10.8,77,891,No,Good,No Incident
+TRF-00103,0,Clear,Urban,50,11.2,82,472,No,Good,No Incident
+TRF-00104,8,Storm,Highway,95,6.3,28,136,Yes,Good,Incident
+TRF-00105,8,Clear,Residential,33,2.2,21,69,No,Good,No Incident
+TRF-00106,10,Rain,Urban,11,11.1,26,858,No,Poor,Incident
+TRF-00107,17,Clear,Urban,86,10.5,82,910,No,Fair,Incident
+TRF-00108,11,Fog,Urban,96,14.2,28,552,Yes,Good,Incident
+TRF-00109,20,Clear,Residential,28,12.9,56,796,No,Poor,No Incident
+TRF-00110,11,Rain,Residential,12,10.7,71,631,No,Fair,No Incident
+TRF-00111,0,Storm,Residential,47,6.6,54,505,No,Good,No Incident
+TRF-00112,16,Rain,Urban,18,10.2,89,691,No,Good,No Incident
+TRF-00113,19,Clear,Highway,53,7.7,78,825,No,Good,Incident
+TRF-00114,13,Storm,Residential,45,7.8,69,772,No,Fair,Incident
+TRF-00115,22,Fog,Highway,46,7.1,24,691,Yes,Poor,Incident
+TRF-00116,9,Rain,Urban,15,9.8,97,480,No,Fair,No Incident
+TRF-00117,19,Clear,Urban,87,6.5,82,430,No,Good,Incident
+TRF-00118,0,Rain,Highway,56,2.2,76,70,No,Good,No Incident
+TRF-00119,0,Fog,Highway,82,7.5,25,159,No,Good,Incident
+TRF-00120,19,Rain,Urban,43,4.9,47,315,Yes,Poor,No Incident
+TRF-00121,20,Clear,Residential,58,6.9,24,254,Yes,Poor,No Incident
+TRF-00122,12,Storm,Urban,28,6.4,56,114,Yes,Fair,No Incident
+TRF-00123,18,Clear,Residential,98,11.7,53,858,No,Fair,Incident
+TRF-00124,7,Clear,Highway,87,14.7,86,104,No,Fair,Incident
+TRF-00125,17,Storm,Highway,96,3.8,72,850,No,Fair,Incident
+TRF-00126,11,Rain,Highway,40,4.7,85,568,No,Good,No Incident
+TRF-00127,7,Clear,Highway,77,2.0,87,261,No,Good,Incident
+TRF-00128,2,Rain,Urban,80,12.4,80,735,No,Good,Incident
+TRF-00129,4,Storm,Urban,90,6.7,49,597,No,Good,Incident
+TRF-00130,21,Storm,Industrial,26,2.0,69,103,Yes,Good,Incident
+TRF-00131,10,Clear,Highway,27,13.4,35,537,No,Fair,No Incident
+TRF-00132,23,Clear,Highway,77,7.9,75,609,Yes,Good,No Incident
+TRF-00133,8,Clear,Residential,9,13.9,91,928,Yes,Good,Incident
+TRF-00134,1,Clear,Highway,6,3.8,33,751,Yes,Fair,Incident
+TRF-00135,6,Clear,Highway,82,7.5,20,182,Yes,Good,No Incident
+TRF-00136,8,Clear,Highway,65,4.1,30,335,No,Good,Incident
+TRF-00137,16,Rain,Residential,98,9.1,92,551,No,Good,Incident
+TRF-00138,17,Clear,Urban,72,14.2,43,983,No,Good,Incident
+TRF-00139,17,Clear,Highway,42,11.3,91,767,No,Good,Incident
+TRF-00140,7,Fog,Residential,39,6.0,29,99,No,Poor,Incident
+TRF-00141,9,Clear,Residential,60,8.7,77,124,No,Fair,No Incident
+TRF-00142,13,Clear,Urban,84,3.4,76,624,Yes,Fair,Incident
+TRF-00143,14,Rain,Highway,69,7.5,72,479,No,Fair,No Incident
+TRF-00144,9,Clear,Urban,63,8.9,61,439,No,Good,No Incident
+TRF-00145,4,Clear,Residential,85,14.1,70,823,No,Good,No Incident
+TRF-00146,18,Rain,Residential,31,11.7,68,749,No,Fair,No Incident
+TRF-00147,12,Clear,Urban,98,12.1,77,939,No,Poor,Incident
+TRF-00148,23,Rain,Highway,79,7.8,55,637,Yes,Poor,Incident
+TRF-00149,22,Clear,Urban,14,7.1,69,747,No,Poor,No Incident
+TRF-00150,21,Storm,Residential,36,5.7,53,995,No,Fair,No Incident
+TRF-00151,23,Clear,Residential,36,1.7,68,587,No,Poor,No Incident
+TRF-00152,14,Storm,Residential,32,5.1,53,938,No,Fair,Incident
+TRF-00153,7,Rain,Urban,23,3.8,77,332,No,Good,Incident
+TRF-00154,3,Storm,Residential,39,8.4,99,64,No,Fair,Incident
+TRF-00155,2,Clear,Residential,38,10.4,58,816,No,Good,No Incident
+TRF-00156,22,Clear,Industrial,78,12.3,61,701,No,Good,No Incident
+TRF-00157,6,Clear,Highway,42,7.7,94,256,No,Fair,No Incident
+TRF-00158,0,Storm,Urban,74,14.3,63,556,Yes,Poor,Incident
+TRF-00159,0,Clear,Urban,27,7.3,65,498,No,Good,No Incident
+TRF-00160,7,Clear,Residential,56,10.9,22,657,No,Fair,No Incident
+TRF-00161,23,Clear,Urban,57,2.3,99,603,No,Fair,No Incident
+TRF-00162,6,Fog,Highway,97,4.0,75,494,No,Fair,No Incident
+TRF-00163,2,Clear,Residential,47,8.9,89,363,No,Fair,Incident
+TRF-00164,16,Clear,Urban,65,3.7,67,946,Yes,Fair,No Incident
+TRF-00165,1,Clear,Highway,40,11.9,67,516,No,Good,No Incident
+TRF-00166,11,Rain,Highway,42,7.0,26,935,Yes,Fair,No Incident
+TRF-00167,2,Clear,Urban,44,2.9,57,177,No,Good,No Incident
+TRF-00168,2,Clear,Urban,82,11.8,91,707,No,Fair,Incident
+TRF-00169,8,Clear,Residential,65,12.4,32,296,Yes,Fair,No Incident
+TRF-00170,0,Clear,Highway,63,2.0,42,196,No,Fair,No Incident
+TRF-00171,20,Clear,Urban,8,4.9,71,668,Yes,Fair,No Incident
+TRF-00172,14,Rain,Urban,80,11.0,76,775,No,Good,Incident
+TRF-00173,22,Fog,Urban,48,12.2,91,621,No,Good,No Incident
+TRF-00174,11,Clear,Urban,68,3.0,68,297,No,Fair,No Incident
+TRF-00175,13,Rain,Urban,48,14.2,22,782,No,Poor,No Incident
+TRF-00176,14,Clear,Residential,90,13.9,99,625,Yes,Good,Incident
+TRF-00177,11,Clear,Highway,63,4.5,90,351,No,Good,No Incident
+TRF-00178,13,Rain,Urban,95,10.7,87,818,No,Poor,Incident
+TRF-00179,13,Clear,Industrial,37,12.0,78,803,No,Poor,Incident
+TRF-00180,21,Clear,Urban,98,3.6,90,567,No,Good,No Incident
+TRF-00181,7,Fog,Highway,47,11.1,99,483,No,Fair,No Incident
+TRF-00182,22,Clear,Urban,78,14.1,34,371,No,Poor,No Incident
+TRF-00183,4,Storm,Urban,35,9.1,46,313,Yes,Fair,Incident
+TRF-00184,4,Clear,Residential,89,11.1,79,441,Yes,Fair,Incident
+TRF-00185,6,Clear,Highway,79,5.2,53,336,Yes,Good,No Incident
+TRF-00186,22,Clear,Residential,30,11.3,93,95,No,Fair,No Incident
+TRF-00187,5,Fog,Highway,6,1.2,22,596,No,Fair,Incident
+TRF-00188,18,Rain,Urban,82,2.9,99,334,No,Good,Incident
+TRF-00189,13,Clear,Urban,35,4.0,34,753,No,Fair,No Incident
+TRF-00190,15,Clear,Residential,94,7.4,82,116,Yes,Poor,Incident
+TRF-00191,1,Clear,Urban,72,10.3,80,409,Yes,Good,No Incident
+TRF-00192,15,Clear,Urban,44,2.5,35,305,Yes,Good,No Incident
+TRF-00193,1,Clear,Residential,61,7.7,52,431,Yes,Good,No Incident
+TRF-00194,13,Clear,Residential,17,9.9,61,983,Yes,Good,No Incident
+TRF-00195,18,Rain,Urban,57,7.5,65,358,No,Fair,No Incident
+TRF-00196,22,Clear,Residential,25,9.8,24,144,No,Good,No Incident
+TRF-00197,23,Storm,Residential,18,12.2,95,995,No,Good,Incident
+TRF-00198,5,Clear,Residential,47,2.9,68,998,No,Good,Incident
+TRF-00199,18,Clear,Urban,27,13.3,96,79,No,Fair,No Incident
+TRF-00200,14,Rain,Industrial,12,12.6,25,620,No,Poor,No Incident
+TRF-00201,17,Clear,Residential,52,3.9,51,569,No,Good,No Incident
+TRF-00202,19,Clear,Highway,76,7.8,52,724,No,Fair,Incident
+TRF-00203,11,Clear,Residential,50,9.1,40,457,No,Fair,No Incident
+TRF-00204,3,Clear,Residential,25,10.0,69,250,No,Good,No Incident
+TRF-00205,18,Fog,Residential,55,7.2,80,770,No,Fair,Incident
+TRF-00206,14,Clear,Highway,9,4.8,82,338,No,Good,No Incident
+TRF-00207,3,Rain,Highway,55,14.4,70,651,No,Good,No Incident
+TRF-00208,9,Clear,Residential,47,5.2,23,368,No,Good,No Incident
+TRF-00209,3,Rain,Urban,59,4.7,71,73,Yes,Good,No Incident
+TRF-00210,18,Fog,Urban,37,8.1,27,557,Yes,Fair,Incident
+TRF-00211,8,Clear,Industrial,25,9.9,59,691,No,Fair,No Incident
+TRF-00212,1,Clear,Urban,6,11.7,29,550,No,Fair,No Incident
+TRF-00213,6,Clear,Highway,17,11.1,22,573,No,Poor,No Incident
+TRF-00214,14,Clear,Highway,46,6.4,31,611,No,Good,No Incident
+TRF-00215,14,Rain,Industrial,59,4.0,90,728,No,Good,Incident
+TRF-00216,20,Storm,Highway,22,3.0,20,891,No,Poor,Incident
+TRF-00217,8,Fog,Residential,46,8.8,48,479,No,Fair,Incident
+TRF-00218,15,Clear,Urban,12,1.9,53,121,No,Good,No Incident
+TRF-00219,22,Clear,Residential,40,13.0,37,528,No,Fair,No Incident
+TRF-00220,7,Clear,Urban,10,12.8,50,826,No,Fair,No Incident
+TRF-00221,0,Fog,Urban,24,13.6,20,734,No,Poor,No Incident
+TRF-00222,15,Rain,Highway,65,11.0,24,826,No,Fair,No Incident
+TRF-00223,14,Rain,Urban,71,7.5,21,782,Yes,Poor,No Incident
+TRF-00224,8,Clear,Residential,80,8.9,84,930,No,Fair,Incident
+TRF-00225,13,Clear,Urban,50,4.0,39,688,Yes,Good,No Incident
+TRF-00226,16,Rain,Highway,14,5.2,80,159,Yes,Good,Incident
+TRF-00227,19,Clear,Residential,86,5.7,29,189,No,Poor,Incident
+TRF-00228,3,Clear,Highway,71,8.3,63,101,Yes,Good,Incident
+TRF-00229,11,Clear,Residential,25,12.4,71,827,Yes,Fair,No Incident
+TRF-00230,6,Rain,Urban,66,14.1,27,104,No,Fair,No Incident
+TRF-00231,8,Clear,Urban,2,11.7,62,435,No,Good,No Incident
+TRF-00232,0,Clear,Highway,56,11.7,93,241,No,Poor,Incident
+TRF-00233,10,Clear,Urban,2,13.6,82,335,No,Fair,No Incident
+TRF-00234,2,Rain,Highway,55,5.8,43,702,No,Fair,No Incident
+TRF-00235,22,Clear,Highway,46,8.4,54,514,No,Good,No Incident
+TRF-00236,13,Rain,Urban,71,13.9,59,328,No,Good,No Incident
+TRF-00237,10,Clear,Highway,10,13.0,86,634,No,Good,No Incident
+TRF-00238,5,Clear,Urban,22,6.3,72,280,Yes,Good,No Incident
+TRF-00239,22,Clear,Highway,64,12.4,86,658,No,Good,No Incident
+TRF-00240,12,Clear,Residential,29,5.6,51,914,No,Good,No Incident
+TRF-00241,23,Storm,Highway,11,7.3,67,310,No,Fair,Incident
+TRF-00242,15,Rain,Residential,50,14.8,53,207,No,Good,No Incident
+TRF-00243,23,Rain,Urban,100,13.9,86,165,Yes,Fair,Incident
+TRF-00244,21,Fog,Urban,72,14.9,68,601,No,Good,No Incident
+TRF-00245,17,Clear,Residential,42,9.6,94,537,Yes,Poor,No Incident
+TRF-00246,8,Rain,Highway,24,3.8,31,178,No,Fair,Incident
+TRF-00247,18,Rain,Urban,11,6.8,67,338,No,Good,No Incident
+TRF-00248,7,Rain,Highway,21,13.0,60,550,Yes,Fair,No Incident
+TRF-00249,20,Fog,Urban,24,4.2,75,321,No,Good,No Incident
+TRF-00250,7,Clear,Residential,51,3.4,52,878,No,Good,No Incident
+TRF-00251,1,Clear,Residential,14,10.5,21,143,No,Good,No Incident
+TRF-00252,2,Storm,Highway,40,4.5,45,563,No,Good,No Incident
+TRF-00253,10,Clear,Urban,2,1.4,52,637,Yes,Fair,No Incident
+TRF-00254,15,Storm,Residential,97,2.6,35,751,No,Good,Incident
+TRF-00255,6,Clear,Urban,60,14.5,82,321,No,Poor,Incident
+TRF-00256,19,Clear,Residential,48,6.2,49,360,No,Good,No Incident
+TRF-00257,6,Fog,Highway,31,5.6,34,609,Yes,Good,No Incident
+TRF-00258,11,Clear,Urban,74,9.3,62,699,Yes,Fair,No Incident
+TRF-00259,8,Clear,Highway,41,9.6,74,918,No,Fair,No Incident
+TRF-00260,13,Clear,Urban,10,15.0,61,570,No,Good,No Incident
+TRF-00261,4,Clear,Urban,6,5.5,29,107,No,Good,No Incident
+TRF-00262,23,Fog,Urban,29,9.4,50,659,No,Fair,No Incident
+TRF-00263,22,Fog,Urban,17,5.2,42,658,No,Fair,No Incident
+TRF-00264,16,Clear,Industrial,100,14.8,31,410,Yes,Poor,Incident
+TRF-00265,12,Clear,Industrial,34,8.8,46,832,No,Good,No Incident
+TRF-00266,17,Fog,Urban,80,5.1,83,362,No,Fair,Incident
+TRF-00267,11,Clear,Highway,40,14.9,72,809,Yes,Good,No Incident
+TRF-00268,21,Clear,Urban,83,10.7,26,651,No,Good,No Incident
+TRF-00269,1,Clear,Residential,73,10.0,59,481,Yes,Fair,No Incident
+TRF-00270,5,Storm,Residential,14,8.8,83,469,No,Fair,Incident
+TRF-00271,10,Clear,Urban,34,12.5,68,610,Yes,Good,No Incident
+TRF-00272,15,Clear,Urban,81,14.4,56,630,No,Fair,No Incident
+TRF-00273,16,Clear,Industrial,95,10.0,85,104,No,Fair,Incident
+TRF-00274,17,Clear,Highway,43,14.9,48,243,No,Fair,No Incident
+TRF-00275,22,Rain,Residential,30,14.4,87,580,No,Good,No Incident
+TRF-00276,20,Clear,Urban,5,3.4,99,346,Yes,Good,No Incident
+TRF-00277,21,Rain,Urban,46,11.7,87,93,No,Good,No Incident
+TRF-00278,8,Storm,Industrial,39,13.7,97,311,No,Good,No Incident
+TRF-00279,16,Rain,Residential,97,2.6,60,250,Yes,Good,Incident
+TRF-00280,16,Clear,Highway,69,3.7,31,132,No,Good,No Incident
+TRF-00281,14,Clear,Industrial,41,3.4,94,88,No,Good,Incident
+TRF-00282,14,Clear,Urban,44,8.4,84,751,No,Poor,No Incident
+TRF-00283,12,Clear,Highway,30,2.1,21,234,Yes,Fair,No Incident
+TRF-00284,9,Clear,Highway,56,3.6,55,135,No,Good,Incident
+TRF-00285,3,Clear,Urban,82,4.7,65,321,No,Good,No Incident
+TRF-00286,2,Rain,Highway,95,11.5,94,235,Yes,Fair,Incident
+TRF-00287,0,Rain,Highway,40,4.0,52,557,No,Fair,No Incident
+TRF-00288,8,Rain,Residential,10,14.0,79,634,No,Good,No Incident
+TRF-00289,8,Clear,Highway,91,2.5,48,65,No,Poor,Incident
+TRF-00290,23,Clear,Residential,54,9.9,59,833,Yes,Good,No Incident
+TRF-00291,5,Rain,Urban,11,7.8,94,916,Yes,Good,No Incident
+TRF-00292,5,Clear,Highway,20,3.0,59,255,No,Good,No Incident
+TRF-00293,1,Clear,Residential,14,5.6,38,728,No,Good,No Incident
+TRF-00294,2,Fog,Highway,74,10.7,69,722,Yes,Poor,Incident
+TRF-00295,15,Storm,Highway,34,9.1,50,470,No,Good,No Incident
+TRF-00296,8,Rain,Industrial,38,4.6,32,740,No,Fair,No Incident
+TRF-00297,14,Fog,Urban,61,7.9,33,455,No,Fair,No Incident
+TRF-00298,2,Rain,Residential,84,3.0,26,568,Yes,Good,Incident
+TRF-00299,18,Clear,Residential,78,3.2,90,178,No,Good,Incident
+TRF-00300,6,Fog,Residential,56,5.4,85,436,No,Good,No Incident
+TRF-00301,1,Rain,Urban,50,4.6,96,179,No,Good,No Incident
+TRF-00302,21,Clear,Highway,58,5.8,78,981,Yes,Good,No Incident
+TRF-00303,8,Storm,Urban,80,11.5,58,684,No,Poor,Incident
+TRF-00304,7,Storm,Urban,95,1.3,83,623,No,Good,Incident
+TRF-00305,1,Clear,Residential,40,10.1,47,138,Yes,Poor,No Incident
+TRF-00306,14,Clear,Urban,75,2.5,78,429,No,Poor,Incident
+TRF-00307,6,Clear,Urban,10,14.8,52,874,Yes,Fair,No Incident
+TRF-00308,5,Clear,Industrial,21,2.4,92,235,No,Good,Incident
+TRF-00309,16,Clear,Urban,43,9.1,60,603,No,Good,No Incident
+TRF-00310,16,Clear,Highway,89,11.6,90,447,No,Good,Incident
+TRF-00311,3,Storm,Industrial,24,2.0,67,599,Yes,Good,No Incident
+TRF-00312,3,Rain,Residential,28,5.7,41,874,No,Fair,No Incident
+TRF-00313,5,Storm,Urban,8,8.6,74,240,No,Good,No Incident
+TRF-00314,18,Rain,Highway,49,12.7,60,182,Yes,Fair,No Incident
+TRF-00315,6,Clear,Residential,49,7.1,64,279,No,Good,No Incident
+TRF-00316,10,Fog,Urban,25,4.3,94,654,No,Poor,Incident
+TRF-00317,3,Clear,Urban,15,10.9,49,891,No,Fair,No Incident
+TRF-00318,4,Storm,Urban,35,1.4,59,647,Yes,Good,Incident
+TRF-00319,15,Clear,Urban,60,11.1,60,828,No,Fair,No Incident
+TRF-00320,18,Clear,Urban,19,3.2,87,968,No,Poor,Incident
+TRF-00321,20,Rain,Urban,93,7.7,82,627,No,Fair,Incident
+TRF-00322,13,Clear,Urban,68,6.4,59,661,No,Good,No Incident
+TRF-00323,6,Clear,Residential,97,5.6,53,874,No,Fair,Incident
+TRF-00324,10,Clear,Residential,100,9.1,29,256,No,Fair,No Incident
+TRF-00325,3,Clear,Highway,27,7.7,40,889,Yes,Poor,No Incident
+TRF-00326,5,Rain,Highway,79,13.1,75,353,Yes,Good,No Incident
+TRF-00327,11,Rain,Industrial,88,10.4,50,621,No,Good,No Incident
+TRF-00328,18,Clear,Highway,24,7.2,59,441,No,Good,No Incident
+TRF-00329,6,Clear,Residential,52,1.9,60,567,No,Good,No Incident
+TRF-00330,8,Clear,Urban,60,1.3,72,750,No,Good,Incident
+TRF-00331,0,Clear,Industrial,49,2.5,93,102,No,Fair,Incident
+TRF-00332,1,Rain,Urban,51,12.8,70,865,No,Good,No Incident
+TRF-00333,13,Clear,Highway,7,4.8,60,195,No,Fair,No Incident
+TRF-00334,23,Clear,Urban,21,8.6,25,459,No,Good,No Incident
+TRF-00335,13,Clear,Residential,40,8.2,56,412,Yes,Fair,No Incident
+TRF-00336,0,Clear,Highway,71,6.3,37,791,No,Good,No Incident
+TRF-00337,13,Clear,Urban,43,8.8,36,686,No,Good,No Incident
+TRF-00338,2,Clear,Urban,90,12.5,68,595,Yes,Fair,No Incident
+TRF-00339,16,Rain,Residential,95,9.8,84,673,Yes,Good,Incident
+TRF-00340,11,Clear,Urban,8,10.3,52,263,Yes,Poor,No Incident
+TRF-00341,8,Clear,Highway,34,14.3,52,764,No,Fair,Incident
+TRF-00342,4,Clear,Residential,76,9.2,42,866,No,Fair,No Incident
+TRF-00343,4,Rain,Industrial,85,5.3,75,951,No,Good,No Incident
+TRF-00344,8,Clear,Residential,41,1.2,100,519,No,Good,No Incident
+TRF-00345,10,Rain,Highway,21,4.8,97,794,Yes,Poor,Incident
+TRF-00346,13,Fog,Urban,33,8.8,28,195,No,Fair,No Incident
+TRF-00347,16,Clear,Residential,4,13.4,83,437,Yes,Poor,No Incident
+TRF-00348,22,Clear,Residential,100,2.2,70,321,Yes,Fair,Incident
+TRF-00349,0,Rain,Residential,21,3.1,22,226,No,Good,No Incident
+TRF-00350,22,Rain,Urban,31,6.6,72,505,Yes,Good,No Incident
+TRF-00351,13,Rain,Industrial,98,5.3,37,239,Yes,Fair,Incident
+TRF-00352,1,Clear,Highway,53,6.0,100,833,Yes,Fair,No Incident
+TRF-00353,20,Rain,Urban,59,7.1,50,729,No,Good,No Incident
+TRF-00354,20,Clear,Industrial,63,10.4,47,350,No,Poor,No Incident
+TRF-00355,6,Clear,Residential,61,3.9,91,511,Yes,Poor,Incident
+TRF-00356,4,Rain,Urban,83,11.3,73,954,Yes,Fair,No Incident
+TRF-00357,7,Clear,Urban,39,8.6,44,679,No,Fair,No Incident
+TRF-00358,19,Fog,Urban,37,1.8,97,496,Yes,Poor,Incident
+TRF-00359,22,Clear,Urban,50,13.5,49,137,No,Good,No Incident
+TRF-00360,7,Clear,Highway,80,6.3,23,253,No,Good,Incident
+TRF-00361,11,Clear,Urban,5,11.5,87,303,No,Fair,No Incident
+TRF-00362,17,Clear,Residential,23,10.3,58,802,No,Fair,No Incident
+TRF-00363,4,Clear,Residential,13,4.9,87,51,No,Good,No Incident
+TRF-00364,17,Clear,Highway,97,10.7,54,699,Yes,Good,No Incident
+TRF-00365,5,Storm,Urban,35,1.9,84,378,Yes,Fair,Incident
+TRF-00366,20,Fog,Urban,52,4.0,47,888,Yes,Poor,Incident
+TRF-00367,3,Fog,Residential,43,13.6,64,339,No,Poor,Incident
+TRF-00368,23,Clear,Urban,16,2.4,36,701,Yes,Fair,No Incident
+TRF-00369,17,Clear,Residential,17,10.9,78,118,Yes,Good,Incident
+TRF-00370,6,Rain,Urban,100,12.9,41,350,No,Good,No Incident
+TRF-00371,19,Storm,Urban,98,7.4,55,377,No,Fair,Incident
+TRF-00372,15,Rain,Highway,80,1.7,34,728,No,Fair,Incident
+TRF-00373,11,Clear,Residential,35,13.0,73,774,Yes,Fair,No Incident
+TRF-00374,17,Fog,Urban,61,11.1,88,853,No,Poor,Incident
+TRF-00375,16,Clear,Highway,7,8.7,62,270,Yes,Poor,Incident
+TRF-00376,1,Clear,Highway,69,3.3,36,645,No,Poor,Incident
+TRF-00377,5,Clear,Residential,16,11.4,57,660,No,Good,No Incident
+TRF-00378,15,Fog,Urban,75,11.8,63,705,Yes,Poor,No Incident
+TRF-00379,9,Clear,Industrial,95,4.2,30,710,No,Poor,Incident
+TRF-00380,7,Rain,Highway,9,2.2,79,222,Yes,Good,Incident
+TRF-00381,13,Clear,Residential,7,12.0,74,644,No,Good,No Incident
+TRF-00382,3,Clear,Urban,86,13.6,27,557,No,Fair,No Incident
+TRF-00383,23,Rain,Residential,87,8.1,47,971,No,Fair,Incident
+TRF-00384,13,Clear,Highway,5,3.0,35,957,No,Fair,No Incident
+TRF-00385,0,Clear,Residential,27,10.0,29,695,No,Good,No Incident
+TRF-00386,11,Rain,Urban,5,7.7,62,475,No,Fair,No Incident
+TRF-00387,17,Rain,Urban,88,8.1,67,910,Yes,Good,Incident
+TRF-00388,13,Clear,Residential,1,6.7,54,310,No,Good,No Incident
+TRF-00389,12,Clear,Urban,33,1.9,71,54,Yes,Fair,No Incident
+TRF-00390,15,Fog,Industrial,99,6.4,21,942,No,Fair,Incident
+TRF-00391,0,Rain,Urban,86,5.3,66,900,Yes,Fair,No Incident
+TRF-00392,11,Clear,Highway,13,11.9,56,599,No,Good,No Incident
+TRF-00393,9,Rain,Residential,47,14.0,82,815,Yes,Fair,Incident
+TRF-00394,21,Clear,Urban,26,6.2,31,593,Yes,Fair,No Incident
+TRF-00395,14,Rain,Urban,1,11.0,88,290,No,Good,No Incident
+TRF-00396,4,Fog,Highway,44,4.4,28,684,Yes,Fair,No Incident
+TRF-00397,20,Clear,Residential,59,2.8,89,564,No,Good,Incident
+TRF-00398,6,Clear,Urban,54,1.5,40,942,No,Fair,No Incident
+TRF-00399,23,Rain,Urban,22,8.3,80,538,No,Poor,Incident
+TRF-00400,8,Storm,Residential,78,13.0,94,484,No,Good,Incident
+TRF-00401,20,Rain,Industrial,92,5.3,47,348,Yes,Poor,Incident
+TRF-00402,18,Rain,Highway,70,12.0,54,797,Yes,Fair,No Incident
+TRF-00403,17,Storm,Highway,39,10.8,31,901,Yes,Fair,Incident
+TRF-00404,15,Clear,Residential,79,9.7,70,857,No,Fair,No Incident
+TRF-00405,0,Rain,Urban,99,9.5,55,728,No,Fair,No Incident
+TRF-00406,4,Rain,Residential,92,4.3,71,969,No,Good,No Incident
+TRF-00407,20,Clear,Urban,1,13.3,46,448,No,Fair,No Incident
+TRF-00408,17,Rain,Urban,18,9.7,86,765,No,Good,Incident
+TRF-00409,11,Clear,Residential,44,15.0,90,375,Yes,Good,No Incident
+TRF-00410,18,Clear,Residential,88,10.1,40,471,No,Fair,No Incident
+TRF-00411,15,Clear,Residential,36,3.1,88,301,Yes,Poor,Incident
+TRF-00412,18,Clear,Urban,46,10.0,46,712,Yes,Good,No Incident
+TRF-00413,12,Rain,Urban,15,3.3,30,626,No,Fair,No Incident
+TRF-00414,1,Fog,Urban,58,7.0,88,275,No,Fair,No Incident
+TRF-00415,9,Clear,Residential,69,7.2,55,902,No,Fair,No Incident
+TRF-00416,5,Fog,Residential,6,3.5,76,532,No,Good,Incident
+TRF-00417,20,Clear,Highway,57,12.8,69,314,Yes,Good,No Incident
+TRF-00418,21,Clear,Residential,42,2.9,72,769,No,Fair,No Incident
+TRF-00419,4,Clear,Urban,77,11.5,79,524,Yes,Fair,Incident
+TRF-00420,21,Clear,Urban,85,8.3,65,349,No,Good,No Incident
+TRF-00421,7,Fog,Urban,41,11.0,26,846,Yes,Good,No Incident
+TRF-00422,4,Rain,Industrial,40,7.8,77,166,No,Good,No Incident
+TRF-00423,6,Clear,Urban,47,3.1,82,331,No,Fair,No Incident
+TRF-00424,13,Clear,Urban,48,9.6,83,906,No,Poor,No Incident
+TRF-00425,5,Rain,Urban,96,9.3,100,265,No,Good,No Incident
+TRF-00426,6,Clear,Urban,98,6.3,84,797,No,Good,Incident
+TRF-00427,16,Rain,Urban,70,4.3,77,456,No,Good,No Incident
+TRF-00428,9,Clear,Industrial,94,4.4,100,292,No,Good,Incident
+TRF-00429,16,Rain,Residential,24,2.0,23,346,No,Poor,Incident
+TRF-00430,0,Clear,Residential,7,6.7,94,654,No,Good,No Incident
+TRF-00431,2,Clear,Highway,74,13.5,43,836,No,Fair,No Incident
+TRF-00432,6,Clear,Urban,36,9.6,40,927,No,Good,No Incident
+TRF-00433,8,Rain,Highway,98,1.7,40,796,No,Fair,Incident
+TRF-00434,6,Rain,Residential,12,8.5,85,719,Yes,Fair,No Incident
+TRF-00435,9,Clear,Urban,29,14.9,54,956,No,Fair,No Incident
+TRF-00436,22,Clear,Highway,12,9.6,42,441,No,Good,No Incident
+TRF-00437,11,Clear,Urban,41,5.0,91,710,No,Fair,No Incident
+TRF-00438,14,Clear,Residential,14,2.9,23,623,No,Good,Incident
+TRF-00439,18,Rain,Highway,23,10.3,31,944,No,Poor,Incident
+TRF-00440,4,Rain,Urban,81,2.6,76,315,No,Good,Incident
+TRF-00441,3,Clear,Urban,61,2.7,72,129,No,Fair,No Incident
+TRF-00442,10,Clear,Highway,72,5.2,92,462,Yes,Fair,No Incident
+TRF-00443,14,Clear,Urban,85,5.0,57,790,No,Good,Incident
+TRF-00444,11,Rain,Urban,27,14.5,79,663,No,Good,No Incident
+TRF-00445,2,Clear,Industrial,45,10.3,57,127,No,Fair,No Incident
+TRF-00446,15,Rain,Residential,13,6.1,84,906,No,Good,No Incident
+TRF-00447,22,Clear,Urban,45,14.1,57,876,No,Fair,No Incident
+TRF-00448,12,Clear,Industrial,31,12.8,60,887,No,Good,No Incident
+TRF-00449,21,Fog,Urban,18,14.6,64,793,Yes,Fair,Incident
+TRF-00450,10,Rain,Urban,41,11.5,63,756,No,Good,No Incident
+TRF-00451,9,Clear,Residential,40,2.4,36,858,Yes,Good,No Incident
+TRF-00452,7,Fog,Industrial,31,8.6,33,707,No,Fair,No Incident
+TRF-00453,12,Fog,Urban,100,6.6,50,266,Yes,Fair,Incident
+TRF-00454,13,Rain,Highway,24,11.6,99,451,Yes,Poor,Incident
+TRF-00455,2,Clear,Urban,78,1.2,31,296,No,Fair,Incident
+TRF-00456,23,Clear,Highway,98,11.2,98,375,No,Good,No Incident
+TRF-00457,3,Clear,Industrial,23,13.5,39,770,Yes,Fair,No Incident
+TRF-00458,13,Rain,Urban,20,13.8,97,932,No,Good,Incident
+TRF-00459,7,Clear,Urban,25,5.8,48,377,No,Poor,No Incident
+TRF-00460,21,Rain,Urban,10,4.1,41,50,No,Good,No Incident
+TRF-00461,15,Storm,Urban,87,12.2,30,306,No,Fair,Incident
+TRF-00462,0,Rain,Industrial,72,11.9,57,310,No,Poor,No Incident
+TRF-00463,0,Clear,Residential,14,7.6,72,515,No,Fair,No Incident
+TRF-00464,4,Clear,Urban,13,11.5,30,418,No,Fair,No Incident
+TRF-00465,19,Clear,Industrial,3,10.9,38,228,No,Fair,No Incident
+TRF-00466,20,Rain,Urban,14,1.8,35,503,No,Good,No Incident
+TRF-00467,13,Clear,Residential,64,13.5,94,193,Yes,Good,No Incident
+TRF-00468,13,Clear,Urban,19,5.6,63,332,Yes,Good,No Incident
+TRF-00469,15,Clear,Urban,80,1.3,43,398,No,Good,Incident
+TRF-00470,11,Rain,Urban,59,11.0,61,726,No,Fair,No Incident
+TRF-00471,12,Rain,Highway,83,13.2,37,431,No,Good,No Incident
+TRF-00472,8,Rain,Highway,11,11.3,23,318,No,Poor,Incident
+TRF-00473,11,Clear,Urban,57,14.8,35,865,No,Fair,No Incident
+TRF-00474,7,Rain,Highway,54,11.5,73,882,No,Good,No Incident
+TRF-00475,17,Storm,Residential,96,6.5,61,732,No,Good,Incident
+TRF-00476,16,Fog,Residential,48,8.3,64,991,No,Poor,Incident
+TRF-00477,17,Storm,Urban,20,1.7,21,401,No,Good,Incident
+TRF-00478,8,Fog,Residential,44,12.5,79,754,Yes,Good,Incident
+TRF-00479,9,Rain,Residential,69,6.8,98,892,No,Good,No Incident
+TRF-00480,10,Clear,Urban,1,7.0,54,275,No,Poor,No Incident
+TRF-00481,14,Storm,Industrial,97,10.0,25,811,Yes,Poor,Incident
+TRF-00482,18,Clear,Residential,45,6.2,32,853,No,Good,No Incident
+TRF-00483,0,Clear,Highway,44,9.3,54,375,Yes,Good,No Incident
+TRF-00484,22,Storm,Urban,72,13.2,64,359,Yes,Good,Incident
+TRF-00485,20,Storm,Industrial,57,5.1,44,997,No,Good,Incident
+TRF-00486,23,Clear,Residential,97,9.4,66,788,Yes,Good,Incident
+TRF-00487,6,Storm,Highway,18,4.4,61,243,No,Good,No Incident
+TRF-00488,11,Clear,Urban,9,9.6,58,478,Yes,Good,No Incident
+TRF-00489,13,Clear,Urban,49,13.9,68,661,Yes,Fair,No Incident
+TRF-00490,3,Clear,Urban,64,6.5,20,536,No,Good,No Incident
+TRF-00491,8,Rain,Residential,18,1.4,39,521,No,Good,Incident
+TRF-00492,0,Clear,Highway,62,4.2,26,336,No,Fair,No Incident
+TRF-00493,2,Rain,Residential,100,8.5,26,905,No,Good,No Incident
+TRF-00494,11,Clear,Urban,93,6.0,50,984,No,Good,Incident
+TRF-00495,7,Clear,Urban,98,8.5,27,58,Yes,Poor,Incident
+TRF-00496,1,Rain,Highway,64,10.0,20,78,No,Good,No Incident
+TRF-00497,20,Rain,Urban,34,3.0,29,600,No,Good,No Incident
+TRF-00498,2,Clear,Industrial,55,4.4,84,394,No,Good,No Incident
+TRF-00499,5,Clear,Residential,19,8.6,33,720,No,Fair,No Incident
+TRF-00500,5,Fog,Residential,31,3.0,100,704,No,Fair,Incident
+TRF-00501,12,Rain,Residential,90,11.1,53,681,No,Good,No Incident
+TRF-00502,23,Storm,Residential,43,8.2,95,984,Yes,Fair,No Incident
+TRF-00503,0,Clear,Highway,35,10.1,26,203,No,Good,No Incident
+TRF-00504,3,Storm,Residential,82,3.2,83,228,No,Good,Incident
+TRF-00505,7,Storm,Urban,80,14.1,55,889,Yes,Good,No Incident
+TRF-00506,2,Fog,Residential,19,14.7,88,974,Yes,Good,No Incident
+TRF-00507,0,Clear,Urban,67,10.2,99,269,Yes,Fair,No Incident
+TRF-00508,21,Rain,Highway,95,6.2,21,621,No,Fair,No Incident
+TRF-00509,5,Clear,Urban,78,11.0,31,906,Yes,Fair,No Incident
+TRF-00510,14,Fog,Highway,50,5.6,46,633,No,Fair,No Incident
+TRF-00511,21,Clear,Residential,75,10.2,57,137,No,Good,No Incident
+TRF-00512,17,Rain,Urban,38,6.9,57,740,Yes,Fair,Incident
+TRF-00513,1,Clear,Industrial,56,10.0,69,561,No,Good,No Incident
+TRF-00514,8,Clear,Highway,97,13.7,57,252,No,Fair,No Incident
+TRF-00515,1,Clear,Urban,78,4.6,65,976,No,Good,Incident
+TRF-00516,22,Clear,Highway,83,8.4,24,576,Yes,Good,No Incident
+TRF-00517,11,Clear,Highway,22,5.4,67,509,Yes,Fair,No Incident
+TRF-00518,23,Rain,Highway,9,13.6,88,314,Yes,Good,Incident
+TRF-00519,9,Rain,Highway,72,14.3,44,302,No,Good,No Incident
+TRF-00520,13,Fog,Highway,48,5.6,83,133,No,Good,No Incident
+TRF-00521,1,Fog,Urban,26,11.2,25,113,Yes,Good,No Incident
+TRF-00522,23,Clear,Urban,1,4.4,39,642,No,Good,No Incident
+TRF-00523,20,Rain,Highway,54,8.0,62,384,No,Good,No Incident
+TRF-00524,12,Clear,Highway,94,10.3,43,974,No,Good,No Incident
+TRF-00525,5,Rain,Highway,64,11.1,84,548,No,Poor,Incident
+TRF-00526,10,Clear,Residential,32,14.1,45,229,Yes,Good,No Incident
+TRF-00527,10,Clear,Urban,37,8.0,82,488,No,Good,No Incident
+TRF-00528,18,Fog,Residential,88,7.2,30,412,Yes,Fair,Incident
+TRF-00529,7,Rain,Urban,3,10.1,84,740,No,Fair,Incident
+TRF-00530,15,Clear,Residential,60,7.0,22,759,No,Fair,No Incident
+TRF-00531,19,Rain,Residential,14,14.0,83,874,No,Fair,Incident
+TRF-00532,4,Clear,Residential,49,12.3,61,206,No,Fair,No Incident
+TRF-00533,18,Rain,Urban,70,7.5,98,627,No,Good,No Incident
+TRF-00534,12,Rain,Urban,74,9.3,28,916,No,Poor,Incident
+TRF-00535,4,Clear,Highway,2,3.5,41,792,No,Good,Incident
+TRF-00536,0,Clear,Highway,13,9.6,73,423,Yes,Good,No Incident
+TRF-00537,21,Clear,Urban,53,14.0,70,726,No,Poor,No Incident
+TRF-00538,21,Rain,Residential,86,11.8,22,84,No,Good,No Incident
+TRF-00539,1,Clear,Highway,59,9.0,33,446,No,Fair,No Incident
+TRF-00540,13,Rain,Residential,36,14.2,46,110,No,Good,No Incident
+TRF-00541,2,Rain,Urban,25,9.8,83,184,Yes,Good,No Incident
+TRF-00542,1,Clear,Industrial,47,12.2,45,713,No,Fair,No Incident
+TRF-00543,1,Clear,Residential,28,14.0,41,900,No,Poor,No Incident
+TRF-00544,22,Clear,Highway,80,3.9,21,112,No,Fair,Incident
+TRF-00545,12,Clear,Residential,42,11.6,36,565,No,Fair,No Incident
+TRF-00546,23,Clear,Industrial,47,9.5,47,177,No,Poor,No Incident
+TRF-00547,18,Rain,Urban,26,13.5,26,434,Yes,Good,No Incident
+TRF-00548,17,Clear,Urban,74,13.3,66,503,No,Good,No Incident
+TRF-00549,2,Fog,Residential,91,13.5,57,284,No,Fair,Incident
+TRF-00550,10,Fog,Urban,97,1.0,71,51,Yes,Poor,Incident
+TRF-00551,13,Clear,Residential,32,3.3,61,458,Yes,Good,No Incident
+TRF-00552,14,Rain,Highway,54,11.6,75,889,No,Poor,No Incident
+TRF-00553,3,Rain,Industrial,83,2.2,87,364,No,Good,Incident
+TRF-00554,0,Clear,Highway,13,12.6,68,851,Yes,Good,No Incident
+TRF-00555,14,Clear,Urban,48,1.2,90,358,No,Fair,No Incident
+TRF-00556,2,Clear,Residential,29,7.8,70,830,No,Good,No Incident
+TRF-00557,22,Rain,Urban,89,12.3,80,780,No,Good,Incident
+TRF-00558,7,Clear,Industrial,76,13.3,91,765,Yes,Good,Incident
+TRF-00559,22,Clear,Urban,31,6.5,84,54,No,Fair,No Incident
+TRF-00560,9,Storm,Urban,66,14.8,76,903,Yes,Good,Incident
+TRF-00561,10,Rain,Residential,63,9.4,76,839,No,Poor,Incident
+TRF-00562,18,Clear,Residential,14,14.0,29,725,No,Poor,No Incident
+TRF-00563,21,Fog,Urban,46,6.2,98,163,No,Good,No Incident
+TRF-00564,4,Rain,Highway,42,6.6,79,745,No,Fair,Incident
+TRF-00565,10,Rain,Urban,10,5.2,60,781,No,Fair,No Incident
+TRF-00566,2,Clear,Urban,33,10.7,90,194,No,Good,No Incident
+TRF-00567,16,Storm,Residential,20,2.3,70,849,Yes,Poor,Incident
+TRF-00568,16,Rain,Industrial,37,6.9,43,686,No,Fair,No Incident
+TRF-00569,3,Clear,Urban,49,12.8,95,914,Yes,Poor,Incident
+TRF-00570,21,Clear,Industrial,40,4.9,52,369,No,Good,No Incident
+TRF-00571,23,Clear,Urban,77,6.8,35,230,Yes,Good,No Incident
+TRF-00572,21,Clear,Urban,92,6.7,49,356,No,Fair,No Incident
+TRF-00573,19,Clear,Urban,81,2.7,42,640,No,Good,Incident
+TRF-00574,17,Clear,Highway,27,4.4,82,953,Yes,Poor,Incident
+TRF-00575,6,Fog,Highway,59,14.7,44,312,Yes,Good,No Incident
+TRF-00576,23,Rain,Highway,36,6.1,41,961,Yes,Good,Incident
+TRF-00577,7,Clear,Highway,71,3.4,74,260,No,Good,Incident
+TRF-00578,12,Clear,Industrial,21,3.4,51,646,Yes,Fair,Incident
+TRF-00579,16,Storm,Highway,77,9.9,63,178,Yes,Fair,Incident
+TRF-00580,18,Clear,Residential,53,7.0,20,130,No,Good,No Incident
+TRF-00581,7,Clear,Residential,93,1.5,77,860,Yes,Good,Incident
+TRF-00582,10,Clear,Urban,94,10.4,23,193,No,Good,No Incident
+TRF-00583,11,Clear,Urban,49,9.8,96,63,No,Poor,No Incident
+TRF-00584,8,Clear,Residential,47,13.9,63,146,No,Fair,No Incident
+TRF-00585,7,Rain,Highway,42,5.6,78,730,Yes,Fair,Incident
+TRF-00586,21,Rain,Urban,6,10.6,20,477,No,Good,No Incident
+TRF-00587,5,Clear,Highway,49,1.7,61,997,Yes,Poor,Incident
+TRF-00588,10,Rain,Highway,64,8.7,75,281,Yes,Fair,No Incident
+TRF-00589,3,Clear,Urban,4,12.8,72,551,No,Good,No Incident
+TRF-00590,17,Rain,Urban,11,2.8,99,731,No,Fair,Incident
+TRF-00591,19,Storm,Residential,6,14.6,23,858,No,Good,Incident
+TRF-00592,11,Rain,Residential,29,8.1,32,186,No,Fair,No Incident
+TRF-00593,1,Rain,Urban,8,2.8,85,228,No,Good,Incident
+TRF-00594,2,Clear,Residential,3,8.8,28,791,No,Fair,No Incident
+TRF-00595,6,Clear,Residential,12,4.2,77,865,No,Fair,Incident
+TRF-00596,3,Storm,Residential,28,10.7,34,939,Yes,Good,Incident
+TRF-00597,5,Clear,Industrial,59,4.3,52,83,No,Fair,No Incident
+TRF-00598,12,Clear,Highway,8,14.5,79,186,No,Good,No Incident
+TRF-00599,14,Rain,Urban,26,11.8,72,745,No,Poor,No Incident
+TRF-00600,16,Clear,Urban,92,13.0,68,364,No,Fair,No Incident
+TRF-00601,22,Clear,Highway,44,8.8,78,58,Yes,Good,No Incident
+TRF-00602,17,Clear,Residential,43,13.8,45,822,No,Fair,Incident
+TRF-00603,11,Clear,Highway,1,2.8,78,825,No,Poor,Incident
+TRF-00604,8,Fog,Highway,76,4.1,42,353,No,Fair,Incident
+TRF-00605,20,Clear,Residential,85,4.9,49,296,No,Fair,No Incident
+TRF-00606,0,Rain,Industrial,44,10.6,50,801,Yes,Fair,No Incident
+TRF-00607,17,Rain,Residential,9,4.2,96,343,Yes,Fair,Incident
+TRF-00608,12,Clear,Residential,47,6.6,39,694,No,Fair,No Incident
+TRF-00609,11,Fog,Urban,28,9.9,75,913,Yes,Good,No Incident
+TRF-00610,4,Rain,Urban,63,2.3,21,692,No,Fair,Incident
+TRF-00611,6,Rain,Urban,45,5.4,55,863,Yes,Good,No Incident
+TRF-00612,7,Rain,Highway,52,9.2,21,454,No,Fair,No Incident
+TRF-00613,0,Rain,Highway,71,10.6,30,320,No,Fair,No Incident
+TRF-00614,13,Clear,Highway,5,2.9,77,482,Yes,Good,No Incident
+TRF-00615,13,Fog,Residential,61,10.7,80,974,Yes,Good,No Incident
+TRF-00616,9,Clear,Highway,65,7.8,22,555,Yes,Good,No Incident
+TRF-00617,21,Clear,Urban,15,12.1,63,370,Yes,Good,No Incident
+TRF-00618,11,Clear,Industrial,12,9.9,82,290,No,Fair,No Incident
+TRF-00619,1,Clear,Industrial,27,11.3,35,847,No,Poor,Incident
+TRF-00620,1,Storm,Highway,35,1.9,81,650,Yes,Fair,Incident
+TRF-00621,8,Clear,Residential,76,10.0,33,970,No,Good,No Incident
+TRF-00622,4,Clear,Residential,87,3.6,34,130,Yes,Poor,Incident
+TRF-00623,20,Fog,Highway,23,11.7,24,92,No,Poor,Incident
+TRF-00624,20,Fog,Urban,39,2.5,65,593,No,Fair,No Incident
+TRF-00625,23,Clear,Residential,98,10.6,24,171,No,Fair,No Incident
+TRF-00626,12,Fog,Residential,89,14.8,83,595,No,Good,Incident
+TRF-00627,11,Clear,Residential,26,2.7,47,738,No,Fair,No Incident
+TRF-00628,21,Rain,Urban,19,1.2,23,515,No,Good,No Incident
+TRF-00629,15,Clear,Highway,67,11.3,41,396,Yes,Fair,No Incident
+TRF-00630,20,Clear,Industrial,77,3.2,99,792,No,Good,Incident
+TRF-00631,4,Storm,Urban,1,5.9,98,132,No,Fair,Incident
+TRF-00632,4,Storm,Residential,42,5.2,56,817,No,Fair,Incident
+TRF-00633,1,Rain,Industrial,100,1.0,74,253,No,Good,Incident
+TRF-00634,9,Clear,Urban,99,12.6,70,272,Yes,Good,Incident
+TRF-00635,18,Fog,Urban,62,12.4,82,316,No,Good,No Incident
+TRF-00636,12,Clear,Highway,96,10.0,59,615,No,Good,No Incident
+TRF-00637,13,Rain,Highway,42,4.8,57,678,Yes,Good,No Incident
+TRF-00638,2,Clear,Highway,25,13.2,63,981,No,Good,No Incident
+TRF-00639,3,Clear,Residential,49,6.9,97,993,No,Fair,No Incident
+TRF-00640,2,Clear,Highway,8,6.6,33,922,Yes,Poor,No Incident
+TRF-00641,8,Clear,Urban,34,12.3,92,220,Yes,Good,No Incident
+TRF-00642,20,Clear,Urban,57,5.2,94,179,Yes,Good,No Incident
+TRF-00643,17,Rain,Industrial,89,7.7,26,697,Yes,Poor,Incident
+TRF-00644,19,Rain,Urban,26,14.2,29,80,Yes,Good,No Incident
+TRF-00645,7,Fog,Urban,64,3.7,75,996,No,Good,Incident
+TRF-00646,9,Fog,Residential,44,1.0,87,141,No,Good,No Incident
+TRF-00647,23,Clear,Urban,19,12.3,67,678,No,Good,No Incident
+TRF-00648,16,Storm,Residential,57,2.4,31,736,No,Good,Incident
+TRF-00649,16,Fog,Highway,63,3.5,40,843,No,Good,Incident
+TRF-00650,12,Clear,Highway,50,5.1,99,530,Yes,Good,No Incident
+TRF-00651,2,Rain,Industrial,10,1.9,96,737,Yes,Fair,Incident
+TRF-00652,17,Clear,Urban,39,8.8,47,789,No,Good,No Incident
+TRF-00653,8,Clear,Urban,44,13.2,97,694,No,Fair,No Incident
+TRF-00654,7,Clear,Highway,38,4.4,57,597,Yes,Fair,No Incident
+TRF-00655,17,Clear,Urban,55,7.3,88,129,No,Good,No Incident
+TRF-00656,11,Clear,Industrial,35,14.9,81,313,No,Good,No Incident
+TRF-00657,4,Storm,Industrial,78,14.7,26,918,Yes,Fair,Incident
+TRF-00658,21,Fog,Urban,88,2.5,93,742,No,Good,Incident
+TRF-00659,9,Clear,Highway,24,11.0,55,241,No,Poor,Incident
+TRF-00660,19,Fog,Industrial,100,13.6,37,399,Yes,Good,Incident
+TRF-00661,9,Clear,Residential,100,9.5,44,876,Yes,Fair,Incident
+TRF-00662,7,Clear,Highway,39,14.0,57,849,No,Poor,No Incident
+TRF-00663,19,Clear,Residential,26,14.7,32,565,No,Good,No Incident
+TRF-00664,21,Clear,Urban,63,13.5,53,917,No,Good,No Incident
+TRF-00665,7,Rain,Highway,61,13.7,99,643,No,Fair,Incident
+TRF-00666,9,Fog,Highway,56,11.4,20,623,No,Good,No Incident
+TRF-00667,13,Clear,Urban,63,6.3,94,230,Yes,Good,No Incident
+TRF-00668,16,Clear,Urban,48,2.1,39,957,No,Good,No Incident
+TRF-00669,12,Clear,Industrial,73,8.6,61,425,Yes,Fair,No Incident
+TRF-00670,17,Clear,Urban,52,8.1,78,562,No,Poor,No Incident
+TRF-00671,19,Clear,Urban,14,4.1,97,972,Yes,Poor,Incident
+TRF-00672,9,Rain,Residential,29,11.4,62,342,Yes,Good,No Incident
+TRF-00673,20,Clear,Urban,17,13.9,31,595,No,Fair,No Incident
+TRF-00674,19,Rain,Urban,31,7.8,71,929,No,Good,Incident
+TRF-00675,23,Clear,Highway,1,13.3,58,271,No,Good,No Incident
+TRF-00676,11,Clear,Residential,55,10.0,28,427,Yes,Good,No Incident
+TRF-00677,20,Rain,Residential,64,15.0,47,58,Yes,Fair,No Incident
+TRF-00678,23,Fog,Urban,16,9.5,38,176,Yes,Fair,No Incident
+TRF-00679,22,Clear,Urban,68,12.6,87,797,No,Fair,Incident
+TRF-00680,22,Clear,Urban,34,5.8,58,689,No,Fair,No Incident
+TRF-00681,9,Rain,Residential,14,2.9,32,386,No,Fair,Incident
+TRF-00682,21,Clear,Residential,28,6.4,44,586,No,Fair,No Incident
+TRF-00683,10,Clear,Residential,58,10.5,89,718,Yes,Poor,No Incident
+TRF-00684,21,Clear,Urban,60,7.2,73,749,No,Good,No Incident
+TRF-00685,19,Clear,Residential,70,10.1,60,280,No,Poor,No Incident
+TRF-00686,3,Rain,Urban,66,8.1,80,520,No,Poor,Incident
+TRF-00687,3,Rain,Residential,64,14.9,51,324,No,Good,No Incident
+TRF-00688,15,Storm,Urban,51,3.0,26,570,No,Good,No Incident
+TRF-00689,5,Clear,Urban,69,2.9,63,221,Yes,Good,No Incident
+TRF-00690,17,Rain,Urban,96,2.1,64,343,No,Good,Incident
+TRF-00691,18,Rain,Urban,70,6.5,50,985,No,Poor,No Incident
+TRF-00692,12,Storm,Urban,37,11.3,83,377,No,Good,No Incident
+TRF-00693,18,Storm,Industrial,34,12.0,35,755,Yes,Fair,Incident
+TRF-00694,12,Clear,Urban,73,8.1,70,432,Yes,Fair,No Incident
+TRF-00695,13,Clear,Residential,27,3.6,77,151,No,Fair,No Incident
+TRF-00696,4,Fog,Residential,22,1.8,41,741,Yes,Good,Incident
+TRF-00697,14,Clear,Residential,7,6.0,20,891,No,Good,No Incident
+TRF-00698,3,Rain,Urban,79,8.6,36,178,No,Fair,Incident
+TRF-00699,14,Fog,Residential,38,3.6,83,470,No,Fair,Incident
+TRF-00700,18,Fog,Residential,81,7.1,73,486,No,Good,No Incident
+TRF-00701,18,Clear,Urban,19,6.9,38,296,No,Fair,No Incident
+TRF-00702,3,Rain,Highway,22,9.5,54,326,Yes,Good,No Incident
+TRF-00703,18,Clear,Urban,22,10.3,20,391,No,Poor,No Incident
+TRF-00704,17,Clear,Urban,91,7.4,87,805,No,Poor,Incident
+TRF-00705,3,Rain,Industrial,19,5.0,93,803,No,Good,Incident
+TRF-00706,1,Clear,Urban,94,6.9,87,162,No,Good,Incident
+TRF-00707,15,Rain,Residential,47,9.0,60,962,No,Fair,Incident
+TRF-00708,9,Clear,Urban,85,6.6,40,785,Yes,Fair,Incident
+TRF-00709,11,Clear,Industrial,41,10.7,29,955,No,Good,No Incident
+TRF-00710,0,Fog,Industrial,46,7.0,34,773,Yes,Good,No Incident
+TRF-00711,5,Fog,Urban,35,4.3,92,129,No,Good,No Incident
+TRF-00712,15,Clear,Industrial,3,9.5,28,708,No,Fair,No Incident
+TRF-00713,15,Clear,Urban,22,6.7,86,755,No,Fair,No Incident
+TRF-00714,7,Clear,Highway,42,14.6,39,332,No,Good,No Incident
+TRF-00715,8,Clear,Industrial,95,1.6,28,395,No,Good,Incident
+TRF-00716,11,Clear,Urban,57,1.1,91,572,No,Good,Incident
+TRF-00717,8,Rain,Urban,99,9.2,86,532,No,Good,Incident
+TRF-00718,6,Rain,Industrial,8,8.0,80,329,No,Fair,No Incident
+TRF-00719,7,Clear,Highway,49,5.5,64,401,Yes,Poor,No Incident
+TRF-00720,12,Clear,Urban,30,5.7,57,328,No,Fair,No Incident
+TRF-00721,13,Clear,Urban,93,2.3,32,214,No,Good,Incident
+TRF-00722,15,Clear,Urban,12,6.6,20,673,No,Poor,No Incident
+TRF-00723,5,Fog,Urban,15,7.1,70,151,No,Good,No Incident
+TRF-00724,4,Clear,Urban,34,10.7,85,219,Yes,Fair,No Incident
+TRF-00725,7,Clear,Urban,45,15.0,93,569,No,Good,No Incident
+TRF-00726,18,Storm,Residential,29,2.2,67,862,No,Fair,Incident
+TRF-00727,20,Storm,Industrial,52,5.0,33,464,No,Fair,No Incident
+TRF-00728,18,Clear,Industrial,19,1.8,76,686,Yes,Fair,Incident
+TRF-00729,9,Clear,Urban,71,7.1,63,849,No,Fair,No Incident
+TRF-00730,22,Clear,Urban,5,14.9,70,432,No,Fair,No Incident
+TRF-00731,13,Rain,Urban,79,3.2,38,872,No,Fair,Incident
+TRF-00732,9,Clear,Residential,34,13.1,25,339,No,Fair,No Incident
+TRF-00733,14,Clear,Residential,10,8.8,29,921,No,Poor,No Incident
+TRF-00734,20,Storm,Highway,4,3.2,69,228,Yes,Fair,Incident
+TRF-00735,10,Clear,Industrial,60,6.0,63,229,Yes,Good,No Incident
+TRF-00736,2,Clear,Urban,99,2.7,44,660,No,Good,No Incident
+TRF-00737,7,Clear,Urban,39,8.1,38,839,No,Fair,Incident
+TRF-00738,23,Clear,Urban,95,6.3,93,884,No,Poor,Incident
+TRF-00739,11,Clear,Urban,48,13.4,84,373,Yes,Fair,No Incident
+TRF-00740,5,Storm,Residential,66,8.7,91,922,No,Good,Incident
+TRF-00741,21,Storm,Residential,76,5.5,59,309,No,Fair,Incident
+TRF-00742,8,Storm,Residential,26,3.0,62,288,No,Good,Incident
+TRF-00743,7,Clear,Residential,74,2.9,52,216,No,Good,Incident
+TRF-00744,2,Storm,Industrial,66,6.8,36,362,Yes,Good,Incident
+TRF-00745,22,Storm,Highway,53,5.3,36,190,No,Poor,Incident
+TRF-00746,20,Clear,Urban,73,12.0,28,67,Yes,Fair,No Incident
+TRF-00747,9,Rain,Urban,87,12.3,80,752,Yes,Good,Incident
+TRF-00748,11,Rain,Residential,62,4.5,83,830,No,Fair,No Incident
+TRF-00749,6,Clear,Residential,50,12.8,22,228,No,Poor,No Incident
+TRF-00750,23,Rain,Urban,75,1.7,74,370,Yes,Good,Incident
+TRF-00751,22,Rain,Residential,65,2.5,81,505,No,Poor,Incident
+TRF-00752,3,Clear,Urban,41,6.1,97,959,Yes,Good,No Incident
+TRF-00753,5,Rain,Industrial,95,2.4,55,852,No,Fair,Incident
+TRF-00754,21,Clear,Urban,68,11.6,78,324,No,Fair,No Incident
+TRF-00755,5,Clear,Urban,88,12.3,32,852,Yes,Good,No Incident
+TRF-00756,8,Clear,Urban,48,14.7,81,767,No,Good,Incident
+TRF-00757,19,Clear,Urban,52,10.6,80,915,No,Good,Incident
+TRF-00758,5,Clear,Urban,41,3.1,20,952,No,Good,No Incident
+TRF-00759,20,Clear,Residential,60,14.0,46,666,No,Fair,No Incident
+TRF-00760,15,Clear,Urban,67,11.0,44,919,No,Good,No Incident
+TRF-00761,4,Clear,Urban,76,10.5,24,55,No,Good,No Incident
+TRF-00762,0,Clear,Highway,20,5.2,79,800,No,Good,Incident
+TRF-00763,4,Rain,Residential,20,5.3,93,68,No,Poor,Incident
+TRF-00764,12,Fog,Industrial,86,9.3,99,349,No,Fair,Incident
+TRF-00765,23,Clear,Residential,20,12.4,54,79,Yes,Good,No Incident
+TRF-00766,11,Clear,Residential,71,7.4,97,235,No,Good,No Incident
+TRF-00767,3,Fog,Urban,86,4.6,78,563,No,Good,Incident
+TRF-00768,1,Clear,Industrial,49,5.9,28,429,No,Good,No Incident
+TRF-00769,4,Rain,Highway,95,4.6,98,252,No,Fair,Incident
+TRF-00770,10,Rain,Industrial,36,13.2,100,264,No,Good,No Incident
+TRF-00771,10,Rain,Residential,15,14.5,30,93,No,Fair,No Incident
+TRF-00772,7,Storm,Industrial,22,7.4,58,996,No,Fair,Incident
+TRF-00773,14,Clear,Urban,50,8.5,51,101,No,Good,No Incident
+TRF-00774,5,Clear,Highway,97,4.0,64,723,No,Good,No Incident
+TRF-00775,6,Storm,Residential,97,8.9,71,616,No,Fair,Incident
+TRF-00776,22,Rain,Highway,45,8.9,87,879,No,Fair,Incident
+TRF-00777,12,Clear,Residential,82,2.5,25,531,Yes,Good,Incident
+TRF-00778,14,Storm,Urban,29,13.8,35,92,Yes,Good,No Incident
+TRF-00779,13,Fog,Highway,100,2.4,45,448,No,Good,Incident
+TRF-00780,3,Fog,Urban,58,6.5,35,663,Yes,Fair,No Incident
+TRF-00781,13,Clear,Highway,44,1.8,73,546,No,Good,No Incident
+TRF-00782,18,Clear,Urban,48,3.0,81,309,No,Fair,Incident
+TRF-00783,1,Fog,Urban,97,7.8,99,137,No,Poor,Incident
+TRF-00784,8,Clear,Urban,5,1.4,99,263,No,Good,Incident
+TRF-00785,6,Rain,Highway,20,14.4,75,688,No,Good,No Incident
+TRF-00786,14,Fog,Residential,36,11.3,94,312,Yes,Fair,No Incident
+TRF-00787,21,Rain,Residential,7,1.4,61,666,Yes,Fair,Incident
+TRF-00788,9,Clear,Urban,87,11.7,78,191,No,Fair,No Incident
+TRF-00789,1,Rain,Urban,69,13.1,60,520,Yes,Good,No Incident
+TRF-00790,15,Storm,Residential,68,2.6,71,839,No,Fair,Incident
+TRF-00791,7,Clear,Industrial,51,11.3,35,222,No,Good,No Incident
+TRF-00792,16,Clear,Residential,92,8.7,50,359,No,Good,No Incident
+TRF-00793,3,Rain,Urban,61,11.4,33,705,No,Good,No Incident
+TRF-00794,6,Clear,Industrial,53,5.8,41,359,No,Good,No Incident
+TRF-00795,9,Clear,Residential,65,11.5,92,699,Yes,Good,Incident
+TRF-00796,19,Clear,Urban,60,5.3,29,55,No,Good,No Incident
+TRF-00797,13,Fog,Residential,77,11.1,71,667,No,Good,No Incident
+TRF-00798,14,Rain,Residential,42,10.1,56,720,No,Good,No Incident
+TRF-00799,16,Fog,Industrial,73,6.8,52,135,No,Good,No Incident
+TRF-00800,14,Clear,Urban,80,5.7,43,872,Yes,Good,No Incident
+TRF-00801,21,Clear,Urban,55,8.8,41,945,Yes,Good,No Incident
+TRF-00802,5,Fog,Highway,46,15.0,93,338,Yes,Fair,Incident
+TRF-00803,15,Rain,Urban,16,3.2,88,962,Yes,Poor,Incident
+TRF-00804,6,Storm,Urban,94,5.1,78,934,Yes,Good,Incident
+TRF-00805,13,Clear,Residential,81,3.4,82,364,No,Fair,Incident
+TRF-00806,9,Clear,Industrial,73,7.7,48,846,No,Good,No Incident
+TRF-00807,22,Rain,Residential,35,3.9,45,374,No,Fair,No Incident
+TRF-00808,0,Clear,Highway,31,4.0,45,956,Yes,Good,No Incident
+TRF-00809,13,Clear,Urban,12,14.8,49,81,No,Good,No Incident
+TRF-00810,1,Clear,Residential,9,2.2,53,419,No,Fair,No Incident
+TRF-00811,8,Rain,Urban,73,10.2,54,601,No,Good,No Incident
+TRF-00812,15,Clear,Urban,34,7.7,34,117,No,Good,No Incident
+TRF-00813,5,Rain,Urban,12,14.2,94,497,No,Good,No Incident
+TRF-00814,7,Clear,Urban,54,11.9,96,598,No,Good,No Incident
+TRF-00815,16,Storm,Urban,46,4.1,53,581,No,Poor,Incident
+TRF-00816,17,Storm,Residential,63,14.5,42,994,No,Good,Incident
+TRF-00817,15,Clear,Highway,59,5.7,65,729,No,Good,No Incident
+TRF-00818,1,Clear,Industrial,22,1.2,89,450,No,Fair,Incident
+TRF-00819,8,Clear,Urban,92,10.1,20,483,Yes,Good,No Incident
+TRF-00820,17,Rain,Industrial,87,13.0,81,816,No,Good,Incident
+TRF-00821,20,Rain,Urban,25,14.9,28,424,Yes,Poor,No Incident
+TRF-00822,5,Clear,Residential,35,1.6,90,907,No,Good,No Incident
+TRF-00823,9,Clear,Residential,39,13.7,50,813,No,Good,No Incident
+TRF-00824,20,Clear,Urban,71,3.6,44,555,No,Fair,No Incident
+TRF-00825,2,Clear,Industrial,51,11.8,63,713,No,Poor,No Incident
+TRF-00826,21,Rain,Highway,15,9.4,57,980,No,Poor,No Incident
+TRF-00827,9,Clear,Residential,44,8.0,96,597,No,Good,Incident
+TRF-00828,16,Storm,Urban,16,3.1,78,751,No,Fair,Incident
+TRF-00829,10,Clear,Industrial,8,5.4,67,265,No,Good,No Incident
+TRF-00830,9,Clear,Urban,35,3.0,86,989,No,Fair,Incident
+TRF-00831,9,Rain,Residential,82,14.7,26,344,No,Fair,No Incident
+TRF-00832,0,Rain,Urban,18,3.0,67,70,No,Good,No Incident
+TRF-00833,21,Fog,Urban,90,7.0,24,650,No,Good,Incident
+TRF-00834,18,Fog,Residential,90,1.5,37,952,No,Poor,Incident
+TRF-00835,22,Storm,Highway,16,9.2,91,707,No,Good,Incident
+TRF-00836,13,Rain,Urban,60,13.1,77,490,No,Fair,No Incident
+TRF-00837,23,Rain,Urban,80,11.3,91,668,Yes,Poor,Incident
+TRF-00838,1,Clear,Residential,99,2.8,99,490,No,Good,Incident
+TRF-00839,8,Clear,Urban,5,4.8,83,438,No,Fair,No Incident
+TRF-00840,13,Clear,Highway,72,12.6,45,933,No,Good,No Incident
+TRF-00841,11,Clear,Industrial,11,13.3,62,483,No,Fair,No Incident
+TRF-00842,0,Rain,Urban,37,8.6,25,804,No,Good,No Incident
+TRF-00843,2,Clear,Highway,84,1.2,64,764,No,Good,Incident
+TRF-00844,10,Rain,Residential,47,11.6,58,862,Yes,Poor,Incident
+TRF-00845,19,Storm,Residential,70,1.5,21,308,No,Good,Incident
+TRF-00846,14,Clear,Highway,53,2.0,84,135,Yes,Fair,Incident
+TRF-00847,6,Rain,Residential,88,10.7,31,870,No,Good,No Incident
+TRF-00848,19,Clear,Urban,100,8.7,85,930,Yes,Good,Incident
+TRF-00849,21,Clear,Urban,29,3.9,43,884,Yes,Poor,No Incident
+TRF-00850,6,Clear,Residential,61,5.7,100,565,Yes,Fair,No Incident
+TRF-00851,22,Clear,Urban,64,10.6,80,500,No,Fair,No Incident
+TRF-00852,5,Clear,Residential,80,13.5,53,512,No,Fair,Incident
+TRF-00853,13,Clear,Industrial,45,9.3,60,243,No,Fair,No Incident
+TRF-00854,7,Rain,Highway,37,5.2,98,147,No,Fair,Incident
+TRF-00855,17,Rain,Urban,100,7.8,90,899,No,Fair,Incident
+TRF-00856,1,Storm,Residential,64,13.9,88,432,No,Fair,Incident
+TRF-00857,1,Fog,Residential,42,14.7,86,945,No,Fair,Incident
+TRF-00858,22,Rain,Highway,24,11.1,91,735,No,Fair,No Incident
+TRF-00859,4,Rain,Urban,9,12.4,30,262,No,Fair,No Incident
+TRF-00860,21,Rain,Urban,42,6.6,57,826,No,Fair,Incident
+TRF-00861,16,Clear,Industrial,58,6.9,46,545,No,Good,No Incident
+TRF-00862,14,Rain,Residential,23,12.4,47,729,Yes,Poor,Incident
+TRF-00863,17,Rain,Industrial,93,4.7,66,933,No,Good,Incident
+TRF-00864,1,Storm,Urban,39,5.9,64,524,Yes,Fair,No Incident
+TRF-00865,1,Clear,Residential,19,8.3,97,622,Yes,Good,No Incident
+TRF-00866,2,Storm,Industrial,39,6.4,21,885,Yes,Good,Incident
+TRF-00867,0,Clear,Urban,94,13.6,52,397,No,Poor,No Incident
+TRF-00868,22,Clear,Industrial,37,14.3,71,433,No,Poor,No Incident
+TRF-00869,10,Rain,Urban,73,10.5,68,85,No,Poor,No Incident
+TRF-00870,2,Clear,Urban,3,14.6,34,90,No,Fair,No Incident
+TRF-00871,7,Clear,Urban,87,7.9,82,871,No,Fair,Incident
+TRF-00872,3,Clear,Highway,55,10.7,38,591,No,Good,No Incident
+TRF-00873,21,Clear,Urban,77,12.9,29,725,Yes,Good,Incident
+TRF-00874,18,Fog,Residential,59,14.6,51,514,No,Good,No Incident
+TRF-00875,0,Fog,Residential,90,12.7,59,517,No,Fair,Incident
+TRF-00876,7,Clear,Residential,79,9.6,59,173,No,Fair,No Incident
+TRF-00877,15,Clear,Highway,69,14.3,93,212,No,Good,No Incident
+TRF-00878,9,Rain,Residential,58,14.6,78,814,No,Good,No Incident
+TRF-00879,5,Clear,Residential,49,8.4,90,556,Yes,Good,No Incident
+TRF-00880,9,Rain,Residential,74,5.4,64,584,No,Fair,No Incident
+TRF-00881,10,Fog,Highway,2,10.3,58,203,No,Good,No Incident
+TRF-00882,16,Fog,Urban,85,5.6,80,822,No,Good,Incident
+TRF-00883,13,Rain,Highway,3,3.6,51,380,No,Good,Incident
+TRF-00884,11,Rain,Highway,17,10.7,56,185,No,Fair,No Incident
+TRF-00885,14,Clear,Urban,14,6.9,92,629,Yes,Poor,No Incident
+TRF-00886,19,Fog,Residential,71,13.8,44,928,No,Good,Incident
+TRF-00887,2,Clear,Residential,23,14.8,46,533,No,Poor,No Incident
+TRF-00888,11,Clear,Industrial,50,3.8,72,643,No,Good,No Incident
+TRF-00889,18,Rain,Urban,27,5.6,95,335,No,Good,No Incident
+TRF-00890,6,Clear,Highway,69,6.1,35,816,No,Good,No Incident
+TRF-00891,20,Fog,Urban,2,6.3,80,396,Yes,Good,No Incident
+TRF-00892,4,Rain,Industrial,43,8.5,44,694,No,Fair,No Incident
+TRF-00893,0,Storm,Industrial,10,14.8,23,163,No,Good,No Incident
+TRF-00894,18,Clear,Urban,8,6.9,76,954,No,Good,Incident
+TRF-00895,18,Rain,Urban,17,4.0,98,850,No,Fair,Incident
+TRF-00896,5,Clear,Urban,40,4.4,65,544,No,Fair,No Incident
+TRF-00897,23,Clear,Residential,42,10.9,89,337,No,Fair,No Incident
+TRF-00898,14,Clear,Residential,33,1.9,30,751,No,Good,Incident
+TRF-00899,0,Fog,Urban,3,12.3,72,231,Yes,Good,No Incident
+TRF-00900,14,Clear,Urban,26,11.2,78,126,Yes,Fair,No Incident
+TRF-00901,8,Rain,Urban,43,3.7,98,580,No,Fair,Incident
+TRF-00902,23,Storm,Industrial,4,6.1,68,466,No,Fair,No Incident
+TRF-00903,6,Clear,Highway,74,4.6,96,952,No,Good,No Incident
+TRF-00904,2,Fog,Urban,20,11.9,100,459,Yes,Good,No Incident
+TRF-00905,21,Rain,Industrial,63,8.8,72,841,Yes,Good,Incident
+TRF-00906,4,Rain,Residential,97,14.5,44,385,Yes,Good,Incident
+TRF-00907,7,Clear,Highway,35,9.8,26,889,No,Poor,Incident
+TRF-00908,15,Fog,Highway,17,2.9,31,713,Yes,Fair,Incident
+TRF-00909,7,Storm,Industrial,80,3.9,68,384,No,Good,Incident
+TRF-00910,7,Clear,Residential,40,5.3,58,179,No,Poor,No Incident
+TRF-00911,11,Clear,Industrial,19,9.0,78,414,No,Fair,No Incident
+TRF-00912,3,Rain,Residential,34,13.6,38,388,No,Good,No Incident
+TRF-00913,13,Clear,Highway,70,10.2,31,424,No,Poor,No Incident
+TRF-00914,21,Clear,Urban,51,13.8,76,409,No,Fair,No Incident
+TRF-00915,23,Fog,Urban,39,3.7,21,853,No,Poor,Incident
+TRF-00916,17,Rain,Urban,49,5.0,95,549,Yes,Poor,Incident
+TRF-00917,14,Clear,Urban,12,9.5,29,491,No,Good,No Incident
+TRF-00918,5,Clear,Industrial,47,2.8,58,406,No,Fair,No Incident
+TRF-00919,20,Rain,Residential,39,10.0,35,184,No,Good,No Incident
+TRF-00920,2,Clear,Industrial,27,13.4,28,185,No,Fair,No Incident
+TRF-00921,17,Rain,Urban,94,12.6,94,522,No,Poor,Incident
+TRF-00922,20,Clear,Residential,3,10.7,83,732,No,Poor,Incident
+TRF-00923,11,Clear,Urban,17,10.9,66,448,No,Good,No Incident
+TRF-00924,13,Fog,Urban,70,7.4,71,965,No,Good,Incident
+TRF-00925,19,Clear,Residential,5,1.5,38,804,No,Poor,Incident
+TRF-00926,22,Rain,Highway,26,12.3,43,174,No,Poor,No Incident
+TRF-00927,0,Rain,Urban,25,7.3,88,211,No,Good,No Incident
+TRF-00928,12,Rain,Industrial,63,7.7,71,202,No,Good,No Incident
+TRF-00929,9,Clear,Residential,10,7.2,97,338,Yes,Good,Incident
+TRF-00930,5,Fog,Highway,7,8.1,85,904,No,Good,No Incident
+TRF-00931,20,Clear,Highway,3,10.1,76,513,No,Good,No Incident
+TRF-00932,3,Clear,Highway,47,7.9,68,684,No,Fair,No Incident
+TRF-00933,8,Clear,Residential,56,7.2,27,481,No,Fair,No Incident
+TRF-00934,10,Rain,Highway,28,8.4,31,285,Yes,Good,No Incident
+TRF-00935,5,Rain,Highway,22,6.3,64,665,No,Fair,No Incident
+TRF-00936,16,Rain,Urban,96,12.1,64,465,No,Fair,No Incident
+TRF-00937,15,Storm,Highway,61,12.5,29,936,No,Good,No Incident
+TRF-00938,0,Clear,Urban,81,2.5,24,172,No,Good,Incident
+TRF-00939,3,Clear,Highway,17,9.6,86,947,No,Good,No Incident
+TRF-00940,9,Clear,Urban,18,3.5,50,665,No,Good,No Incident
+TRF-00941,21,Clear,Residential,17,3.2,50,358,No,Good,No Incident
+TRF-00942,9,Rain,Residential,65,5.2,65,945,No,Poor,Incident
+TRF-00943,10,Rain,Urban,50,6.7,22,305,No,Poor,No Incident
+TRF-00944,16,Clear,Highway,15,1.4,37,362,No,Fair,No Incident
+TRF-00945,18,Clear,Industrial,40,4.3,69,99,No,Fair,No Incident
+TRF-00946,4,Clear,Urban,47,2.2,74,782,No,Good,No Incident
+TRF-00947,16,Rain,Highway,72,3.1,76,935,No,Fair,Incident
+TRF-00948,21,Clear,Residential,22,5.7,71,961,No,Good,No Incident
+TRF-00949,21,Clear,Industrial,31,8.6,84,572,No,Fair,No Incident
+TRF-00950,7,Clear,Industrial,45,13.3,71,660,No,Good,No Incident
+TRF-00951,18,Rain,Urban,23,13.2,74,520,Yes,Poor,No Incident
+TRF-00952,19,Clear,Highway,6,14.8,39,765,No,Fair,No Incident
+TRF-00953,3,Clear,Industrial,42,12.7,45,837,No,Good,No Incident
+TRF-00954,19,Clear,Urban,11,1.5,44,243,Yes,Good,No Incident
+TRF-00955,22,Clear,Residential,61,14.0,61,938,No,Fair,No Incident
+TRF-00956,21,Fog,Residential,60,6.6,75,477,No,Fair,Incident
+TRF-00957,20,Clear,Residential,79,13.3,62,386,No,Good,No Incident
+TRF-00958,6,Clear,Industrial,43,13.3,91,297,No,Good,No Incident
+TRF-00959,11,Clear,Industrial,84,1.3,76,209,No,Fair,Incident
+TRF-00960,20,Clear,Industrial,55,8.1,22,764,No,Good,No Incident
+TRF-00961,2,Rain,Urban,79,13.6,66,838,No,Fair,Incident
+TRF-00962,5,Clear,Residential,93,10.4,91,270,No,Fair,No Incident
+TRF-00963,4,Rain,Highway,87,8.0,87,429,Yes,Good,Incident
+TRF-00964,9,Rain,Industrial,28,1.8,47,815,No,Good,Incident
+TRF-00965,2,Clear,Residential,48,11.2,96,214,No,Poor,No Incident
+TRF-00966,4,Clear,Urban,8,4.4,72,73,No,Good,No Incident
+TRF-00967,23,Clear,Highway,41,13.6,100,96,Yes,Fair,Incident
+TRF-00968,11,Clear,Urban,39,7.1,32,657,Yes,Good,No Incident
+TRF-00969,19,Clear,Highway,41,4.8,77,647,No,Fair,Incident
+TRF-00970,1,Rain,Industrial,34,14.5,32,786,No,Good,Incident
+TRF-00971,1,Clear,Urban,27,10.7,45,928,No,Fair,No Incident
+TRF-00972,22,Rain,Highway,43,3.1,20,734,No,Good,No Incident
+TRF-00973,23,Clear,Urban,34,4.9,45,65,No,Poor,No Incident
+TRF-00974,0,Fog,Highway,7,5.1,26,672,No,Good,No Incident
+TRF-00975,5,Storm,Residential,19,2.3,70,961,Yes,Good,Incident
+TRF-00976,11,Rain,Residential,75,6.3,96,408,No,Fair,Incident
+TRF-00977,15,Clear,Highway,26,3.7,59,289,Yes,Good,No Incident
+TRF-00978,20,Rain,Urban,16,11.8,47,407,No,Good,No Incident
+TRF-00979,0,Rain,Highway,76,4.3,21,653,No,Poor,Incident
+TRF-00980,3,Clear,Residential,32,14.8,55,553,No,Fair,No Incident
+TRF-00981,0,Clear,Urban,60,6.9,28,604,Yes,Fair,No Incident
+TRF-00982,14,Clear,Highway,11,5.5,88,671,Yes,Poor,No Incident
+TRF-00983,12,Clear,Highway,5,14.2,67,986,No,Good,No Incident
+TRF-00984,12,Clear,Residential,62,12.7,70,783,No,Fair,No Incident
+TRF-00985,4,Clear,Industrial,63,8.2,23,73,Yes,Good,No Incident
+TRF-00986,18,Clear,Highway,79,5.5,52,670,Yes,Poor,Incident
+TRF-00987,21,Clear,Residential,99,14.4,95,496,Yes,Good,Incident
+TRF-00988,16,Clear,Urban,65,7.2,59,282,Yes,Good,No Incident
+TRF-00989,23,Clear,Residential,86,9.8,78,485,No,Good,Incident
+TRF-00990,19,Clear,Residential,20,3.5,75,592,No,Good,Incident
+TRF-00991,2,Storm,Highway,92,12.8,95,51,No,Fair,Incident
+TRF-00992,19,Clear,Highway,8,6.2,74,332,No,Fair,No Incident
+TRF-00993,14,Clear,Urban,43,12.7,20,621,No,Fair,No Incident
+TRF-00994,13,Storm,Residential,15,4.4,30,173,No,Good,No Incident
+TRF-00995,4,Clear,Highway,96,3.2,57,145,No,Poor,Incident
+TRF-00996,8,Fog,Residential,9,4.2,94,129,No,Good,Incident
+TRF-00997,8,Clear,Urban,57,13.9,93,280,No,Fair,Incident
+TRF-00998,2,Storm,Urban,17,9.4,84,597,No,Poor,Incident
+TRF-00999,8,Clear,Highway,18,8.5,27,673,No,Good,No Incident
+TRF-01000,3,Rain,Residential,81,3.8,43,960,No,Good,Incident
+TRF-01001,10,Clear,Urban,6,13.9,83,384,No,Fair,No Incident
+TRF-01002,20,Clear,Residential,46,12.3,90,268,Yes,Good,No Incident
+TRF-01003,17,Clear,Urban,33,8.2,71,908,No,Good,No Incident
+TRF-01004,6,Clear,Urban,8,10.8,22,954,Yes,Good,No Incident
+TRF-01005,13,Clear,Highway,34,2.6,95,901,No,Good,Incident
+TRF-01006,21,Rain,Urban,11,12.4,75,457,Yes,Fair,No Incident
+TRF-01007,22,Rain,Urban,84,10.9,93,822,No,Good,Incident
+TRF-01008,7,Clear,Industrial,54,2.8,49,446,No,Fair,No Incident
+TRF-01009,7,Clear,Residential,1,7.7,84,529,Yes,Poor,No Incident
+TRF-01010,1,Rain,Industrial,98,14.4,48,481,Yes,Fair,Incident
+TRF-01011,18,Clear,Urban,90,7.1,38,420,Yes,Good,No Incident
+TRF-01012,6,Storm,Urban,87,13.6,86,569,No,Fair,Incident
+TRF-01013,8,Rain,Urban,99,11.3,31,194,No,Poor,Incident
+TRF-01014,9,Rain,Urban,12,11.9,64,328,No,Good,No Incident
+TRF-01015,2,Clear,Urban,60,14.7,75,929,No,Good,No Incident
+TRF-01016,2,Clear,Urban,66,12.6,25,634,No,Good,No Incident
+TRF-01017,13,Clear,Highway,62,11.9,45,386,Yes,Poor,Incident
+TRF-01018,10,Storm,Industrial,83,9.4,97,539,Yes,Poor,Incident
+TRF-01019,7,Clear,Highway,13,13.5,75,671,No,Good,No Incident
+TRF-01020,19,Rain,Industrial,77,1.0,76,943,No,Good,Incident
+TRF-01021,5,Clear,Urban,57,5.0,39,533,No,Poor,No Incident
+TRF-01022,9,Clear,Residential,27,4.5,66,909,No,Poor,No Incident
+TRF-01023,7,Clear,Urban,53,12.2,97,925,No,Fair,Incident
+TRF-01024,11,Rain,Highway,100,1.2,45,414,No,Fair,Incident
+TRF-01025,3,Storm,Residential,47,14.6,44,598,Yes,Poor,Incident
+TRF-01026,23,Clear,Urban,28,4.0,88,952,No,Poor,Incident
+TRF-01027,7,Rain,Highway,23,8.4,67,738,No,Fair,No Incident
+TRF-01028,5,Clear,Residential,97,2.1,78,687,Yes,Fair,Incident
+TRF-01029,16,Clear,Industrial,61,3.0,68,320,No,Good,No Incident
+TRF-01030,13,Clear,Urban,40,4.9,77,785,Yes,Poor,No Incident
+TRF-01031,17,Clear,Residential,56,10.8,39,831,No,Good,No Incident
+TRF-01032,23,Clear,Highway,40,1.5,61,514,Yes,Fair,No Incident
+TRF-01033,16,Rain,Urban,17,11.9,21,521,No,Good,No Incident
+TRF-01034,11,Clear,Industrial,74,7.1,66,715,No,Fair,No Incident
+TRF-01035,7,Rain,Urban,43,7.1,23,334,No,Good,No Incident
+TRF-01036,14,Rain,Urban,67,6.8,56,343,No,Fair,No Incident
+TRF-01037,21,Clear,Highway,63,1.5,55,973,No,Good,No Incident
+TRF-01038,13,Fog,Industrial,89,7.5,59,478,No,Fair,Incident
+TRF-01039,13,Clear,Urban,35,14.0,47,61,No,Good,No Incident
+TRF-01040,2,Fog,Highway,93,10.2,95,472,Yes,Fair,No Incident
+TRF-01041,10,Rain,Urban,32,8.8,63,855,No,Fair,No Incident
+TRF-01042,17,Rain,Industrial,30,9.4,93,634,No,Poor,Incident
+TRF-01043,19,Clear,Highway,29,6.2,49,428,No,Fair,No Incident
+TRF-01044,21,Fog,Highway,27,2.6,41,251,No,Good,Incident
+TRF-01045,15,Rain,Highway,92,10.2,98,848,No,Good,Incident
+TRF-01046,22,Rain,Urban,84,3.3,89,439,Yes,Fair,Incident
+TRF-01047,1,Clear,Residential,79,13.4,85,529,No,Good,No Incident
+TRF-01048,14,Clear,Residential,19,13.2,92,679,Yes,Fair,No Incident
+TRF-01049,6,Rain,Highway,38,2.2,29,203,No,Good,No Incident
+TRF-01050,8,Clear,Industrial,31,3.0,90,879,No,Good,Incident
+TRF-01051,22,Clear,Urban,25,11.6,34,295,Yes,Good,No Incident
+TRF-01052,16,Clear,Industrial,81,12.4,38,56,No,Fair,No Incident
+TRF-01053,10,Clear,Industrial,40,14.5,55,260,No,Good,No Incident
+TRF-01054,22,Clear,Urban,88,11.5,94,796,No,Fair,Incident
+TRF-01055,9,Rain,Urban,48,7.5,74,961,No,Good,No Incident
+TRF-01056,23,Clear,Highway,22,5.5,26,277,No,Poor,No Incident
+TRF-01057,7,Clear,Industrial,35,3.0,45,749,No,Fair,Incident
+TRF-01058,6,Storm,Residential,81,4.7,58,427,No,Good,No Incident
+TRF-01059,15,Rain,Highway,10,12.3,86,239,No,Fair,No Incident
+TRF-01060,22,Rain,Residential,56,14.5,73,390,No,Poor,No Incident
+TRF-01061,1,Rain,Urban,35,9.1,62,164,No,Good,No Incident
+TRF-01062,17,Clear,Residential,83,5.8,38,608,Yes,Good,No Incident
+TRF-01063,9,Rain,Residential,82,2.2,84,809,Yes,Fair,Incident
+TRF-01064,20,Rain,Highway,17,11.8,80,418,No,Fair,No Incident
+TRF-01065,18,Clear,Urban,96,2.2,41,805,Yes,Good,No Incident
+TRF-01066,4,Clear,Residential,11,5.0,45,213,Yes,Good,No Incident
+TRF-01067,16,Clear,Industrial,46,4.5,27,567,Yes,Fair,No Incident
+TRF-01068,23,Clear,Residential,84,8.3,20,138,No,Good,No Incident
+TRF-01069,3,Rain,Industrial,54,2.2,70,448,Yes,Good,No Incident
+TRF-01070,18,Fog,Highway,44,4.4,71,946,No,Good,Incident
+TRF-01071,2,Fog,Urban,40,14.2,78,686,Yes,Good,Incident
+TRF-01072,3,Rain,Residential,15,12.6,20,115,Yes,Good,Incident
+TRF-01073,6,Clear,Residential,43,4.3,56,284,No,Poor,No Incident
+TRF-01074,12,Clear,Urban,78,13.1,72,237,No,Good,Incident
+TRF-01075,18,Clear,Urban,4,1.6,40,991,No,Poor,Incident
+TRF-01076,2,Clear,Highway,90,13.7,36,482,No,Fair,No Incident
+TRF-01077,0,Clear,Residential,98,10.8,97,136,No,Fair,No Incident
+TRF-01078,17,Rain,Highway,77,5.0,98,249,No,Fair,Incident
+TRF-01079,7,Clear,Urban,84,3.8,69,413,No,Good,Incident
+TRF-01080,14,Rain,Residential,9,6.8,77,558,Yes,Good,No Incident
+TRF-01081,10,Rain,Urban,85,5.4,98,68,No,Good,Incident
+TRF-01082,13,Clear,Urban,57,14.0,72,764,No,Poor,No Incident
+TRF-01083,7,Rain,Highway,92,8.0,30,431,No,Good,No Incident
+TRF-01084,20,Rain,Residential,71,6.5,21,330,No,Fair,No Incident
+TRF-01085,2,Clear,Residential,2,11.2,81,58,No,Good,No Incident
+TRF-01086,18,Clear,Urban,13,5.5,51,136,No,Poor,No Incident
+TRF-01087,10,Clear,Urban,36,8.1,86,654,No,Fair,No Incident
+TRF-01088,2,Storm,Residential,96,11.4,49,557,No,Good,Incident
+TRF-01089,21,Clear,Highway,52,5.6,52,527,Yes,Good,No Incident
+TRF-01090,18,Clear,Highway,22,5.3,98,826,No,Good,No Incident
+TRF-01091,3,Clear,Highway,25,10.6,60,939,No,Fair,No Incident
+TRF-01092,12,Clear,Residential,67,8.0,94,413,Yes,Fair,No Incident
+TRF-01093,3,Fog,Residential,52,5.6,40,974,No,Fair,Incident
+TRF-01094,4,Clear,Urban,36,11.7,31,264,No,Good,No Incident
+TRF-01095,7,Rain,Highway,53,3.0,29,869,No,Fair,Incident
+TRF-01096,8,Fog,Residential,97,3.8,68,388,No,Poor,Incident
+TRF-01097,23,Clear,Residential,74,5.9,51,262,No,Good,No Incident
+TRF-01098,12,Clear,Residential,51,10.8,97,760,No,Poor,No Incident
+TRF-01099,10,Clear,Residential,91,2.7,76,121,No,Poor,Incident
+TRF-01100,20,Clear,Residential,82,4.9,46,70,No,Good,No Incident
+TRF-01101,0,Clear,Highway,87,8.7,76,666,Yes,Fair,No Incident
+TRF-01102,21,Rain,Urban,3,1.0,92,372,Yes,Poor,Incident
+TRF-01103,0,Clear,Urban,71,10.0,36,897,No,Poor,No Incident
+TRF-01104,2,Fog,Industrial,59,6.9,20,377,Yes,Fair,No Incident
+TRF-01105,0,Rain,Highway,30,11.3,31,483,No,Good,No Incident
+TRF-01106,10,Rain,Urban,32,12.3,38,394,No,Fair,No Incident
+TRF-01107,23,Clear,Highway,4,12.9,43,81,No,Fair,No Incident
+TRF-01108,20,Rain,Urban,64,10.5,60,52,No,Fair,No Incident
+TRF-01109,1,Clear,Urban,39,5.9,64,413,Yes,Fair,No Incident
+TRF-01110,14,Clear,Urban,40,7.1,23,411,No,Fair,No Incident
+TRF-01111,22,Clear,Industrial,29,14.5,51,506,No,Poor,No Incident
+TRF-01112,20,Clear,Highway,38,7.8,20,815,No,Good,No Incident
+TRF-01113,6,Storm,Urban,93,12.1,84,687,No,Good,Incident
+TRF-01114,14,Clear,Industrial,47,8.4,93,975,No,Fair,No Incident
+TRF-01115,8,Clear,Residential,94,10.2,66,481,Yes,Fair,No Incident
+TRF-01116,5,Clear,Urban,48,10.0,68,465,No,Good,No Incident
+TRF-01117,21,Clear,Residential,55,6.5,42,355,No,Good,No Incident
+TRF-01118,12,Clear,Residential,75,6.0,25,964,No,Good,No Incident
+TRF-01119,11,Clear,Urban,35,11.1,89,318,No,Good,No Incident
+TRF-01120,12,Rain,Urban,77,2.6,32,564,Yes,Fair,Incident
+TRF-01121,5,Clear,Urban,34,13.1,61,756,No,Good,No Incident
+TRF-01122,21,Clear,Residential,24,1.9,47,687,No,Good,No Incident
+TRF-01123,14,Clear,Urban,85,8.5,95,196,Yes,Good,Incident
+TRF-01124,8,Clear,Residential,92,10.2,40,338,Yes,Good,Incident
+TRF-01125,14,Clear,Urban,13,4.8,37,601,Yes,Good,No Incident
+TRF-01126,5,Clear,Urban,94,5.5,34,507,No,Poor,Incident
+TRF-01127,11,Clear,Urban,52,8.8,92,256,No,Good,No Incident
+TRF-01128,17,Clear,Urban,66,5.8,34,888,No,Poor,No Incident
+TRF-01129,19,Clear,Urban,11,8.3,61,649,No,Fair,No Incident
+TRF-01130,10,Clear,Residential,100,3.6,63,219,Yes,Good,Incident
+TRF-01131,17,Rain,Highway,11,1.7,81,202,No,Fair,Incident
+TRF-01132,11,Storm,Urban,20,7.1,41,623,No,Fair,Incident
+TRF-01133,1,Clear,Industrial,71,14.4,22,249,No,Fair,No Incident
+TRF-01134,23,Clear,Highway,97,5.6,67,223,No,Fair,No Incident
+TRF-01135,20,Clear,Urban,10,4.2,24,368,No,Good,No Incident
+TRF-01136,16,Clear,Industrial,43,3.8,48,942,Yes,Fair,Incident
+TRF-01137,1,Fog,Highway,100,4.1,22,102,No,Fair,No Incident
+TRF-01138,16,Clear,Urban,13,14.3,32,412,No,Poor,No Incident
+TRF-01139,5,Clear,Industrial,63,11.8,39,962,No,Fair,No Incident
+TRF-01140,22,Storm,Highway,44,5.4,90,846,Yes,Poor,Incident
+TRF-01141,2,Rain,Highway,13,2.0,84,87,No,Fair,No Incident
+TRF-01142,17,Rain,Urban,80,1.5,61,799,No,Good,Incident
+TRF-01143,9,Clear,Highway,69,3.4,71,223,No,Good,No Incident
+TRF-01144,22,Clear,Highway,60,14.1,98,91,Yes,Fair,No Incident
+TRF-01145,18,Rain,Urban,34,1.3,37,528,No,Good,No Incident
+TRF-01146,15,Clear,Urban,99,6.2,30,234,No,Good,No Incident
+TRF-01147,12,Clear,Industrial,53,2.4,25,104,Yes,Fair,No Incident
+TRF-01148,14,Clear,Industrial,58,5.1,71,990,No,Good,No Incident
+TRF-01149,14,Clear,Highway,34,12.0,62,241,No,Fair,No Incident
+TRF-01150,6,Rain,Urban,70,5.4,74,253,No,Fair,No Incident
+TRF-01151,12,Rain,Highway,18,4.6,31,239,No,Good,No Incident
+TRF-01152,5,Clear,Urban,82,9.3,88,511,Yes,Good,No Incident
+TRF-01153,6,Rain,Urban,89,10.4,99,83,No,Good,No Incident
+TRF-01154,12,Clear,Urban,68,4.2,54,683,Yes,Good,No Incident
+TRF-01155,15,Clear,Highway,100,3.7,58,467,Yes,Good,No Incident
+TRF-01156,1,Rain,Industrial,28,9.0,46,966,No,Fair,Incident
+TRF-01157,23,Clear,Urban,99,9.8,29,995,No,Poor,No Incident
+TRF-01158,4,Rain,Highway,59,2.6,79,50,No,Good,No Incident
+TRF-01159,13,Storm,Urban,67,10.7,33,951,No,Poor,Incident
+TRF-01160,17,Rain,Residential,93,3.2,43,837,No,Good,Incident
+TRF-01161,6,Rain,Urban,28,2.4,73,413,No,Good,No Incident
+TRF-01162,16,Clear,Urban,36,11.4,52,964,Yes,Fair,No Incident
+TRF-01163,12,Clear,Residential,31,9.5,93,902,No,Good,No Incident
+TRF-01164,0,Clear,Highway,28,5.2,43,535,No,Fair,No Incident
+TRF-01165,20,Rain,Industrial,89,1.1,83,574,No,Good,Incident
+TRF-01166,3,Clear,Industrial,3,5.1,70,616,No,Fair,No Incident
+TRF-01167,2,Clear,Urban,35,10.7,87,669,No,Good,No Incident
+TRF-01168,14,Storm,Urban,8,1.4,82,534,No,Good,Incident
+TRF-01169,4,Clear,Urban,80,14.5,36,79,No,Good,No Incident
+TRF-01170,9,Clear,Industrial,20,8.4,68,491,No,Fair,No Incident
+TRF-01171,0,Clear,Highway,6,11.0,64,329,Yes,Fair,No Incident
+TRF-01172,14,Rain,Urban,6,4.8,40,725,No,Fair,No Incident
+TRF-01173,21,Clear,Industrial,1,6.8,76,72,Yes,Poor,Incident
+TRF-01174,3,Rain,Industrial,51,3.7,81,136,No,Fair,Incident
+TRF-01175,13,Clear,Residential,12,8.4,29,195,No,Fair,No Incident
+TRF-01176,20,Storm,Urban,68,15.0,84,283,No,Good,No Incident
+TRF-01177,5,Clear,Urban,45,4.1,42,59,No,Fair,No Incident
+TRF-01178,6,Clear,Industrial,40,4.1,62,610,No,Fair,No Incident
+TRF-01179,11,Rain,Urban,14,1.2,25,269,No,Poor,Incident
+TRF-01180,8,Fog,Residential,72,9.8,79,938,No,Good,Incident
+TRF-01181,2,Clear,Residential,65,3.9,32,828,No,Poor,Incident
+TRF-01182,10,Clear,Urban,80,3.2,68,904,Yes,Poor,Incident
+TRF-01183,21,Clear,Highway,89,4.8,70,158,No,Fair,Incident
+TRF-01184,14,Fog,Urban,16,7.1,72,451,Yes,Good,No Incident
+TRF-01185,7,Clear,Residential,29,5.0,36,745,No,Fair,No Incident
+TRF-01186,23,Rain,Industrial,67,2.2,58,271,Yes,Good,Incident
+TRF-01187,2,Storm,Urban,37,7.9,41,578,No,Good,No Incident
+TRF-01188,5,Rain,Residential,11,13.1,92,299,No,Fair,No Incident
+TRF-01189,23,Rain,Urban,57,12.1,41,822,Yes,Good,No Incident
+TRF-01190,3,Clear,Industrial,40,10.0,22,299,No,Good,No Incident
+TRF-01191,19,Clear,Urban,14,6.3,93,352,Yes,Poor,No Incident
+TRF-01192,3,Clear,Urban,78,12.7,48,324,Yes,Fair,No Incident
+TRF-01193,5,Clear,Residential,12,9.9,94,383,No,Good,No Incident
+TRF-01194,18,Fog,Residential,36,2.6,88,855,No,Fair,Incident
+TRF-01195,15,Rain,Highway,55,12.1,21,650,Yes,Good,No Incident
+TRF-01196,9,Rain,Urban,34,7.8,27,945,No,Good,No Incident
+TRF-01197,6,Rain,Urban,38,7.5,59,461,No,Good,No Incident
+TRF-01198,22,Rain,Residential,38,1.6,38,677,Yes,Good,No Incident
+TRF-01199,11,Clear,Urban,87,2.2,68,728,No,Good,Incident
+TRF-01200,1,Clear,Urban,94,13.2,38,863,No,Fair,Incident
+TRF-01201,18,Storm,Highway,16,6.2,45,797,No,Poor,Incident
+TRF-01202,12,Clear,Urban,66,4.2,31,254,No,Fair,No Incident
+TRF-01203,4,Clear,Highway,85,7.9,20,518,Yes,Fair,No Incident
+TRF-01204,18,Clear,Residential,67,11.2,33,139,No,Poor,No Incident
+TRF-01205,12,Clear,Urban,74,4.0,81,354,No,Good,No Incident
+TRF-01206,12,Clear,Urban,80,3.9,41,900,No,Fair,Incident
+TRF-01207,20,Fog,Urban,23,13.0,81,797,No,Fair,Incident
+TRF-01208,9,Clear,Residential,74,8.6,89,817,Yes,Poor,Incident
+TRF-01209,1,Clear,Residential,86,5.7,45,931,Yes,Fair,Incident
+TRF-01210,19,Clear,Highway,71,5.4,33,938,No,Good,No Incident
+TRF-01211,4,Clear,Industrial,18,10.7,51,230,Yes,Good,No Incident
+TRF-01212,12,Clear,Urban,61,4.7,60,735,Yes,Fair,Incident
+TRF-01213,10,Storm,Highway,78,5.1,49,537,No,Good,No Incident
+TRF-01214,21,Clear,Highway,23,1.7,28,227,Yes,Fair,No Incident
+TRF-01215,0,Fog,Residential,55,7.1,22,385,No,Good,No Incident
+TRF-01216,5,Storm,Highway,85,6.1,57,84,No,Good,Incident
+TRF-01217,9,Storm,Residential,51,3.2,61,905,Yes,Fair,Incident
+TRF-01218,14,Clear,Residential,13,10.8,50,570,No,Good,No Incident
+TRF-01219,5,Clear,Highway,52,2.5,41,694,No,Good,No Incident
+TRF-01220,15,Clear,Residential,80,4.7,50,81,No,Good,No Incident
+TRF-01221,4,Rain,Residential,27,3.6,52,555,Yes,Fair,No Incident
+TRF-01222,21,Clear,Urban,14,11.0,48,504,No,Good,No Incident
+TRF-01223,22,Fog,Residential,21,1.0,77,986,No,Good,Incident
+TRF-01224,2,Clear,Urban,47,11.7,26,668,No,Good,No Incident
+TRF-01225,14,Clear,Urban,9,6.0,59,792,No,Good,No Incident
+TRF-01226,19,Rain,Highway,15,7.7,82,233,No,Fair,Incident
+TRF-01227,8,Rain,Urban,33,8.6,74,646,No,Good,No Incident
+TRF-01228,16,Clear,Highway,77,5.6,79,661,No,Good,No Incident
+TRF-01229,19,Clear,Residential,24,10.2,75,347,Yes,Fair,No Incident
+TRF-01230,20,Clear,Highway,66,9.1,40,364,Yes,Good,No Incident
+TRF-01231,13,Clear,Urban,84,11.1,75,62,No,Good,No Incident
+TRF-01232,14,Clear,Residential,91,7.3,39,946,Yes,Good,Incident
+TRF-01233,3,Fog,Industrial,3,8.2,82,809,Yes,Poor,Incident
+TRF-01234,10,Clear,Urban,30,14.3,65,969,Yes,Poor,No Incident
+TRF-01235,17,Fog,Urban,57,13.4,61,766,No,Fair,Incident
+TRF-01236,19,Clear,Urban,58,14.2,98,869,No,Good,Incident
+TRF-01237,8,Clear,Industrial,61,7.3,35,604,Yes,Fair,No Incident
+TRF-01238,6,Clear,Residential,24,11.5,21,801,No,Good,No Incident
+TRF-01239,17,Clear,Urban,62,7.5,43,579,No,Poor,No Incident
+TRF-01240,1,Rain,Industrial,44,3.4,46,863,Yes,Good,Incident
+TRF-01241,5,Clear,Urban,40,3.7,88,935,No,Good,Incident
+TRF-01242,17,Fog,Highway,57,9.0,49,160,Yes,Poor,Incident
+TRF-01243,16,Rain,Industrial,61,2.5,35,522,No,Fair,No Incident
+TRF-01244,19,Clear,Residential,97,4.2,81,771,No,Good,Incident
+TRF-01245,18,Clear,Urban,14,2.2,80,667,Yes,Good,No Incident
+TRF-01246,19,Clear,Highway,9,2.4,29,835,No,Fair,No Incident
+TRF-01247,7,Rain,Residential,76,12.5,46,796,No,Good,No Incident
+TRF-01248,10,Clear,Residential,34,10.0,53,874,No,Good,No Incident
+TRF-01249,14,Rain,Highway,43,7.0,82,180,No,Good,Incident
+TRF-01250,17,Clear,Highway,13,4.1,97,71,No,Good,No Incident
+TRF-01251,9,Fog,Urban,9,14.4,83,173,No,Fair,Incident
+TRF-01252,17,Fog,Industrial,34,1.1,26,720,No,Fair,Incident
+TRF-01253,4,Rain,Highway,74,14.8,89,432,Yes,Good,No Incident
+TRF-01254,6,Clear,Highway,1,9.0,76,184,No,Fair,No Incident
+TRF-01255,16,Clear,Urban,83,8.1,35,999,No,Fair,Incident
+TRF-01256,18,Clear,Urban,16,8.0,39,648,Yes,Fair,No Incident
+TRF-01257,1,Clear,Urban,50,9.1,26,375,Yes,Good,No Incident
+TRF-01258,23,Clear,Urban,99,8.9,86,595,Yes,Good,No Incident
+TRF-01259,18,Clear,Urban,84,14.1,87,948,No,Good,Incident
+TRF-01260,8,Clear,Urban,13,9.1,20,379,No,Good,No Incident
+TRF-01261,15,Fog,Urban,60,8.0,91,337,Yes,Fair,Incident
+TRF-01262,6,Fog,Urban,3,5.3,77,94,No,Poor,No Incident
+TRF-01263,2,Rain,Urban,51,4.8,66,165,Yes,Good,No Incident
+TRF-01264,14,Clear,Highway,49,3.6,20,572,Yes,Fair,Incident
+TRF-01265,21,Clear,Highway,40,5.1,81,644,No,Good,No Incident
+TRF-01266,21,Storm,Urban,90,12.7,43,439,Yes,Poor,Incident
+TRF-01267,1,Clear,Residential,99,1.7,91,857,Yes,Fair,Incident
+TRF-01268,14,Clear,Industrial,45,12.3,72,898,Yes,Good,No Incident
+TRF-01269,1,Clear,Highway,100,4.6,37,63,No,Good,No Incident
+TRF-01270,23,Clear,Industrial,90,4.7,25,298,No,Fair,No Incident
+TRF-01271,9,Storm,Urban,2,5.8,22,116,No,Fair,Incident
+TRF-01272,22,Storm,Highway,53,11.6,66,958,No,Poor,Incident
+TRF-01273,12,Clear,Highway,1,12.7,58,671,No,Good,No Incident
+TRF-01274,17,Rain,Highway,33,10.0,21,514,No,Good,No Incident
+TRF-01275,0,Clear,Highway,9,13.2,56,905,No,Fair,No Incident
+TRF-01276,16,Rain,Urban,81,10.5,98,692,No,Fair,No Incident
+TRF-01277,14,Fog,Industrial,73,13.7,53,112,No,Fair,No Incident
+TRF-01278,4,Rain,Industrial,33,13.9,89,293,No,Fair,Incident
+TRF-01279,10,Clear,Residential,19,14.0,87,933,No,Good,No Incident
+TRF-01280,8,Clear,Residential,4,8.6,23,304,Yes,Good,No Incident
+TRF-01281,0,Storm,Urban,29,4.7,21,127,Yes,Good,Incident
+TRF-01282,19,Storm,Urban,40,8.3,36,323,Yes,Good,Incident
+TRF-01283,16,Rain,Urban,11,13.9,89,441,No,Fair,No Incident
+TRF-01284,9,Fog,Urban,23,4.1,75,153,Yes,Good,No Incident
+TRF-01285,7,Clear,Urban,40,9.8,49,616,Yes,Fair,No Incident
+TRF-01286,5,Clear,Urban,9,7.2,68,884,Yes,Good,No Incident
+TRF-01287,18,Storm,Urban,60,4.7,37,308,No,Good,Incident
+TRF-01288,1,Clear,Highway,22,4.1,44,628,No,Fair,No Incident
+TRF-01289,12,Clear,Urban,61,12.2,82,553,Yes,Poor,Incident
+TRF-01290,5,Clear,Residential,9,10.2,29,564,No,Fair,No Incident
+TRF-01291,1,Clear,Industrial,31,5.0,63,320,No,Good,No Incident
+TRF-01292,13,Clear,Residential,27,11.1,64,735,No,Good,No Incident
+TRF-01293,6,Rain,Urban,62,13.6,84,167,No,Fair,No Incident
+TRF-01294,22,Rain,Urban,55,4.6,99,603,Yes,Fair,No Incident
+TRF-01295,17,Clear,Highway,70,11.1,48,51,Yes,Fair,No Incident
+TRF-01296,9,Clear,Urban,66,13.3,26,408,No,Good,No Incident
+TRF-01297,23,Fog,Highway,12,5.7,54,945,No,Good,Incident
+TRF-01298,18,Fog,Urban,91,1.9,43,836,No,Good,Incident
+TRF-01299,11,Clear,Highway,30,8.7,53,136,No,Poor,No Incident
+TRF-01300,3,Fog,Industrial,11,6.4,32,584,No,Fair,No Incident
+TRF-01301,1,Rain,Residential,98,14.1,93,260,Yes,Good,Incident
+TRF-01302,19,Clear,Urban,25,1.5,59,788,Yes,Fair,Incident
+TRF-01303,11,Clear,Residential,63,4.5,81,273,No,Fair,No Incident
+TRF-01304,22,Clear,Urban,42,4.4,43,725,Yes,Fair,No Incident
+TRF-01305,11,Clear,Urban,5,3.6,74,500,Yes,Fair,No Incident
+TRF-01306,12,Clear,Urban,94,14.1,73,394,Yes,Fair,No Incident
+TRF-01307,19,Rain,Highway,21,11.0,51,192,Yes,Fair,No Incident
+TRF-01308,10,Rain,Highway,27,11.2,96,121,No,Good,No Incident
+TRF-01309,12,Fog,Urban,35,7.8,83,674,No,Good,Incident
+TRF-01310,21,Fog,Residential,49,12.3,81,197,Yes,Good,No Incident
+TRF-01311,5,Clear,Highway,15,8.8,94,326,No,Fair,No Incident
+TRF-01312,5,Fog,Urban,22,7.3,22,448,No,Good,No Incident
+TRF-01313,22,Clear,Highway,4,14.3,54,475,Yes,Good,No Incident
+TRF-01314,22,Clear,Industrial,98,3.9,42,847,No,Good,No Incident
+TRF-01315,23,Clear,Highway,58,12.7,65,655,Yes,Good,No Incident
+TRF-01316,22,Clear,Residential,66,8.2,43,933,No,Good,No Incident
+TRF-01317,0,Fog,Urban,81,1.3,61,742,No,Fair,Incident
+TRF-01318,22,Clear,Highway,51,2.7,77,493,No,Fair,Incident
+TRF-01319,3,Clear,Industrial,34,3.3,69,86,Yes,Good,No Incident
+TRF-01320,21,Clear,Highway,41,6.3,35,732,Yes,Good,No Incident
+TRF-01321,16,Storm,Highway,71,10.0,91,681,Yes,Fair,Incident
+TRF-01322,12,Clear,Urban,89,4.1,55,443,Yes,Good,No Incident
+TRF-01323,10,Fog,Highway,9,5.2,66,737,No,Good,Incident
+TRF-01324,16,Rain,Residential,100,5.4,28,195,Yes,Good,No Incident
+TRF-01325,15,Clear,Industrial,44,12.1,42,124,No,Fair,No Incident
+TRF-01326,12,Rain,Highway,73,8.1,23,477,No,Good,No Incident
+TRF-01327,1,Clear,Residential,82,5.2,78,92,No,Good,Incident
+TRF-01328,7,Rain,Urban,59,10.3,55,316,Yes,Fair,Incident
+TRF-01329,4,Clear,Highway,8,7.3,32,186,No,Good,No Incident
+TRF-01330,23,Clear,Urban,95,13.3,59,319,Yes,Fair,No Incident
+TRF-01331,20,Clear,Urban,54,13.1,46,136,Yes,Good,No Incident
+TRF-01332,0,Clear,Urban,98,12.5,41,66,No,Fair,No Incident
+TRF-01333,14,Storm,Highway,10,6.7,99,436,Yes,Good,No Incident
+TRF-01334,6,Rain,Urban,13,12.2,27,896,No,Fair,Incident
+TRF-01335,12,Rain,Residential,10,7.3,56,868,Yes,Fair,Incident
+TRF-01336,22,Clear,Urban,88,13.7,59,231,No,Fair,No Incident
+TRF-01337,14,Rain,Highway,4,12.5,62,145,No,Good,No Incident
+TRF-01338,22,Clear,Urban,75,11.7,34,452,No,Good,No Incident
+TRF-01339,7,Clear,Industrial,48,9.7,53,628,No,Fair,No Incident
+TRF-01340,6,Storm,Industrial,79,1.3,56,770,No,Good,Incident
+TRF-01341,20,Rain,Residential,32,2.9,64,296,No,Fair,Incident
+TRF-01342,23,Clear,Highway,56,14.4,24,694,Yes,Poor,No Incident
+TRF-01343,15,Rain,Urban,24,13.2,85,335,No,Fair,No Incident
+TRF-01344,19,Clear,Urban,97,3.5,68,124,No,Good,Incident
+TRF-01345,9,Rain,Highway,12,11.4,81,413,No,Poor,Incident
+TRF-01346,18,Clear,Highway,65,9.9,87,217,No,Good,No Incident
+TRF-01347,4,Fog,Urban,35,7.5,36,740,No,Fair,No Incident
+TRF-01348,13,Storm,Highway,56,1.2,47,754,Yes,Good,Incident
+TRF-01349,17,Rain,Residential,68,3.7,38,465,No,Fair,Incident
+TRF-01350,9,Clear,Urban,82,14.5,43,718,Yes,Poor,Incident
+TRF-01351,6,Clear,Highway,70,11.8,97,772,Yes,Fair,No Incident
+TRF-01352,0,Clear,Urban,6,2.1,60,171,No,Fair,No Incident
+TRF-01353,11,Clear,Residential,18,5.5,80,74,No,Good,No Incident
+TRF-01354,8,Clear,Highway,39,5.9,67,666,Yes,Good,No Incident
+TRF-01355,15,Rain,Highway,53,10.7,68,358,No,Poor,Incident
+TRF-01356,8,Clear,Urban,76,8.5,23,339,Yes,Good,Incident
+TRF-01357,17,Clear,Highway,29,12.1,43,117,No,Good,No Incident
+TRF-01358,1,Storm,Highway,5,12.7,45,492,Yes,Good,No Incident
+TRF-01359,23,Clear,Industrial,27,13.6,30,255,No,Good,No Incident
+TRF-01360,2,Storm,Residential,28,3.2,65,992,No,Good,Incident
+TRF-01361,8,Clear,Residential,7,15.0,39,736,No,Fair,No Incident
+TRF-01362,6,Clear,Residential,50,14.6,82,849,Yes,Good,Incident
+TRF-01363,19,Clear,Highway,40,5.1,75,177,No,Fair,No Incident
+TRF-01364,11,Rain,Urban,78,7.7,45,495,No,Good,No Incident
+TRF-01365,18,Fog,Urban,23,5.4,87,286,No,Poor,Incident
+TRF-01366,18,Clear,Highway,68,7.8,24,501,No,Fair,No Incident
+TRF-01367,15,Rain,Urban,88,5.9,53,451,No,Good,No Incident
+TRF-01368,14,Clear,Urban,80,10.3,92,144,Yes,Fair,Incident
+TRF-01369,12,Clear,Industrial,28,1.5,32,996,No,Good,Incident
+TRF-01370,12,Clear,Residential,99,7.0,87,352,No,Fair,Incident
+TRF-01371,18,Clear,Highway,3,8.4,25,185,Yes,Fair,No Incident
+TRF-01372,19,Clear,Highway,62,8.8,97,234,Yes,Poor,Incident
+TRF-01373,10,Clear,Urban,53,3.9,87,880,Yes,Good,No Incident
+TRF-01374,20,Rain,Highway,66,13.3,55,129,Yes,Fair,No Incident
+TRF-01375,0,Clear,Industrial,8,1.2,61,327,No,Good,No Incident
+TRF-01376,10,Clear,Industrial,26,12.9,57,884,Yes,Good,No Incident
+TRF-01377,16,Clear,Urban,54,1.2,33,353,No,Good,No Incident
+TRF-01378,14,Storm,Highway,87,14.3,40,806,Yes,Fair,Incident
+TRF-01379,9,Clear,Residential,39,14.4,45,492,No,Good,No Incident
+TRF-01380,22,Clear,Residential,1,9.3,55,325,No,Fair,No Incident
+TRF-01381,1,Clear,Urban,5,14.0,100,440,No,Poor,Incident
+TRF-01382,1,Rain,Residential,68,2.2,99,479,No,Fair,Incident
+TRF-01383,11,Clear,Residential,1,11.9,36,835,Yes,Good,No Incident
+TRF-01384,14,Rain,Highway,7,7.9,59,947,No,Fair,No Incident
+TRF-01385,9,Rain,Urban,26,6.0,21,684,No,Fair,No Incident
+TRF-01386,18,Clear,Urban,59,7.6,49,105,Yes,Good,No Incident
+TRF-01387,15,Fog,Industrial,63,4.6,95,692,Yes,Good,No Incident
+TRF-01388,10,Storm,Residential,82,10.1,95,951,Yes,Fair,Incident
+TRF-01389,6,Clear,Highway,46,10.4,23,123,Yes,Fair,No Incident
+TRF-01390,17,Clear,Urban,96,3.0,65,587,Yes,Good,Incident
+TRF-01391,11,Clear,Urban,37,9.5,90,612,No,Good,No Incident
+TRF-01392,20,Clear,Industrial,32,12.4,46,56,No,Good,No Incident
+TRF-01393,4,Fog,Residential,44,9.5,51,549,No,Good,No Incident
+TRF-01394,18,Storm,Residential,76,1.5,92,536,No,Poor,Incident
+TRF-01395,16,Clear,Highway,75,7.5,30,834,No,Good,No Incident
+TRF-01396,12,Rain,Urban,6,11.0,55,970,Yes,Good,No Incident
+TRF-01397,22,Clear,Residential,68,3.3,75,75,Yes,Good,No Incident
+TRF-01398,17,Rain,Urban,85,7.3,38,95,No,Poor,Incident
+TRF-01399,22,Clear,Industrial,74,14.4,69,120,Yes,Fair,No Incident
+TRF-01400,17,Clear,Highway,95,7.2,20,59,Yes,Good,No Incident
+TRF-01401,6,Storm,Residential,75,12.2,27,324,Yes,Good,No Incident
+TRF-01402,9,Clear,Residential,89,12.4,23,403,No,Good,No Incident
+TRF-01403,21,Fog,Industrial,11,5.7,21,979,Yes,Good,No Incident
+TRF-01404,0,Clear,Residential,69,11.3,20,351,No,Good,No Incident
+TRF-01405,21,Fog,Residential,5,2.9,82,324,Yes,Good,Incident
+TRF-01406,22,Clear,Urban,53,4.8,38,109,No,Good,No Incident
+TRF-01407,20,Clear,Highway,79,10.0,68,462,No,Fair,No Incident
+TRF-01408,11,Clear,Highway,30,3.2,34,523,No,Fair,No Incident
+TRF-01409,16,Rain,Urban,41,14.6,84,790,No,Poor,Incident
+TRF-01410,7,Clear,Urban,27,14.2,39,926,Yes,Good,No Incident
+TRF-01411,4,Clear,Urban,43,4.1,49,591,No,Good,No Incident
+TRF-01412,6,Rain,Urban,24,8.3,58,374,No,Fair,No Incident
+TRF-01413,21,Rain,Urban,80,9.0,72,797,Yes,Good,No Incident
+TRF-01414,9,Clear,Highway,29,12.1,75,486,Yes,Good,No Incident
+TRF-01415,17,Rain,Residential,59,4.6,42,534,Yes,Good,No Incident
+TRF-01416,13,Clear,Urban,48,14.3,38,897,No,Good,No Incident
+TRF-01417,23,Fog,Urban,2,2.7,24,893,No,Fair,Incident
+TRF-01418,12,Fog,Residential,76,12.1,24,70,No,Good,Incident
+TRF-01419,10,Clear,Highway,10,4.7,75,871,Yes,Good,No Incident
+TRF-01420,9,Rain,Residential,74,13.4,52,359,No,Good,No Incident
+TRF-01421,16,Clear,Industrial,85,3.4,43,86,No,Good,No Incident
+TRF-01422,1,Clear,Urban,81,7.6,35,915,Yes,Good,No Incident
+TRF-01423,23,Rain,Urban,7,2.9,55,617,No,Good,No Incident
+TRF-01424,23,Rain,Urban,68,10.6,25,955,Yes,Good,No Incident
+TRF-01425,2,Clear,Highway,96,6.6,47,778,No,Fair,No Incident
+TRF-01426,0,Fog,Urban,76,13.2,38,245,Yes,Fair,Incident
+TRF-01427,21,Fog,Highway,24,14.5,91,415,No,Good,No Incident
+TRF-01428,22,Clear,Industrial,60,13.0,85,145,No,Good,No Incident
+TRF-01429,11,Clear,Highway,19,5.0,89,293,No,Good,No Incident
+TRF-01430,0,Clear,Residential,30,11.9,44,774,No,Good,No Incident
+TRF-01431,2,Rain,Highway,4,8.0,48,540,No,Poor,No Incident
+TRF-01432,12,Clear,Industrial,71,6.5,23,275,No,Good,No Incident
+TRF-01433,22,Fog,Highway,41,6.3,24,779,No,Good,Incident
+TRF-01434,18,Clear,Urban,99,5.9,48,786,No,Good,No Incident
+TRF-01435,0,Clear,Highway,48,3.8,27,989,No,Good,No Incident
+TRF-01436,15,Storm,Urban,87,5.3,97,142,No,Good,Incident
+TRF-01437,19,Fog,Residential,78,12.1,52,741,No,Good,Incident
+TRF-01438,16,Clear,Urban,30,1.2,94,256,Yes,Poor,Incident
+TRF-01439,10,Clear,Urban,42,12.9,84,857,No,Fair,Incident
+TRF-01440,2,Rain,Urban,65,13.1,86,935,No,Fair,Incident
+TRF-01441,17,Rain,Residential,81,13.8,66,501,No,Good,Incident
+TRF-01442,20,Fog,Residential,24,1.0,98,214,No,Fair,Incident
+TRF-01443,13,Rain,Residential,46,14.9,94,710,No,Poor,Incident
+TRF-01444,15,Clear,Residential,34,7.7,87,764,No,Poor,Incident
+TRF-01445,2,Clear,Residential,58,13.0,72,75,No,Good,No Incident
+TRF-01446,22,Clear,Urban,57,10.1,78,131,Yes,Poor,Incident
+TRF-01447,8,Clear,Urban,88,3.7,65,228,No,Good,Incident
+TRF-01448,23,Clear,Residential,100,1.9,98,875,Yes,Fair,Incident
+TRF-01449,3,Rain,Urban,29,9.0,90,418,No,Poor,Incident
+TRF-01450,18,Storm,Urban,95,1.3,84,696,No,Good,Incident
+TRF-01451,18,Fog,Urban,36,13.4,98,830,No,Good,Incident
+TRF-01452,19,Clear,Highway,2,8.9,28,254,No,Good,No Incident
+TRF-01453,6,Rain,Industrial,44,13.5,21,899,Yes,Fair,No Incident
+TRF-01454,23,Clear,Urban,88,11.7,21,846,No,Fair,Incident
+TRF-01455,9,Fog,Highway,77,13.4,96,868,No,Poor,Incident
+TRF-01456,17,Clear,Industrial,96,10.4,47,135,No,Good,No Incident
+TRF-01457,1,Clear,Residential,18,13.0,53,852,Yes,Fair,No Incident
+TRF-01458,14,Clear,Industrial,81,3.4,31,207,Yes,Poor,Incident
+TRF-01459,6,Clear,Highway,59,8.4,49,685,No,Good,No Incident
+TRF-01460,12,Storm,Urban,28,3.3,70,692,No,Good,Incident
+TRF-01461,17,Fog,Highway,68,1.8,91,772,Yes,Good,Incident
+TRF-01462,12,Clear,Urban,61,2.0,70,468,No,Good,No Incident
+TRF-01463,1,Clear,Highway,29,6.2,39,905,Yes,Good,No Incident
+TRF-01464,15,Rain,Highway,63,10.6,97,119,No,Fair,No Incident
+TRF-01465,8,Rain,Urban,6,6.7,23,536,Yes,Poor,Incident
+TRF-01466,14,Fog,Highway,59,5.7,53,645,No,Good,No Incident
+TRF-01467,16,Rain,Urban,92,13.6,69,223,No,Fair,No Incident
+TRF-01468,0,Fog,Urban,21,10.7,22,323,No,Fair,No Incident
+TRF-01469,6,Rain,Industrial,57,2.5,48,979,No,Good,Incident
+TRF-01470,3,Clear,Urban,35,6.9,71,353,No,Fair,No Incident
+TRF-01471,16,Storm,Urban,41,9.5,59,776,Yes,Good,Incident
+TRF-01472,10,Clear,Urban,82,11.8,58,286,No,Fair,No Incident
+TRF-01473,2,Clear,Residential,85,6.3,32,297,No,Good,No Incident
+TRF-01474,6,Rain,Residential,29,9.2,43,497,No,Fair,No Incident
+TRF-01475,22,Rain,Urban,74,9.4,54,126,No,Good,No Incident
+TRF-01476,16,Rain,Residential,20,12.4,33,378,No,Fair,No Incident
+TRF-01477,9,Rain,Urban,63,3.2,75,110,Yes,Fair,Incident
+TRF-01478,23,Clear,Industrial,21,3.9,35,658,No,Fair,Incident
+TRF-01479,16,Fog,Industrial,20,1.5,65,456,No,Good,Incident
+TRF-01480,6,Rain,Residential,72,8.7,28,481,No,Poor,Incident
+TRF-01481,3,Clear,Urban,70,4.5,40,587,No,Good,No Incident
+TRF-01482,19,Rain,Highway,97,9.7,67,324,Yes,Good,No Incident
+TRF-01483,7,Clear,Urban,99,13.7,40,419,No,Good,Incident
+TRF-01484,8,Clear,Residential,21,4.4,58,901,No,Good,No Incident
+TRF-01485,6,Clear,Urban,51,14.4,68,565,No,Good,No Incident
+TRF-01486,17,Clear,Residential,45,9.6,20,213,No,Good,No Incident
+TRF-01487,3,Clear,Highway,7,11.4,58,354,No,Good,No Incident
+TRF-01488,2,Clear,Urban,30,4.7,86,292,Yes,Good,No Incident
+TRF-01489,14,Rain,Highway,85,12.0,75,411,No,Fair,No Incident
+TRF-01490,14,Clear,Urban,26,1.1,94,898,No,Fair,Incident
+TRF-01491,15,Clear,Highway,6,13.5,95,950,No,Fair,No Incident
+TRF-01492,12,Clear,Highway,1,11.8,56,865,Yes,Good,No Incident
+TRF-01493,5,Rain,Residential,33,4.6,66,621,No,Fair,No Incident
+TRF-01494,19,Fog,Residential,89,11.7,97,122,Yes,Poor,Incident
+TRF-01495,23,Clear,Residential,28,15.0,61,325,No,Good,No Incident
+TRF-01496,2,Storm,Urban,31,11.4,51,378,No,Good,No Incident
+TRF-01497,7,Rain,Urban,48,1.7,83,770,No,Fair,Incident
+TRF-01498,12,Fog,Highway,72,7.6,29,369,No,Fair,No Incident
+TRF-01499,10,Clear,Highway,20,14.9,30,529,No,Good,No Incident
+TRF-01500,20,Fog,Industrial,92,12.4,48,864,Yes,Good,Incident
+TRF-01501,23,Clear,Urban,83,11.9,33,534,No,Poor,Incident
+TRF-01502,16,Clear,Residential,45,2.9,73,125,No,Fair,No Incident
+TRF-01503,9,Clear,Urban,10,8.2,68,505,No,Fair,No Incident
+TRF-01504,3,Clear,Residential,8,2.5,34,117,No,Fair,No Incident
+TRF-01505,17,Rain,Urban,34,12.5,31,636,Yes,Good,No Incident
+TRF-01506,20,Clear,Residential,96,7.2,27,562,Yes,Good,No Incident
+TRF-01507,23,Fog,Urban,65,13.2,80,385,No,Fair,Incident
+TRF-01508,5,Clear,Highway,91,5.1,57,550,Yes,Poor,No Incident
+TRF-01509,14,Clear,Urban,84,3.9,98,246,Yes,Good,Incident
+TRF-01510,1,Clear,Urban,12,12.7,40,380,No,Good,No Incident
+TRF-01511,22,Clear,Residential,78,2.0,35,957,No,Fair,Incident
+TRF-01512,2,Clear,Residential,38,5.0,27,224,No,Poor,No Incident
+TRF-01513,18,Clear,Urban,66,8.0,26,694,Yes,Poor,Incident
+TRF-01514,18,Clear,Urban,83,1.0,27,168,No,Poor,Incident
+TRF-01515,11,Clear,Urban,53,11.1,94,682,No,Fair,No Incident
+TRF-01516,20,Clear,Residential,16,10.0,50,80,No,Good,No Incident
+TRF-01517,1,Clear,Residential,72,14.3,41,767,No,Good,No Incident
+TRF-01518,21,Rain,Urban,50,1.6,53,557,Yes,Good,No Incident
+TRF-01519,8,Rain,Urban,31,8.7,34,502,No,Poor,Incident
+TRF-01520,18,Clear,Residential,58,13.1,49,541,No,Good,No Incident
+TRF-01521,2,Clear,Urban,28,9.2,64,640,Yes,Good,No Incident
+TRF-01522,21,Clear,Highway,32,8.9,78,215,Yes,Poor,No Incident
+TRF-01523,3,Clear,Urban,65,7.0,20,346,No,Good,No Incident
+TRF-01524,22,Storm,Highway,84,9.2,69,740,No,Fair,Incident
+TRF-01525,7,Clear,Highway,34,4.1,41,377,Yes,Good,No Incident
+TRF-01526,12,Fog,Residential,58,12.3,76,169,No,Fair,Incident
+TRF-01527,16,Clear,Residential,84,12.2,45,366,No,Fair,No Incident
+TRF-01528,15,Fog,Highway,86,13.5,87,717,No,Poor,Incident
+TRF-01529,13,Storm,Highway,77,13.8,99,986,No,Good,Incident
+TRF-01530,22,Rain,Highway,71,4.3,93,348,Yes,Fair,No Incident
+TRF-01531,14,Fog,Highway,86,10.7,60,801,Yes,Fair,Incident
+TRF-01532,12,Fog,Residential,42,4.2,57,836,No,Good,Incident
+TRF-01533,1,Clear,Highway,42,6.5,57,901,No,Good,No Incident
+TRF-01534,5,Clear,Highway,16,10.9,53,639,No,Fair,No Incident
+TRF-01535,11,Storm,Residential,16,5.7,25,65,No,Good,No Incident
+TRF-01536,22,Rain,Residential,66,9.3,73,803,No,Fair,No Incident
+TRF-01537,12,Fog,Residential,31,9.6,91,812,No,Good,Incident
+TRF-01538,1,Clear,Industrial,36,4.5,68,569,No,Poor,No Incident
+TRF-01539,4,Rain,Urban,46,5.3,25,672,Yes,Good,Incident
+TRF-01540,14,Rain,Residential,48,5.4,52,476,No,Good,No Incident
+TRF-01541,3,Rain,Industrial,14,4.0,46,167,No,Good,No Incident
+TRF-01542,22,Storm,Industrial,13,9.0,97,636,No,Poor,Incident
+TRF-01543,4,Storm,Highway,6,3.8,20,371,Yes,Good,Incident
+TRF-01544,17,Fog,Residential,79,14.5,78,286,Yes,Good,Incident
+TRF-01545,18,Clear,Residential,4,6.8,86,207,No,Poor,Incident
+TRF-01546,14,Clear,Residential,83,7.6,60,62,No,Fair,No Incident
+TRF-01547,13,Clear,Highway,84,13.0,52,480,No,Fair,No Incident
+TRF-01548,11,Clear,Residential,98,7.3,48,882,Yes,Good,No Incident
+TRF-01549,4,Rain,Residential,30,3.5,63,513,Yes,Fair,No Incident
+TRF-01550,6,Clear,Highway,61,3.0,79,944,No,Fair,Incident
+TRF-01551,10,Clear,Highway,12,10.1,60,284,No,Good,No Incident
+TRF-01552,13,Storm,Urban,23,6.8,82,402,Yes,Good,Incident
+TRF-01553,20,Clear,Residential,7,12.8,34,129,Yes,Good,No Incident
+TRF-01554,17,Fog,Industrial,91,1.5,40,668,No,Good,Incident
+TRF-01555,23,Rain,Urban,27,3.7,60,958,Yes,Good,No Incident
+TRF-01556,13,Clear,Industrial,2,12.6,90,362,No,Good,No Incident
+TRF-01557,10,Clear,Residential,42,9.5,98,818,No,Fair,Incident
+TRF-01558,18,Rain,Urban,42,11.2,88,861,No,Fair,Incident
+TRF-01559,11,Clear,Industrial,92,5.8,80,179,Yes,Good,Incident
+TRF-01560,23,Storm,Highway,39,3.9,100,939,No,Good,Incident
+TRF-01561,13,Fog,Urban,64,7.9,23,763,No,Poor,Incident
+TRF-01562,15,Clear,Urban,56,1.1,21,552,No,Poor,No Incident
+TRF-01563,22,Rain,Highway,70,14.8,35,876,Yes,Poor,No Incident
+TRF-01564,16,Clear,Urban,35,2.6,49,845,No,Good,No Incident
+TRF-01565,8,Clear,Residential,4,13.4,78,552,No,Good,No Incident
+TRF-01566,20,Rain,Highway,46,3.0,22,767,Yes,Good,Incident
+TRF-01567,22,Clear,Residential,44,4.3,33,921,No,Good,No Incident
+TRF-01568,13,Clear,Residential,68,7.1,83,360,No,Good,No Incident
+TRF-01569,20,Storm,Industrial,83,6.3,48,571,Yes,Good,Incident
+TRF-01570,6,Clear,Residential,54,14.4,62,936,Yes,Fair,No Incident
+TRF-01571,11,Clear,Residential,37,8.1,35,256,No,Fair,No Incident
+TRF-01572,19,Clear,Residential,2,3.8,57,292,No,Fair,No Incident
+TRF-01573,4,Clear,Highway,49,13.8,71,464,Yes,Good,No Incident
+TRF-01574,19,Clear,Urban,16,11.6,35,987,No,Fair,Incident
+TRF-01575,22,Storm,Industrial,12,10.5,86,137,Yes,Good,Incident
+TRF-01576,23,Clear,Industrial,3,1.6,56,167,Yes,Poor,No Incident
+TRF-01577,3,Clear,Urban,79,3.1,85,652,Yes,Good,Incident
+TRF-01578,0,Clear,Urban,96,13.4,36,269,No,Fair,No Incident
+TRF-01579,8,Clear,Urban,50,1.3,43,979,No,Good,Incident
+TRF-01580,12,Clear,Urban,30,5.1,22,304,No,Fair,No Incident
+TRF-01581,12,Clear,Urban,58,5.2,44,989,No,Good,No Incident
+TRF-01582,1,Rain,Highway,87,14.5,33,98,No,Poor,Incident
+TRF-01583,15,Fog,Urban,88,3.6,68,154,No,Good,Incident
+TRF-01584,11,Clear,Highway,55,5.3,80,448,Yes,Fair,No Incident
+TRF-01585,8,Clear,Highway,26,10.8,32,197,No,Poor,No Incident
+TRF-01586,11,Clear,Highway,57,4.3,42,966,No,Fair,No Incident
+TRF-01587,13,Rain,Urban,51,4.6,26,735,Yes,Poor,No Incident
+TRF-01588,5,Fog,Urban,20,14.6,95,238,No,Poor,Incident
+TRF-01589,18,Clear,Urban,2,11.0,87,141,Yes,Poor,Incident
+TRF-01590,23,Rain,Highway,9,2.5,92,61,Yes,Fair,Incident
+TRF-01591,8,Fog,Residential,82,11.6,72,967,Yes,Good,Incident
+TRF-01592,17,Rain,Residential,52,1.9,54,175,No,Good,Incident
+TRF-01593,1,Clear,Urban,63,2.3,63,587,Yes,Fair,Incident
+TRF-01594,9,Clear,Highway,23,10.2,76,933,No,Fair,Incident
+TRF-01595,13,Clear,Residential,71,6.8,31,860,No,Good,No Incident
+TRF-01596,19,Clear,Residential,98,14.7,83,304,No,Poor,Incident
+TRF-01597,7,Clear,Urban,49,10.3,39,572,No,Fair,No Incident
+TRF-01598,5,Clear,Residential,75,3.2,77,787,No,Good,Incident
+TRF-01599,20,Clear,Highway,86,7.0,43,833,Yes,Good,No Incident
+TRF-01600,6,Clear,Urban,11,9.9,45,309,No,Fair,No Incident
+TRF-01601,5,Rain,Urban,37,9.1,93,56,No,Fair,No Incident
+TRF-01602,18,Storm,Urban,34,13.2,67,369,No,Poor,No Incident
+TRF-01603,2,Fog,Urban,89,12.9,60,799,No,Good,Incident
+TRF-01604,16,Clear,Urban,71,10.1,42,568,No,Poor,No Incident
+TRF-01605,11,Fog,Highway,57,7.2,78,252,Yes,Poor,Incident
+TRF-01606,18,Clear,Urban,69,6.0,94,512,No,Fair,No Incident
+TRF-01607,20,Clear,Residential,34,6.4,72,541,No,Good,No Incident
+TRF-01608,9,Clear,Urban,62,13.9,41,330,No,Fair,No Incident
+TRF-01609,5,Clear,Urban,7,3.2,32,406,Yes,Fair,No Incident
+TRF-01610,4,Clear,Urban,95,9.4,67,747,No,Fair,No Incident
+TRF-01611,17,Fog,Residential,16,6.6,89,274,No,Good,Incident
+TRF-01612,10,Rain,Highway,6,10.8,76,804,No,Good,No Incident
+TRF-01613,19,Storm,Residential,65,3.0,29,252,Yes,Poor,Incident
+TRF-01614,17,Rain,Urban,89,14.5,40,439,Yes,Good,Incident
+TRF-01615,23,Storm,Highway,34,13.7,88,566,No,Good,Incident
+TRF-01616,20,Clear,Urban,59,5.8,67,330,Yes,Poor,No Incident
+TRF-01617,21,Rain,Urban,45,4.0,39,537,No,Good,No Incident
+TRF-01618,21,Storm,Industrial,82,3.8,28,325,No,Poor,Incident
+TRF-01619,21,Fog,Residential,4,12.7,95,758,Yes,Good,Incident
+TRF-01620,23,Clear,Residential,9,3.1,86,324,No,Good,Incident
+TRF-01621,9,Clear,Industrial,64,4.9,47,322,Yes,Good,No Incident
+TRF-01622,7,Rain,Urban,12,8.9,36,269,No,Good,No Incident
+TRF-01623,14,Clear,Highway,53,12.1,37,291,No,Poor,Incident
+TRF-01624,20,Clear,Highway,82,12.3,38,347,Yes,Good,No Incident
+TRF-01625,4,Storm,Residential,63,11.4,66,942,No,Good,No Incident
+TRF-01626,23,Clear,Urban,71,9.5,66,541,Yes,Fair,No Incident
+TRF-01627,7,Clear,Residential,78,6.2,57,699,No,Good,No Incident
+TRF-01628,6,Rain,Urban,30,8.4,82,64,No,Poor,Incident
+TRF-01629,9,Fog,Highway,16,10.1,56,895,No,Good,Incident
+TRF-01630,0,Clear,Urban,41,3.3,48,249,No,Fair,No Incident
+TRF-01631,9,Rain,Highway,41,12.6,31,191,No,Fair,No Incident
+TRF-01632,3,Clear,Highway,78,9.6,45,642,Yes,Good,No Incident
+TRF-01633,19,Rain,Urban,69,2.8,96,906,No,Good,Incident
+TRF-01634,18,Clear,Industrial,75,12.5,58,68,Yes,Fair,No Incident
+TRF-01635,15,Clear,Industrial,82,8.7,66,818,No,Fair,No Incident
+TRF-01636,19,Clear,Residential,74,9.1,46,514,No,Good,No Incident
+TRF-01637,3,Clear,Residential,83,1.2,47,77,No,Fair,Incident
+TRF-01638,6,Clear,Urban,97,7.0,53,805,No,Good,Incident
+TRF-01639,21,Clear,Residential,94,6.1,54,634,No,Poor,No Incident
+TRF-01640,22,Rain,Urban,87,1.7,95,356,No,Poor,Incident
+TRF-01641,6,Rain,Residential,46,2.6,70,679,No,Good,No Incident
+TRF-01642,5,Clear,Residential,60,13.8,35,697,No,Fair,No Incident
+TRF-01643,2,Rain,Residential,7,6.9,60,289,No,Fair,No Incident
+TRF-01644,17,Clear,Urban,83,6.1,96,415,Yes,Fair,Incident
+TRF-01645,15,Rain,Urban,36,10.4,72,905,No,Poor,No Incident
+TRF-01646,4,Rain,Residential,76,12.1,73,706,No,Good,No Incident
+TRF-01647,14,Clear,Industrial,53,6.9,21,499,No,Good,No Incident
+TRF-01648,18,Rain,Residential,58,14.4,26,804,No,Good,Incident
+TRF-01649,7,Clear,Urban,6,2.8,56,475,No,Fair,Incident
+TRF-01650,1,Fog,Highway,18,7.2,42,103,Yes,Poor,Incident
+TRF-01651,5,Fog,Urban,91,13.4,28,883,No,Poor,Incident
+TRF-01652,14,Clear,Highway,65,9.0,63,345,Yes,Poor,No Incident
+TRF-01653,12,Rain,Residential,36,10.9,88,287,No,Good,No Incident
+TRF-01654,8,Clear,Industrial,62,1.7,42,889,No,Good,No Incident
+TRF-01655,13,Rain,Urban,24,13.7,98,518,Yes,Fair,No Incident
+TRF-01656,15,Storm,Residential,19,1.3,31,112,No,Good,Incident
+TRF-01657,22,Rain,Highway,70,11.9,95,909,Yes,Poor,Incident
+TRF-01658,21,Clear,Highway,79,4.5,100,526,No,Fair,Incident
+TRF-01659,16,Clear,Residential,83,5.5,38,997,No,Good,No Incident
+TRF-01660,7,Storm,Residential,79,5.0,47,838,No,Fair,Incident
+TRF-01661,9,Clear,Residential,47,1.6,60,695,No,Fair,No Incident
+TRF-01662,22,Clear,Highway,83,11.8,87,136,No,Fair,Incident
+TRF-01663,7,Clear,Highway,4,2.7,66,546,No,Good,No Incident
+TRF-01664,10,Rain,Residential,60,8.1,25,779,No,Poor,No Incident
+TRF-01665,23,Clear,Residential,66,14.3,36,582,No,Good,No Incident
+TRF-01666,9,Clear,Urban,96,9.0,26,521,No,Good,No Incident
+TRF-01667,18,Rain,Urban,10,6.8,55,820,Yes,Fair,No Incident
+TRF-01668,4,Clear,Urban,19,6.0,83,944,No,Good,No Incident
+TRF-01669,9,Clear,Highway,33,2.8,49,141,No,Poor,No Incident
+TRF-01670,1,Rain,Urban,93,8.2,43,228,No,Fair,Incident
+TRF-01671,20,Clear,Urban,4,9.2,99,253,No,Good,No Incident
+TRF-01672,1,Clear,Highway,22,1.3,58,186,Yes,Good,No Incident
+TRF-01673,19,Rain,Highway,75,4.0,95,858,Yes,Fair,Incident
+TRF-01674,20,Clear,Urban,37,5.0,87,300,No,Poor,No Incident
+TRF-01675,3,Clear,Highway,66,11.2,65,505,No,Poor,No Incident
+TRF-01676,0,Storm,Urban,9,5.9,100,93,No,Fair,No Incident
+TRF-01677,23,Rain,Highway,97,7.2,87,730,Yes,Good,Incident
+TRF-01678,15,Clear,Urban,31,5.7,61,524,No,Fair,No Incident
+TRF-01679,13,Clear,Urban,11,10.6,47,289,No,Good,No Incident
+TRF-01680,14,Rain,Highway,5,4.9,77,65,No,Fair,No Incident
+TRF-01681,18,Rain,Industrial,34,13.7,52,889,No,Good,No Incident
+TRF-01682,14,Clear,Highway,55,1.4,69,213,No,Fair,No Incident
+TRF-01683,18,Clear,Industrial,70,9.4,20,735,No,Good,No Incident
+TRF-01684,11,Clear,Urban,45,13.1,81,757,Yes,Good,No Incident
+TRF-01685,0,Fog,Urban,29,9.3,50,60,No,Fair,No Incident
+TRF-01686,1,Rain,Residential,60,14.7,79,120,No,Fair,No Incident
+TRF-01687,18,Fog,Urban,55,11.5,33,503,Yes,Poor,Incident
+TRF-01688,4,Rain,Urban,77,9.0,83,372,Yes,Good,Incident
+TRF-01689,2,Fog,Highway,35,1.1,53,302,Yes,Good,No Incident
+TRF-01690,16,Storm,Industrial,18,6.1,21,714,No,Fair,Incident
+TRF-01691,3,Rain,Highway,36,2.1,97,80,No,Good,Incident
+TRF-01692,21,Clear,Industrial,91,13.7,57,635,No,Poor,No Incident
+TRF-01693,7,Clear,Urban,88,13.1,27,438,No,Fair,No Incident
+TRF-01694,11,Rain,Residential,26,5.3,81,346,No,Good,No Incident
+TRF-01695,10,Storm,Residential,44,8.2,58,443,No,Good,No Incident
+TRF-01696,9,Clear,Residential,56,2.8,29,528,No,Good,No Incident
+TRF-01697,14,Rain,Residential,88,7.0,38,866,No,Fair,No Incident
+TRF-01698,20,Clear,Highway,96,12.5,83,718,Yes,Good,Incident
+TRF-01699,5,Rain,Urban,70,12.3,80,802,No,Good,Incident
+TRF-01700,0,Clear,Highway,28,1.3,45,813,Yes,Good,No Incident
+TRF-01701,17,Clear,Highway,31,2.3,64,60,No,Fair,Incident
+TRF-01702,14,Fog,Urban,86,6.8,68,107,No,Good,No Incident
+TRF-01703,10,Rain,Urban,22,6.7,69,625,No,Good,No Incident
+TRF-01704,23,Rain,Industrial,97,5.7,84,134,Yes,Fair,No Incident
+TRF-01705,8,Clear,Highway,75,5.5,42,270,No,Good,No Incident
+TRF-01706,10,Fog,Highway,79,7.9,91,307,Yes,Fair,Incident
+TRF-01707,20,Clear,Residential,91,12.7,96,335,Yes,Good,No Incident
+TRF-01708,7,Clear,Urban,93,6.3,59,377,No,Good,Incident
+TRF-01709,23,Clear,Highway,8,4.2,75,201,No,Good,No Incident
+TRF-01710,8,Clear,Highway,99,13.1,35,838,No,Good,No Incident
+TRF-01711,17,Rain,Industrial,35,13.4,40,277,No,Fair,No Incident
+TRF-01712,13,Storm,Highway,21,14.9,33,671,No,Fair,No Incident
+TRF-01713,18,Clear,Urban,69,3.4,81,890,No,Good,Incident
+TRF-01714,21,Clear,Residential,84,9.5,33,788,Yes,Fair,Incident
+TRF-01715,3,Clear,Industrial,74,3.3,72,364,No,Fair,Incident
+TRF-01716,17,Rain,Industrial,7,13.7,41,157,No,Good,No Incident
+TRF-01717,10,Clear,Highway,80,7.6,20,578,No,Good,No Incident
+TRF-01718,8,Rain,Highway,25,14.3,36,685,No,Poor,Incident
+TRF-01719,18,Clear,Residential,81,8.4,97,542,No,Good,Incident
+TRF-01720,9,Rain,Residential,9,9.2,86,407,No,Fair,Incident
+TRF-01721,3,Rain,Urban,4,12.8,76,895,No,Fair,No Incident
+TRF-01722,15,Clear,Highway,80,1.7,63,475,No,Fair,Incident
+TRF-01723,22,Clear,Highway,28,1.3,67,858,No,Poor,Incident
+TRF-01724,15,Rain,Urban,24,10.0,40,228,No,Fair,No Incident
+TRF-01725,7,Rain,Urban,32,9.0,33,405,No,Good,No Incident
+TRF-01726,2,Clear,Residential,39,9.2,47,310,No,Good,No Incident
+TRF-01727,6,Clear,Urban,83,4.0,59,996,No,Fair,No Incident
+TRF-01728,13,Rain,Urban,1,13.6,45,591,No,Fair,No Incident
+TRF-01729,6,Clear,Urban,22,9.1,22,666,No,Poor,No Incident
+TRF-01730,17,Rain,Urban,65,6.6,58,214,No,Good,No Incident
+TRF-01731,8,Clear,Urban,71,12.5,50,155,No,Good,No Incident
+TRF-01732,3,Rain,Urban,60,7.1,68,277,No,Fair,No Incident
+TRF-01733,15,Storm,Industrial,97,7.2,45,791,Yes,Good,Incident
+TRF-01734,18,Clear,Industrial,71,8.8,92,269,Yes,Fair,No Incident
+TRF-01735,21,Storm,Urban,28,4.8,85,676,Yes,Fair,Incident
+TRF-01736,3,Fog,Residential,73,13.0,65,692,No,Fair,No Incident
+TRF-01737,19,Clear,Residential,53,5.9,56,379,Yes,Fair,No Incident
+TRF-01738,2,Clear,Highway,7,7.8,36,64,No,Poor,No Incident
+TRF-01739,22,Fog,Urban,30,14.2,93,853,Yes,Good,Incident
+TRF-01740,13,Rain,Residential,54,10.1,53,712,No,Fair,No Incident
+TRF-01741,3,Clear,Urban,93,7.5,71,183,No,Good,No Incident
+TRF-01742,18,Clear,Urban,79,2.3,36,102,No,Good,No Incident
+TRF-01743,19,Clear,Urban,26,5.9,94,241,No,Fair,No Incident
+TRF-01744,14,Clear,Urban,79,14.2,99,352,No,Fair,Incident
+TRF-01745,10,Clear,Highway,15,9.3,22,126,Yes,Fair,No Incident
+TRF-01746,14,Clear,Urban,71,3.3,88,948,Yes,Good,Incident
+TRF-01747,18,Rain,Urban,89,2.0,83,722,No,Fair,Incident
+TRF-01748,2,Rain,Residential,96,9.9,80,606,No,Poor,Incident
+TRF-01749,0,Clear,Highway,39,2.7,37,691,No,Good,No Incident
+TRF-01750,13,Rain,Residential,65,13.8,79,122,No,Good,No Incident
+TRF-01751,20,Clear,Highway,64,11.5,29,992,No,Good,No Incident
+TRF-01752,12,Clear,Highway,81,12.6,90,507,No,Good,Incident
+TRF-01753,0,Clear,Urban,52,12.9,54,712,Yes,Good,No Incident
+TRF-01754,0,Clear,Urban,46,9.9,85,552,No,Good,Incident
+TRF-01755,14,Clear,Urban,10,9.8,40,199,Yes,Fair,No Incident
+TRF-01756,18,Rain,Highway,53,11.0,30,458,No,Fair,No Incident
+TRF-01757,12,Clear,Urban,27,4.6,72,111,No,Fair,No Incident
+TRF-01758,5,Clear,Residential,4,14.5,84,323,No,Good,No Incident
+TRF-01759,6,Fog,Highway,36,4.6,36,297,No,Good,No Incident
+TRF-01760,11,Storm,Highway,47,9.6,97,435,No,Good,Incident
+TRF-01761,3,Clear,Urban,17,3.3,44,154,No,Good,No Incident
+TRF-01762,10,Rain,Highway,12,7.1,78,396,No,Good,Incident
+TRF-01763,3,Clear,Residential,85,3.9,67,779,No,Good,Incident
+TRF-01764,16,Clear,Urban,51,11.6,56,270,Yes,Poor,No Incident
+TRF-01765,17,Clear,Urban,1,6.9,30,529,No,Fair,No Incident
+TRF-01766,20,Clear,Urban,22,6.5,54,191,No,Poor,No Incident
+TRF-01767,4,Storm,Urban,62,5.1,77,252,No,Fair,No Incident
+TRF-01768,18,Clear,Urban,1,7.6,55,204,No,Good,No Incident
+TRF-01769,19,Clear,Highway,26,9.1,69,473,No,Fair,Incident
+TRF-01770,5,Rain,Residential,54,12.5,28,531,No,Fair,No Incident
+TRF-01771,21,Rain,Residential,73,14.9,85,671,Yes,Good,No Incident
+TRF-01772,5,Fog,Highway,60,1.6,68,572,No,Fair,Incident
+TRF-01773,6,Clear,Highway,45,9.9,53,919,No,Fair,No Incident
+TRF-01774,10,Clear,Highway,100,3.9,95,860,Yes,Good,Incident
+TRF-01775,19,Clear,Highway,56,1.6,72,184,No,Fair,Incident
+TRF-01776,8,Rain,Highway,97,5.9,51,468,No,Good,Incident
+TRF-01777,19,Rain,Urban,57,12.0,93,109,Yes,Fair,Incident
+TRF-01778,17,Clear,Urban,59,11.7,83,132,Yes,Good,No Incident
+TRF-01779,13,Clear,Highway,69,3.9,21,837,No,Good,Incident
+TRF-01780,13,Clear,Residential,66,2.5,85,162,Yes,Good,No Incident
+TRF-01781,11,Fog,Urban,91,13.4,57,469,Yes,Good,Incident
+TRF-01782,10,Clear,Urban,83,7.1,91,517,No,Fair,Incident
+TRF-01783,7,Clear,Urban,25,6.2,85,894,No,Fair,Incident
+TRF-01784,14,Fog,Urban,67,1.0,48,62,No,Fair,No Incident
+TRF-01785,1,Fog,Highway,4,1.3,61,396,Yes,Good,Incident
+TRF-01786,9,Rain,Urban,1,7.4,57,208,Yes,Good,No Incident
+TRF-01787,10,Rain,Urban,70,5.6,49,273,No,Poor,Incident
+TRF-01788,20,Clear,Urban,49,11.0,72,147,No,Fair,No Incident
+TRF-01789,21,Rain,Urban,6,7.1,52,92,No,Good,No Incident
+TRF-01790,17,Clear,Highway,70,6.7,25,372,No,Good,No Incident
+TRF-01791,4,Clear,Residential,29,7.9,81,526,No,Fair,Incident
+TRF-01792,19,Rain,Highway,49,2.4,82,666,Yes,Good,Incident
+TRF-01793,18,Fog,Urban,41,2.4,65,781,No,Fair,Incident
+TRF-01794,23,Fog,Urban,59,6.0,35,167,Yes,Fair,Incident
+TRF-01795,14,Clear,Urban,73,1.3,21,396,No,Fair,No Incident
+TRF-01796,16,Clear,Highway,99,1.2,66,600,No,Good,Incident
+TRF-01797,7,Storm,Residential,42,10.7,49,936,Yes,Fair,Incident
+TRF-01798,15,Fog,Highway,35,3.2,34,116,Yes,Good,Incident
+TRF-01799,12,Clear,Residential,45,5.1,82,755,No,Good,No Incident
+TRF-01800,18,Clear,Urban,12,10.0,51,845,Yes,Good,No Incident
+TRF-01801,1,Clear,Highway,70,11.4,33,569,No,Good,No Incident
+TRF-01802,15,Clear,Highway,35,11.1,91,443,No,Good,No Incident
+TRF-01803,14,Clear,Urban,28,15.0,49,945,No,Poor,No Incident
+TRF-01804,22,Clear,Residential,13,14.1,79,125,No,Poor,Incident
+TRF-01805,23,Clear,Urban,8,3.1,35,79,Yes,Fair,No Incident
+TRF-01806,9,Clear,Urban,16,13.7,26,179,Yes,Fair,No Incident
+TRF-01807,12,Clear,Residential,20,11.4,87,218,No,Fair,No Incident
+TRF-01808,8,Clear,Highway,77,5.0,62,772,No,Good,No Incident
+TRF-01809,1,Clear,Industrial,62,9.5,82,719,No,Good,No Incident
+TRF-01810,2,Storm,Highway,70,13.2,36,406,Yes,Fair,No Incident
+TRF-01811,2,Clear,Residential,77,7.1,65,731,No,Good,No Incident
+TRF-01812,22,Clear,Urban,35,6.2,30,233,No,Fair,No Incident
+TRF-01813,9,Fog,Urban,96,13.9,68,808,No,Poor,Incident
+TRF-01814,1,Clear,Residential,74,3.6,81,765,No,Good,Incident
+TRF-01815,6,Clear,Urban,41,8.9,97,224,No,Good,No Incident
+TRF-01816,21,Fog,Residential,100,7.9,29,305,Yes,Good,No Incident
+TRF-01817,17,Fog,Urban,27,13.8,33,573,No,Good,No Incident
+TRF-01818,8,Clear,Urban,97,2.1,58,693,Yes,Good,Incident
+TRF-01819,8,Storm,Urban,22,14.3,64,443,Yes,Good,No Incident
+TRF-01820,23,Clear,Highway,56,5.7,98,728,No,Poor,No Incident
+TRF-01821,10,Fog,Highway,35,6.2,57,474,No,Fair,No Incident
+TRF-01822,3,Fog,Highway,46,14.6,57,476,Yes,Good,Incident
+TRF-01823,16,Clear,Residential,76,11.6,86,893,No,Fair,No Incident
+TRF-01824,5,Clear,Residential,58,10.6,30,722,Yes,Good,No Incident
+TRF-01825,15,Clear,Urban,33,10.3,20,233,No,Fair,No Incident
+TRF-01826,18,Clear,Residential,55,1.7,34,560,Yes,Fair,Incident
+TRF-01827,13,Clear,Highway,43,7.3,61,903,No,Good,No Incident
+TRF-01828,9,Clear,Urban,27,1.5,30,865,No,Good,Incident
+TRF-01829,14,Clear,Residential,64,14.4,34,736,Yes,Good,No Incident
+TRF-01830,10,Clear,Urban,78,11.1,66,893,No,Good,No Incident
+TRF-01831,14,Fog,Residential,58,7.6,92,471,No,Poor,Incident
+TRF-01832,4,Clear,Highway,80,1.5,66,176,No,Fair,Incident
+TRF-01833,18,Clear,Urban,35,6.8,93,526,No,Fair,Incident
+TRF-01834,3,Clear,Residential,59,1.2,49,769,Yes,Fair,Incident
+TRF-01835,6,Clear,Urban,61,3.1,32,171,Yes,Fair,No Incident
+TRF-01836,20,Rain,Residential,57,1.2,63,719,No,Fair,Incident
+TRF-01837,12,Clear,Highway,84,2.4,61,718,No,Good,Incident
+TRF-01838,14,Clear,Urban,86,3.6,29,473,No,Good,Incident
+TRF-01839,16,Rain,Urban,100,10.5,83,840,No,Good,Incident
+TRF-01840,18,Rain,Urban,13,2.7,83,200,No,Fair,Incident
+TRF-01841,1,Clear,Urban,32,5.2,52,226,No,Good,No Incident
+TRF-01842,8,Clear,Highway,17,8.1,52,803,No,Fair,No Incident
+TRF-01843,17,Clear,Highway,46,11.1,70,993,No,Good,No Incident
+TRF-01844,11,Clear,Residential,48,6.0,83,329,No,Fair,No Incident
+TRF-01845,10,Rain,Highway,32,11.4,31,306,No,Good,No Incident
+TRF-01846,21,Rain,Urban,67,12.8,98,641,No,Good,No Incident
+TRF-01847,23,Clear,Urban,75,13.3,71,516,No,Good,No Incident
+TRF-01848,21,Rain,Residential,94,11.4,40,996,No,Fair,Incident
+TRF-01849,1,Fog,Urban,60,6.9,65,235,Yes,Good,No Incident
+TRF-01850,14,Clear,Urban,69,14.3,33,477,No,Fair,No Incident
+TRF-01851,3,Fog,Industrial,54,3.2,47,596,No,Fair,No Incident
+TRF-01852,16,Clear,Urban,40,12.6,84,251,No,Fair,No Incident
+TRF-01853,5,Clear,Industrial,98,14.1,36,520,Yes,Good,No Incident
+TRF-01854,1,Rain,Urban,11,7.4,47,898,No,Fair,No Incident
+TRF-01855,15,Fog,Urban,4,6.6,22,96,Yes,Good,No Incident
+TRF-01856,8,Rain,Urban,24,11.0,66,535,Yes,Fair,No Incident
+TRF-01857,22,Storm,Residential,90,4.4,99,945,No,Good,Incident
+TRF-01858,13,Clear,Residential,32,12.8,52,613,No,Good,No Incident
+TRF-01859,2,Clear,Highway,11,2.5,41,400,No,Good,No Incident
+TRF-01860,10,Rain,Highway,97,2.7,37,838,No,Good,Incident
+TRF-01861,20,Clear,Residential,76,7.3,76,287,No,Good,No Incident
+TRF-01862,7,Clear,Highway,93,13.5,77,720,No,Good,Incident
+TRF-01863,16,Fog,Highway,3,2.0,79,225,No,Good,Incident
+TRF-01864,16,Fog,Urban,68,14.9,24,989,No,Poor,Incident
+TRF-01865,7,Clear,Residential,82,1.5,39,239,No,Fair,Incident
+TRF-01866,5,Clear,Urban,89,13.7,44,183,No,Poor,No Incident
+TRF-01867,17,Clear,Urban,91,6.3,92,858,No,Poor,Incident
+TRF-01868,21,Fog,Urban,96,9.1,84,210,No,Fair,No Incident
+TRF-01869,9,Storm,Residential,98,9.1,71,703,No,Fair,Incident
+TRF-01870,4,Rain,Residential,80,7.8,63,878,No,Good,Incident
+TRF-01871,12,Clear,Urban,66,10.0,45,891,No,Fair,No Incident
+TRF-01872,17,Clear,Residential,56,14.5,64,737,No,Good,No Incident
+TRF-01873,14,Clear,Highway,60,12.9,20,863,No,Fair,No Incident
+TRF-01874,11,Clear,Urban,90,13.5,74,644,Yes,Fair,No Incident
+TRF-01875,4,Storm,Urban,47,1.5,42,959,Yes,Good,Incident
+TRF-01876,17,Clear,Highway,54,9.8,36,836,No,Fair,No Incident
+TRF-01877,13,Clear,Urban,24,13.3,49,567,No,Good,No Incident
+TRF-01878,9,Clear,Industrial,3,9.4,74,191,No,Good,No Incident
+TRF-01879,15,Rain,Urban,56,9.5,95,293,Yes,Fair,No Incident
+TRF-01880,8,Clear,Highway,50,5.9,97,826,Yes,Good,No Incident
+TRF-01881,4,Clear,Residential,1,3.1,22,322,No,Fair,No Incident
+TRF-01882,15,Clear,Urban,79,5.4,96,761,No,Fair,Incident
+TRF-01883,6,Clear,Urban,57,6.8,54,330,No,Good,No Incident
+TRF-01884,23,Clear,Residential,59,5.4,50,255,No,Good,No Incident
+TRF-01885,7,Clear,Highway,55,14.9,57,203,No,Good,No Incident
+TRF-01886,16,Storm,Highway,72,11.3,69,256,No,Good,No Incident
+TRF-01887,4,Fog,Residential,42,9.9,46,455,No,Poor,No Incident
+TRF-01888,0,Clear,Urban,89,12.1,69,182,No,Good,No Incident
+TRF-01889,23,Rain,Urban,100,6.4,83,329,No,Good,Incident
+TRF-01890,0,Clear,Industrial,8,7.8,23,419,No,Fair,No Incident
+TRF-01891,0,Clear,Highway,87,11.4,29,238,No,Poor,Incident
+TRF-01892,5,Clear,Residential,7,3.9,68,324,No,Good,No Incident
+TRF-01893,1,Clear,Residential,74,8.0,84,592,No,Good,No Incident
+TRF-01894,8,Clear,Residential,57,9.7,23,758,Yes,Good,No Incident
+TRF-01895,18,Fog,Highway,33,13.7,41,630,No,Good,Incident
+TRF-01896,3,Rain,Highway,42,9.1,24,556,Yes,Good,No Incident
+TRF-01897,23,Storm,Urban,39,4.8,21,708,Yes,Poor,Incident
+TRF-01898,22,Storm,Industrial,39,5.1,99,601,Yes,Good,Incident
+TRF-01899,9,Clear,Highway,62,6.3,25,707,No,Fair,No Incident
+TRF-01900,6,Fog,Highway,26,11.2,89,714,Yes,Fair,No Incident
+TRF-01901,2,Rain,Highway,78,4.8,80,115,Yes,Poor,Incident
+TRF-01902,11,Clear,Urban,89,12.0,94,487,Yes,Good,Incident
+TRF-01903,13,Clear,Highway,64,4.7,97,512,No,Good,No Incident
+TRF-01904,3,Clear,Urban,96,8.0,88,413,No,Good,Incident
+TRF-01905,23,Clear,Urban,80,10.4,65,902,Yes,Good,Incident
+TRF-01906,7,Rain,Urban,44,3.1,68,787,No,Fair,Incident
+TRF-01907,14,Rain,Highway,81,5.3,48,121,No,Fair,No Incident
+TRF-01908,13,Clear,Highway,50,6.4,36,247,No,Good,No Incident
+TRF-01909,16,Rain,Urban,88,10.9,58,576,No,Fair,No Incident
+TRF-01910,10,Clear,Highway,38,7.5,68,466,No,Good,No Incident
+TRF-01911,20,Clear,Urban,87,7.2,84,521,Yes,Good,Incident
+TRF-01912,2,Clear,Urban,13,8.0,87,356,No,Fair,No Incident
+TRF-01913,15,Clear,Urban,51,9.1,36,179,No,Good,No Incident
+TRF-01914,17,Fog,Residential,60,2.3,97,358,No,Fair,Incident
+TRF-01915,18,Storm,Urban,9,14.5,37,52,No,Fair,No Incident
+TRF-01916,23,Clear,Residential,42,4.6,50,110,No,Fair,No Incident
+TRF-01917,22,Clear,Residential,69,1.4,71,381,No,Fair,No Incident
+TRF-01918,5,Clear,Highway,88,9.7,22,274,Yes,Good,No Incident
+TRF-01919,8,Clear,Highway,12,1.2,25,756,No,Fair,Incident
+TRF-01920,5,Rain,Urban,9,6.5,74,330,No,Poor,No Incident
+TRF-01921,2,Clear,Highway,21,3.8,98,90,Yes,Good,Incident
+TRF-01922,18,Storm,Highway,66,2.4,66,118,Yes,Good,Incident
+TRF-01923,22,Rain,Highway,60,7.5,22,979,No,Good,No Incident
+TRF-01924,10,Storm,Residential,7,6.4,21,80,Yes,Good,No Incident
+TRF-01925,21,Storm,Urban,5,7.1,40,818,No,Poor,No Incident
+TRF-01926,0,Rain,Highway,61,13.8,49,889,No,Fair,Incident
+TRF-01927,18,Clear,Urban,83,13.9,71,887,No,Good,Incident
+TRF-01928,1,Rain,Urban,67,9.3,86,995,Yes,Fair,Incident
+TRF-01929,15,Clear,Urban,75,8.4,28,451,No,Good,No Incident
+TRF-01930,23,Clear,Residential,28,8.7,99,983,Yes,Fair,No Incident
+TRF-01931,9,Clear,Urban,11,7.8,74,930,Yes,Poor,Incident
+TRF-01932,17,Clear,Highway,16,4.4,69,658,No,Good,No Incident
+TRF-01933,18,Clear,Urban,67,2.7,68,483,No,Good,No Incident
+TRF-01934,12,Clear,Urban,32,7.3,56,236,No,Fair,No Incident
+TRF-01935,10,Storm,Residential,23,10.3,26,729,No,Good,No Incident
+TRF-01936,3,Clear,Highway,36,2.6,76,707,No,Good,Incident
+TRF-01937,16,Clear,Urban,39,1.8,42,853,No,Fair,No Incident
+TRF-01938,21,Clear,Highway,86,4.0,46,355,Yes,Poor,No Incident
+TRF-01939,9,Rain,Residential,91,2.2,61,396,No,Poor,Incident
+TRF-01940,9,Storm,Highway,24,1.9,48,386,No,Good,Incident
+TRF-01941,4,Clear,Residential,75,8.1,79,245,No,Good,No Incident
+TRF-01942,7,Clear,Residential,50,13.4,100,461,Yes,Fair,Incident
+TRF-01943,15,Clear,Residential,90,14.7,40,556,No,Fair,Incident
+TRF-01944,18,Storm,Urban,96,2.6,20,504,No,Fair,Incident
+TRF-01945,22,Clear,Urban,6,7.5,61,679,No,Poor,No Incident
+TRF-01946,19,Clear,Residential,66,5.0,87,56,Yes,Poor,Incident
+TRF-01947,12,Clear,Urban,56,5.5,45,357,Yes,Good,No Incident
+TRF-01948,0,Rain,Highway,79,14.7,75,647,No,Fair,No Incident
+TRF-01949,4,Clear,Urban,85,8.6,58,231,Yes,Fair,No Incident
+TRF-01950,13,Fog,Urban,1,9.5,67,949,No,Poor,No Incident
+TRF-01951,15,Rain,Urban,96,7.6,86,951,No,Good,Incident
+TRF-01952,8,Rain,Urban,42,11.7,60,610,No,Good,No Incident
+TRF-01953,14,Clear,Urban,84,5.0,24,588,No,Fair,No Incident
+TRF-01954,23,Rain,Residential,5,5.3,70,639,No,Good,No Incident
+TRF-01955,17,Storm,Industrial,46,3.9,64,160,Yes,Fair,Incident
+TRF-01956,7,Fog,Residential,70,6.3,22,739,No,Good,No Incident
+TRF-01957,23,Clear,Urban,99,8.6,91,338,No,Fair,No Incident
+TRF-01958,7,Clear,Residential,98,10.8,100,808,No,Poor,Incident
+TRF-01959,3,Clear,Urban,95,2.6,37,802,No,Good,No Incident
+TRF-01960,15,Clear,Urban,6,9.2,74,619,Yes,Poor,No Incident
+TRF-01961,17,Clear,Highway,71,2.0,26,387,No,Fair,No Incident
+TRF-01962,21,Clear,Industrial,67,3.7,22,821,Yes,Good,Incident
+TRF-01963,2,Clear,Urban,38,1.1,76,461,Yes,Good,Incident
+TRF-01964,15,Rain,Urban,62,4.6,31,658,No,Good,No Incident
+TRF-01965,23,Clear,Residential,9,7.8,67,407,No,Good,No Incident
+TRF-01966,13,Clear,Urban,18,7.0,72,238,No,Fair,No Incident
+TRF-01967,20,Clear,Residential,70,10.7,32,636,No,Fair,No Incident
+TRF-01968,2,Rain,Residential,93,3.1,28,623,No,Good,No Incident
+TRF-01969,0,Clear,Highway,32,10.4,29,510,Yes,Good,No Incident
+TRF-01970,6,Clear,Urban,94,1.6,54,375,No,Poor,Incident
+TRF-01971,21,Fog,Industrial,15,4.1,100,390,No,Fair,No Incident
+TRF-01972,19,Rain,Highway,19,12.0,81,399,No,Fair,Incident
+TRF-01973,17,Clear,Urban,98,10.1,73,441,No,Poor,Incident
+TRF-01974,3,Clear,Highway,42,13.6,48,219,Yes,Fair,No Incident
+TRF-01975,22,Storm,Urban,41,6.3,44,549,No,Good,No Incident
+TRF-01976,22,Clear,Urban,60,10.3,32,998,No,Good,No Incident
+TRF-01977,9,Fog,Highway,44,9.4,91,375,Yes,Poor,Incident
+TRF-01978,22,Clear,Urban,90,5.8,20,631,Yes,Fair,No Incident
+TRF-01979,5,Rain,Urban,23,12.9,96,152,No,Fair,No Incident
+TRF-01980,15,Clear,Urban,61,10.9,38,274,No,Poor,No Incident
+TRF-01981,12,Clear,Highway,66,12.2,33,184,Yes,Good,No Incident
+TRF-01982,7,Clear,Highway,6,5.7,24,86,No,Fair,No Incident
+TRF-01983,4,Rain,Highway,90,12.3,59,461,No,Good,No Incident
+TRF-01984,22,Storm,Residential,1,3.6,37,841,No,Poor,Incident
+TRF-01985,20,Clear,Industrial,94,9.7,63,649,No,Good,No Incident
+TRF-01986,19,Clear,Residential,94,1.8,96,386,No,Fair,Incident
+TRF-01987,8,Rain,Residential,47,12.7,52,189,No,Poor,Incident
+TRF-01988,17,Rain,Highway,99,10.0,52,482,No,Good,Incident
+TRF-01989,22,Rain,Residential,6,4.4,85,687,Yes,Good,Incident
+TRF-01990,3,Clear,Industrial,80,12.9,69,394,No,Fair,No Incident
+TRF-01991,18,Fog,Industrial,99,11.3,77,795,No,Good,Incident
+TRF-01992,14,Fog,Highway,60,1.5,47,86,No,Good,Incident
+TRF-01993,11,Rain,Highway,94,3.3,57,266,No,Good,No Incident
+TRF-01994,19,Clear,Urban,36,6.6,41,376,No,Good,No Incident
+TRF-01995,14,Rain,Highway,35,3.0,66,565,Yes,Fair,No Incident
+TRF-01996,5,Clear,Industrial,2,9.2,37,651,Yes,Good,No Incident
+TRF-01997,16,Storm,Highway,89,5.1,35,432,Yes,Good,Incident
+TRF-01998,6,Rain,Urban,41,9.5,87,928,No,Good,Incident
+TRF-01999,8,Clear,Industrial,21,12.4,84,545,No,Good,No Incident
+TRF-02000,10,Clear,Industrial,66,9.7,83,370,No,Fair,No Incident
+TRF-02001,12,Clear,Urban,83,3.9,31,463,No,Good,No Incident
+TRF-02002,19,Storm,Urban,29,11.9,62,911,No,Good,Incident
+TRF-02003,6,Rain,Urban,1,8.8,88,233,No,Good,No Incident
+TRF-02004,2,Rain,Highway,58,9.9,90,599,No,Poor,Incident
+TRF-02005,16,Rain,Highway,66,1.7,34,278,No,Good,Incident
+TRF-02006,16,Clear,Residential,2,8.9,80,467,No,Poor,Incident
+TRF-02007,3,Rain,Highway,19,12.1,91,787,No,Good,No Incident
+TRF-02008,13,Clear,Highway,5,7.3,85,395,No,Good,No Incident
+TRF-02009,11,Clear,Industrial,9,8.3,39,276,No,Fair,No Incident
+TRF-02010,17,Clear,Highway,7,7.0,61,67,Yes,Fair,No Incident
+TRF-02011,1,Clear,Residential,54,4.4,46,624,No,Good,No Incident
+TRF-02012,3,Clear,Highway,67,8.3,53,329,No,Fair,No Incident
+TRF-02013,2,Storm,Urban,31,10.3,22,143,Yes,Good,No Incident
+TRF-02014,23,Clear,Highway,54,12.7,81,191,No,Good,No Incident
+TRF-02015,16,Rain,Urban,34,2.6,44,731,No,Fair,No Incident
+TRF-02016,3,Clear,Urban,16,3.9,36,976,No,Fair,No Incident
+TRF-02017,0,Rain,Residential,49,3.3,72,340,No,Good,No Incident
+TRF-02018,19,Rain,Highway,85,14.3,32,828,No,Good,Incident
+TRF-02019,11,Clear,Residential,23,4.9,59,441,Yes,Poor,No Incident
+TRF-02020,0,Clear,Urban,71,2.9,31,236,Yes,Poor,No Incident
+TRF-02021,15,Clear,Residential,11,5.3,71,714,Yes,Good,No Incident
+TRF-02022,17,Rain,Industrial,20,13.6,72,816,No,Fair,No Incident
+TRF-02023,9,Fog,Residential,76,13.3,94,661,No,Good,Incident
+TRF-02024,7,Clear,Urban,27,7.5,56,912,No,Good,Incident
+TRF-02025,3,Clear,Highway,85,6.0,42,932,No,Good,Incident
+TRF-02026,9,Rain,Urban,83,10.8,57,697,No,Good,Incident
+TRF-02027,18,Clear,Industrial,33,2.6,71,694,No,Fair,No Incident
+TRF-02028,21,Rain,Residential,16,10.9,71,134,No,Good,No Incident
+TRF-02029,5,Storm,Urban,61,4.5,52,472,Yes,Fair,Incident
+TRF-02030,9,Clear,Urban,4,14.2,58,868,Yes,Good,No Incident
+TRF-02031,10,Fog,Residential,72,3.3,93,242,Yes,Poor,Incident
+TRF-02032,12,Clear,Residential,31,6.6,88,319,No,Good,No Incident
+TRF-02033,9,Rain,Highway,2,9.1,42,948,Yes,Good,No Incident
+TRF-02034,14,Rain,Highway,13,10.0,99,122,Yes,Good,No Incident
+TRF-02035,15,Clear,Urban,1,2.3,80,876,Yes,Good,Incident
+TRF-02036,0,Clear,Industrial,65,14.8,49,345,Yes,Fair,No Incident
+TRF-02037,0,Clear,Highway,63,3.9,55,456,No,Good,No Incident
+TRF-02038,16,Rain,Urban,32,4.4,86,972,No,Good,No Incident
+TRF-02039,19,Clear,Industrial,36,6.3,33,830,No,Good,No Incident
+TRF-02040,22,Clear,Urban,60,7.1,88,369,No,Poor,No Incident
+TRF-02041,12,Rain,Highway,41,1.0,52,535,No,Fair,No Incident
+TRF-02042,9,Storm,Urban,77,3.0,55,561,No,Good,Incident
+TRF-02043,4,Storm,Highway,88,11.1,97,946,No,Fair,Incident
+TRF-02044,20,Rain,Residential,33,9.2,52,651,No,Poor,No Incident
+TRF-02045,2,Fog,Urban,75,2.7,58,982,No,Good,No Incident
+TRF-02046,5,Rain,Residential,93,8.1,37,758,No,Good,No Incident
+TRF-02047,11,Rain,Highway,76,4.0,99,322,Yes,Fair,Incident
+TRF-02048,13,Clear,Residential,99,5.4,100,855,No,Good,Incident
+TRF-02049,13,Rain,Urban,21,13.7,76,65,No,Poor,No Incident
+TRF-02050,5,Clear,Residential,59,7.2,80,859,No,Fair,No Incident
+TRF-02051,5,Clear,Urban,78,3.4,76,181,No,Good,Incident
+TRF-02052,4,Rain,Residential,51,2.5,37,609,Yes,Poor,Incident
+TRF-02053,7,Rain,Residential,36,3.2,75,658,No,Good,Incident
+TRF-02054,15,Clear,Highway,8,9.9,47,93,Yes,Good,No Incident
+TRF-02055,5,Storm,Residential,77,8.3,90,995,No,Fair,Incident
+TRF-02056,0,Rain,Urban,66,11.1,69,925,No,Poor,Incident
+TRF-02057,15,Clear,Highway,76,8.8,53,383,No,Good,No Incident
+TRF-02058,23,Rain,Urban,100,2.3,100,755,Yes,Fair,Incident
+TRF-02059,17,Clear,Urban,71,12.3,98,484,Yes,Good,No Incident
+TRF-02060,16,Rain,Urban,55,8.0,66,613,No,Fair,No Incident
+TRF-02061,9,Clear,Highway,78,2.0,71,76,No,Good,Incident
+TRF-02062,6,Clear,Residential,26,4.0,51,377,No,Fair,No Incident
+TRF-02063,15,Clear,Highway,37,1.5,92,784,Yes,Poor,Incident
+TRF-02064,14,Rain,Highway,16,7.5,62,402,No,Good,No Incident
+TRF-02065,18,Rain,Urban,8,8.5,27,631,No,Good,Incident
+TRF-02066,1,Clear,Highway,59,11.4,73,530,Yes,Fair,No Incident
+TRF-02067,5,Rain,Residential,20,14.4,84,387,Yes,Good,No Incident
+TRF-02068,15,Clear,Urban,1,1.8,89,167,No,Good,No Incident
+TRF-02069,21,Clear,Urban,46,12.0,48,650,Yes,Good,No Incident
+TRF-02070,20,Rain,Highway,16,5.3,40,641,No,Good,No Incident
+TRF-02071,17,Rain,Residential,2,10.4,35,960,No,Fair,No Incident
+TRF-02072,19,Storm,Residential,15,6.9,37,348,No,Fair,No Incident
+TRF-02073,22,Clear,Highway,42,8.6,99,524,No,Good,No Incident
+TRF-02074,3,Storm,Industrial,92,9.1,77,98,Yes,Poor,Incident
+TRF-02075,18,Clear,Residential,79,6.3,92,91,No,Poor,Incident
+TRF-02076,3,Clear,Highway,72,12.2,87,256,Yes,Good,No Incident
+TRF-02077,10,Rain,Residential,12,5.3,76,135,No,Poor,No Incident
+TRF-02078,15,Clear,Residential,78,11.3,55,209,Yes,Good,No Incident
+TRF-02079,8,Rain,Urban,76,10.6,95,628,No,Good,No Incident
+TRF-02080,6,Clear,Urban,51,13.1,88,97,No,Good,No Incident
+TRF-02081,5,Storm,Residential,24,10.3,57,667,No,Fair,Incident
+TRF-02082,22,Rain,Highway,72,10.0,47,140,No,Good,No Incident
+TRF-02083,0,Clear,Urban,81,4.3,55,376,No,Fair,No Incident
+TRF-02084,13,Rain,Urban,51,1.8,57,921,No,Fair,Incident
+TRF-02085,2,Clear,Highway,74,7.2,78,790,No,Poor,Incident
+TRF-02086,13,Clear,Residential,41,4.0,63,368,No,Fair,No Incident
+TRF-02087,17,Fog,Highway,68,12.3,55,114,No,Fair,No Incident
+TRF-02088,18,Clear,Highway,15,10.0,33,750,No,Good,No Incident
+TRF-02089,4,Clear,Residential,32,5.8,66,870,Yes,Good,No Incident
+TRF-02090,21,Clear,Highway,61,1.7,33,473,Yes,Fair,No Incident
+TRF-02091,7,Clear,Residential,8,10.7,24,510,No,Good,No Incident
+TRF-02092,11,Rain,Urban,48,11.5,88,85,Yes,Poor,Incident
+TRF-02093,21,Rain,Urban,48,4.8,32,916,No,Fair,No Incident
+TRF-02094,13,Clear,Urban,50,1.4,66,953,No,Fair,No Incident
+TRF-02095,20,Clear,Residential,37,4.3,51,85,No,Fair,No Incident
+TRF-02096,1,Clear,Residential,91,8.8,56,93,No,Fair,No Incident
+TRF-02097,20,Clear,Urban,53,13.8,30,643,No,Good,No Incident
+TRF-02098,22,Storm,Residential,92,13.5,22,184,Yes,Good,Incident
+TRF-02099,3,Fog,Industrial,97,11.7,33,249,Yes,Good,No Incident
+TRF-02100,21,Clear,Residential,41,9.1,66,448,No,Good,No Incident
+TRF-02101,13,Rain,Urban,47,4.4,70,83,No,Good,No Incident
+TRF-02102,1,Clear,Highway,38,5.4,67,164,No,Fair,No Incident
+TRF-02103,17,Clear,Highway,38,13.5,38,700,No,Fair,No Incident
+TRF-02104,8,Rain,Urban,49,8.3,43,205,Yes,Good,No Incident
+TRF-02105,5,Clear,Highway,72,11.5,95,659,No,Fair,No Incident
+TRF-02106,21,Clear,Urban,37,11.0,69,704,No,Fair,No Incident
+TRF-02107,6,Clear,Highway,44,4.6,67,649,No,Fair,No Incident
+TRF-02108,14,Clear,Urban,44,3.1,20,679,No,Good,Incident
+TRF-02109,7,Clear,Highway,23,11.1,70,326,No,Fair,No Incident
+TRF-02110,7,Rain,Urban,12,2.1,79,416,No,Poor,Incident
+TRF-02111,13,Rain,Urban,4,6.6,30,982,Yes,Good,No Incident
+TRF-02112,8,Storm,Urban,2,1.1,55,570,Yes,Good,Incident
+TRF-02113,12,Clear,Highway,67,11.6,76,600,No,Fair,No Incident
+TRF-02114,15,Storm,Industrial,67,4.5,72,751,Yes,Fair,No Incident
+TRF-02115,12,Clear,Urban,36,5.1,87,170,No,Poor,No Incident
+TRF-02116,16,Rain,Highway,50,9.9,53,268,Yes,Poor,No Incident
+TRF-02117,19,Clear,Urban,2,14.6,37,349,No,Good,No Incident
+TRF-02118,3,Storm,Highway,45,1.1,29,179,Yes,Good,Incident
+TRF-02119,2,Clear,Urban,93,5.8,93,352,Yes,Poor,Incident
+TRF-02120,10,Clear,Highway,63,10.5,41,229,Yes,Fair,No Incident
+TRF-02121,17,Rain,Residential,27,6.0,56,532,No,Good,No Incident
+TRF-02122,20,Rain,Highway,15,1.7,46,665,No,Good,Incident
+TRF-02123,10,Fog,Urban,30,2.9,99,338,Yes,Poor,Incident
+TRF-02124,20,Fog,Urban,88,8.3,94,450,Yes,Good,Incident
+TRF-02125,4,Rain,Urban,45,13.8,97,695,No,Good,No Incident
+TRF-02126,16,Storm,Industrial,8,2.2,96,752,No,Good,Incident
+TRF-02127,16,Clear,Highway,8,11.4,96,94,No,Fair,No Incident
+TRF-02128,19,Clear,Residential,63,5.1,71,102,No,Good,No Incident
+TRF-02129,0,Clear,Urban,86,12.4,100,311,Yes,Fair,No Incident
+TRF-02130,16,Rain,Residential,15,10.6,41,558,No,Good,No Incident
+TRF-02131,12,Clear,Highway,13,6.9,87,556,No,Fair,No Incident
+TRF-02132,20,Clear,Residential,88,5.7,66,277,No,Fair,No Incident
+TRF-02133,20,Clear,Urban,99,8.5,78,499,No,Poor,Incident
+TRF-02134,8,Fog,Urban,98,8.4,39,380,Yes,Good,Incident
+TRF-02135,13,Clear,Industrial,59,2.5,33,995,No,Good,No Incident
+TRF-02136,1,Clear,Residential,37,4.1,92,317,Yes,Fair,No Incident
+TRF-02137,2,Clear,Residential,69,10.5,33,886,No,Fair,No Incident
+TRF-02138,2,Rain,Highway,27,1.2,36,527,Yes,Poor,Incident
+TRF-02139,15,Rain,Residential,65,11.1,85,906,No,Poor,Incident
+TRF-02140,14,Rain,Urban,92,8.6,47,449,No,Fair,No Incident
+TRF-02141,22,Clear,Urban,90,13.0,47,267,No,Good,No Incident
+TRF-02142,0,Clear,Highway,99,11.9,31,784,Yes,Good,Incident
+TRF-02143,20,Clear,Highway,77,14.4,45,423,No,Good,No Incident
+TRF-02144,20,Clear,Industrial,79,8.7,28,187,Yes,Good,No Incident
+TRF-02145,3,Rain,Highway,39,11.8,55,172,No,Good,No Incident
+TRF-02146,4,Fog,Highway,35,13.6,100,223,Yes,Good,No Incident
+TRF-02147,19,Clear,Highway,47,9.0,37,180,No,Fair,Incident
+TRF-02148,19,Clear,Urban,22,1.5,36,790,No,Good,No Incident
+TRF-02149,19,Storm,Highway,79,11.4,37,602,No,Good,Incident
+TRF-02150,8,Storm,Highway,74,12.8,58,190,No,Good,No Incident
+TRF-02151,19,Clear,Highway,17,8.3,21,441,Yes,Poor,No Incident
+TRF-02152,2,Rain,Urban,76,10.8,71,952,Yes,Fair,Incident
+TRF-02153,23,Clear,Residential,1,5.8,75,690,No,Poor,No Incident
+TRF-02154,8,Rain,Industrial,10,6.3,79,439,No,Good,No Incident
+TRF-02155,4,Clear,Highway,6,14.5,52,612,No,Good,No Incident
+TRF-02156,0,Rain,Urban,56,6.9,27,116,No,Good,No Incident
+TRF-02157,17,Clear,Residential,77,4.2,28,274,No,Fair,No Incident
+TRF-02158,4,Clear,Highway,47,3.5,82,572,Yes,Fair,Incident
+TRF-02159,0,Rain,Residential,53,5.1,81,746,Yes,Good,No Incident
+TRF-02160,3,Fog,Industrial,51,9.8,28,57,No,Good,No Incident
+TRF-02161,10,Clear,Urban,18,8.4,49,545,Yes,Good,No Incident
+TRF-02162,23,Clear,Industrial,57,6.9,85,263,Yes,Fair,No Incident
+TRF-02163,14,Clear,Urban,3,13.3,78,807,Yes,Good,No Incident
+TRF-02164,10,Clear,Urban,56,9.5,21,335,No,Good,No Incident
+TRF-02165,13,Clear,Highway,46,5.4,32,815,No,Fair,No Incident
+TRF-02166,13,Clear,Residential,56,1.1,48,322,No,Good,No Incident
+TRF-02167,3,Rain,Urban,12,13.8,20,561,No,Good,No Incident
+TRF-02168,1,Storm,Urban,60,2.6,72,606,No,Poor,Incident
+TRF-02169,3,Clear,Residential,44,13.8,63,912,No,Poor,No Incident
+TRF-02170,1,Clear,Urban,12,12.6,97,646,Yes,Poor,Incident
+TRF-02171,17,Clear,Residential,76,12.7,57,794,Yes,Good,Incident
+TRF-02172,14,Clear,Urban,47,7.3,53,144,No,Fair,No Incident
+TRF-02173,17,Clear,Urban,83,15.0,100,690,Yes,Poor,Incident
+TRF-02174,8,Storm,Highway,69,10.2,91,207,No,Fair,Incident
+TRF-02175,12,Fog,Residential,58,13.3,39,614,Yes,Good,No Incident
+TRF-02176,7,Clear,Residential,65,9.7,69,285,No,Good,No Incident
+TRF-02177,14,Rain,Highway,9,11.4,64,516,Yes,Good,No Incident
+TRF-02178,3,Clear,Highway,83,5.5,65,311,No,Fair,No Incident
+TRF-02179,1,Clear,Urban,64,14.5,71,72,Yes,Good,No Incident
+TRF-02180,18,Clear,Highway,41,5.7,98,139,Yes,Good,No Incident
+TRF-02181,5,Fog,Urban,30,5.9,71,515,Yes,Fair,No Incident
+TRF-02182,22,Clear,Urban,55,5.9,77,863,No,Fair,Incident
+TRF-02183,6,Rain,Urban,31,3.1,46,711,No,Fair,Incident
+TRF-02184,8,Rain,Urban,7,3.0,34,612,No,Poor,Incident
+TRF-02185,18,Fog,Urban,14,1.9,31,386,No,Good,Incident
+TRF-02186,9,Rain,Residential,37,12.5,80,520,No,Good,Incident
+TRF-02187,4,Rain,Residential,84,11.6,27,842,No,Good,No Incident
+TRF-02188,7,Clear,Residential,63,7.9,63,237,No,Good,No Incident
+TRF-02189,18,Clear,Industrial,10,6.4,42,1000,No,Poor,Incident
+TRF-02190,4,Clear,Residential,83,8.4,64,194,No,Good,No Incident
+TRF-02191,11,Rain,Urban,55,9.0,88,901,Yes,Fair,Incident
+TRF-02192,7,Clear,Industrial,40,2.9,95,354,No,Fair,Incident
+TRF-02193,9,Clear,Residential,31,11.5,82,465,No,Poor,Incident
+TRF-02194,19,Clear,Residential,50,4.9,56,495,No,Good,No Incident
+TRF-02195,15,Clear,Residential,62,5.8,60,685,No,Fair,No Incident
+TRF-02196,2,Storm,Industrial,11,2.1,78,572,No,Good,Incident
+TRF-02197,16,Rain,Urban,93,6.3,60,757,No,Fair,Incident
+TRF-02198,19,Clear,Highway,7,6.3,43,230,No,Fair,No Incident
+TRF-02199,15,Storm,Residential,50,10.7,95,341,No,Fair,Incident
+TRF-02200,1,Storm,Residential,8,4.1,35,840,No,Fair,Incident
+TRF-02201,12,Rain,Highway,37,4.1,97,137,Yes,Good,No Incident
+TRF-02202,12,Clear,Urban,23,9.9,56,432,Yes,Fair,No Incident
+TRF-02203,0,Clear,Highway,77,3.5,48,252,No,Fair,Incident
+TRF-02204,18,Storm,Urban,9,11.6,56,865,No,Fair,Incident
+TRF-02205,3,Rain,Industrial,2,11.3,100,208,No,Good,No Incident
+TRF-02206,8,Clear,Highway,43,2.5,21,678,Yes,Good,No Incident
+TRF-02207,7,Clear,Residential,77,12.7,100,869,No,Fair,Incident
+TRF-02208,21,Rain,Urban,24,13.8,81,909,Yes,Good,No Incident
+TRF-02209,22,Clear,Urban,17,4.9,25,77,No,Fair,No Incident
+TRF-02210,18,Rain,Residential,11,11.7,79,964,No,Good,Incident
+TRF-02211,8,Storm,Industrial,79,3.2,21,635,No,Good,Incident
+TRF-02212,15,Clear,Industrial,30,6.5,42,150,No,Fair,No Incident
+TRF-02213,15,Rain,Residential,70,10.0,70,710,No,Fair,No Incident
+TRF-02214,8,Fog,Urban,52,13.0,75,992,Yes,Fair,Incident
+TRF-02215,6,Clear,Industrial,28,7.0,92,847,Yes,Fair,No Incident
+TRF-02216,3,Clear,Residential,42,14.9,45,506,No,Fair,No Incident
+TRF-02217,10,Clear,Industrial,20,10.6,26,449,Yes,Fair,No Incident
+TRF-02218,14,Clear,Highway,84,1.2,69,762,No,Good,Incident
+TRF-02219,17,Rain,Residential,62,14.7,96,876,Yes,Fair,Incident
+TRF-02220,4,Rain,Industrial,20,13.3,48,813,No,Fair,No Incident
+TRF-02221,15,Rain,Highway,60,8.1,48,896,Yes,Good,No Incident
+TRF-02222,21,Rain,Urban,3,10.3,100,777,No,Good,No Incident
+TRF-02223,18,Fog,Highway,22,7.2,24,552,No,Good,Incident
+TRF-02224,21,Clear,Highway,64,1.4,20,583,No,Good,Incident
+TRF-02225,19,Rain,Urban,66,6.8,23,634,No,Fair,No Incident
+TRF-02226,11,Storm,Urban,89,4.3,74,954,No,Good,Incident
+TRF-02227,23,Clear,Urban,20,5.8,77,871,No,Fair,No Incident
+TRF-02228,16,Rain,Urban,30,3.4,48,322,No,Good,No Incident
+TRF-02229,11,Clear,Urban,37,5.4,67,858,No,Poor,No Incident
+TRF-02230,17,Clear,Urban,32,3.2,53,577,Yes,Good,No Incident
+TRF-02231,22,Clear,Urban,83,3.6,21,123,No,Fair,Incident
+TRF-02232,8,Fog,Urban,59,1.9,21,53,No,Good,No Incident
+TRF-02233,0,Rain,Industrial,72,12.8,34,524,No,Fair,No Incident
+TRF-02234,3,Rain,Urban,7,7.5,90,350,Yes,Good,No Incident
+TRF-02235,17,Clear,Industrial,13,9.3,23,996,No,Good,No Incident
+TRF-02236,10,Clear,Residential,58,4.1,91,840,No,Fair,Incident
+TRF-02237,0,Clear,Industrial,93,14.8,89,843,Yes,Fair,Incident
+TRF-02238,12,Storm,Urban,94,13.6,95,869,No,Good,Incident
+TRF-02239,21,Clear,Residential,89,12.4,63,719,No,Good,Incident
+TRF-02240,16,Rain,Urban,67,4.4,55,403,No,Good,No Incident
+TRF-02241,22,Clear,Urban,1,3.4,37,295,Yes,Good,No Incident
+TRF-02242,16,Clear,Urban,35,12.3,83,182,No,Good,No Incident
+TRF-02243,1,Fog,Residential,76,9.0,21,826,No,Good,Incident
+TRF-02244,1,Clear,Urban,20,14.6,44,720,No,Fair,No Incident
+TRF-02245,19,Clear,Residential,82,3.5,81,536,No,Fair,Incident
+TRF-02246,22,Clear,Residential,48,14.0,46,831,No,Fair,No Incident
+TRF-02247,12,Storm,Residential,86,14.9,72,839,Yes,Fair,Incident
+TRF-02248,4,Storm,Highway,63,1.5,63,579,No,Good,Incident
+TRF-02249,20,Clear,Industrial,38,7.5,75,934,Yes,Good,No Incident
+TRF-02250,5,Clear,Urban,1,12.4,78,493,No,Fair,No Incident
+TRF-02251,18,Rain,Urban,76,4.4,57,91,No,Good,No Incident
+TRF-02252,2,Fog,Residential,69,3.6,90,357,Yes,Fair,Incident
+TRF-02253,10,Rain,Highway,47,7.4,38,743,No,Good,No Incident
+TRF-02254,11,Fog,Urban,31,4.0,80,117,No,Fair,Incident
+TRF-02255,13,Fog,Urban,56,14.6,44,680,No,Good,No Incident
+TRF-02256,22,Clear,Highway,10,7.1,65,200,Yes,Poor,No Incident
+TRF-02257,15,Clear,Residential,41,3.3,55,994,No,Poor,Incident
+TRF-02258,15,Clear,Urban,87,12.2,93,836,No,Good,Incident
+TRF-02259,19,Clear,Highway,54,14.3,70,785,No,Fair,No Incident
+TRF-02260,11,Clear,Urban,31,13.1,30,573,Yes,Good,No Incident
+TRF-02261,17,Storm,Industrial,33,5.1,41,386,Yes,Fair,No Incident
+TRF-02262,20,Fog,Highway,52,11.1,38,921,No,Fair,No Incident
+TRF-02263,0,Fog,Urban,77,6.5,49,640,Yes,Good,No Incident
+TRF-02264,22,Clear,Highway,39,12.1,24,576,No,Fair,No Incident
+TRF-02265,20,Clear,Highway,96,5.1,86,253,No,Fair,Incident
+TRF-02266,13,Clear,Residential,99,8.6,73,317,No,Good,No Incident
+TRF-02267,15,Clear,Residential,56,4.4,38,344,No,Fair,No Incident
+TRF-02268,19,Fog,Urban,75,2.4,52,233,No,Poor,Incident
+TRF-02269,14,Rain,Industrial,11,6.2,44,261,No,Good,No Incident
+TRF-02270,23,Rain,Residential,20,1.5,37,976,No,Fair,Incident
+TRF-02271,15,Fog,Highway,10,14.5,20,553,Yes,Good,No Incident
+TRF-02272,0,Clear,Urban,7,10.7,87,927,No,Good,No Incident
+TRF-02273,6,Fog,Residential,26,2.3,51,700,No,Fair,No Incident
+TRF-02274,14,Storm,Urban,58,13.5,53,277,No,Good,No Incident
+TRF-02275,15,Clear,Industrial,20,13.4,68,234,No,Good,No Incident
+TRF-02276,16,Rain,Industrial,64,2.7,36,190,No,Good,No Incident
+TRF-02277,17,Rain,Urban,2,12.6,61,916,Yes,Good,No Incident
+TRF-02278,13,Clear,Urban,75,2.3,66,736,No,Good,No Incident
+TRF-02279,2,Clear,Residential,50,11.6,95,403,No,Good,No Incident
+TRF-02280,7,Clear,Urban,60,2.3,40,790,No,Good,Incident
+TRF-02281,13,Storm,Highway,61,2.0,99,408,Yes,Poor,Incident
+TRF-02282,6,Clear,Urban,63,9.7,35,812,Yes,Good,No Incident
+TRF-02283,11,Clear,Residential,38,10.6,79,848,Yes,Good,Incident
+TRF-02284,21,Clear,Residential,78,7.4,76,525,No,Good,Incident
+TRF-02285,6,Fog,Urban,50,4.9,53,211,No,Good,No Incident
+TRF-02286,21,Clear,Highway,11,5.3,100,381,No,Good,No Incident
+TRF-02287,23,Clear,Residential,31,14.1,58,843,Yes,Good,No Incident
+TRF-02288,3,Clear,Urban,5,8.2,53,157,Yes,Fair,No Incident
+TRF-02289,21,Clear,Highway,17,11.9,70,591,Yes,Good,No Incident
+TRF-02290,17,Rain,Residential,95,14.1,32,493,Yes,Fair,Incident
+TRF-02291,9,Clear,Residential,56,5.2,29,879,Yes,Fair,No Incident
+TRF-02292,16,Clear,Highway,76,1.9,20,158,No,Good,No Incident
+TRF-02293,2,Clear,Residential,73,8.0,40,899,No,Good,No Incident
+TRF-02294,11,Clear,Residential,13,1.0,81,221,No,Poor,Incident
+TRF-02295,8,Rain,Urban,66,10.4,29,826,No,Fair,No Incident
+TRF-02296,9,Rain,Highway,72,6.0,100,322,No,Fair,No Incident
+TRF-02297,19,Clear,Highway,43,2.7,74,934,No,Good,No Incident
+TRF-02298,7,Rain,Urban,19,2.2,48,508,No,Good,No Incident
+TRF-02299,13,Rain,Urban,2,14.4,80,263,No,Good,No Incident
+TRF-02300,17,Clear,Highway,3,13.2,35,935,No,Fair,No Incident
+TRF-02301,18,Rain,Urban,39,1.7,61,64,Yes,Good,Incident
+TRF-02302,10,Clear,Urban,47,2.8,26,628,Yes,Fair,Incident
+TRF-02303,18,Rain,Residential,32,4.4,71,592,No,Fair,Incident
+TRF-02304,16,Rain,Residential,29,5.9,52,215,No,Fair,No Incident
+TRF-02305,4,Rain,Residential,59,15.0,41,688,No,Fair,No Incident
+TRF-02306,16,Clear,Highway,95,4.5,50,759,No,Fair,Incident
+TRF-02307,8,Fog,Highway,94,1.2,95,403,No,Good,Incident
+TRF-02308,23,Clear,Urban,2,4.7,60,674,No,Poor,No Incident
+TRF-02309,19,Clear,Urban,21,13.3,55,496,No,Fair,No Incident
+TRF-02310,16,Fog,Urban,39,9.6,41,975,No,Fair,No Incident
+TRF-02311,16,Clear,Urban,25,10.4,58,934,No,Fair,Incident
+TRF-02312,1,Fog,Urban,9,10.4,76,392,No,Poor,Incident
+TRF-02313,19,Clear,Urban,66,4.9,39,840,No,Good,No Incident
+TRF-02314,5,Storm,Highway,24,11.6,35,542,Yes,Good,Incident
+TRF-02315,18,Clear,Urban,61,4.0,21,587,No,Good,No Incident
+TRF-02316,14,Fog,Highway,4,12.0,73,111,Yes,Good,No Incident
+TRF-02317,23,Clear,Residential,35,8.2,67,341,No,Fair,No Incident
+TRF-02318,0,Clear,Highway,12,4.2,26,765,No,Fair,No Incident
+TRF-02319,15,Rain,Urban,58,7.8,100,711,No,Fair,Incident
+TRF-02320,10,Clear,Urban,91,9.4,23,429,No,Good,No Incident
+TRF-02321,13,Clear,Highway,66,5.5,61,916,No,Good,No Incident
+TRF-02322,7,Clear,Urban,29,10.5,22,967,No,Good,No Incident
+TRF-02323,16,Clear,Residential,23,3.7,32,351,No,Fair,Incident
+TRF-02324,4,Clear,Urban,91,12.4,54,468,Yes,Good,No Incident
+TRF-02325,3,Clear,Urban,70,4.7,93,219,No,Good,No Incident
+TRF-02326,1,Rain,Residential,31,10.3,51,187,Yes,Good,No Incident
+TRF-02327,2,Rain,Urban,75,8.5,55,103,No,Good,No Incident
+TRF-02328,0,Rain,Highway,51,14.0,80,252,No,Good,No Incident
+TRF-02329,8,Clear,Urban,1,13.1,98,950,No,Good,Incident
+TRF-02330,4,Clear,Industrial,30,12.4,27,79,Yes,Good,No Incident
+TRF-02331,16,Rain,Urban,74,6.0,41,487,No,Poor,Incident
+TRF-02332,22,Rain,Highway,92,3.4,93,723,Yes,Good,Incident
+TRF-02333,23,Rain,Residential,50,13.8,89,106,No,Fair,No Incident
+TRF-02334,7,Clear,Urban,99,5.8,60,677,Yes,Good,No Incident
+TRF-02335,21,Rain,Highway,100,12.1,21,707,No,Poor,Incident
+TRF-02336,22,Clear,Urban,10,8.5,74,871,Yes,Good,No Incident
+TRF-02337,14,Clear,Residential,58,10.7,27,690,No,Good,No Incident
+TRF-02338,2,Clear,Residential,89,10.6,27,330,Yes,Fair,No Incident
+TRF-02339,1,Clear,Urban,21,5.9,51,55,No,Fair,Incident
+TRF-02340,14,Clear,Industrial,41,13.8,72,185,No,Good,No Incident
+TRF-02341,14,Clear,Urban,56,7.9,56,409,No,Good,No Incident
+TRF-02342,12,Clear,Residential,25,7.8,50,776,Yes,Fair,No Incident
+TRF-02343,14,Rain,Residential,15,14.4,55,386,No,Good,No Incident
+TRF-02344,15,Clear,Industrial,54,13.5,60,337,Yes,Fair,No Incident
+TRF-02345,8,Clear,Residential,83,7.4,92,690,Yes,Fair,No Incident
+TRF-02346,20,Fog,Industrial,24,5.6,56,600,No,Good,No Incident
+TRF-02347,17,Clear,Highway,64,8.4,88,933,No,Fair,Incident
+TRF-02348,9,Clear,Urban,12,4.4,93,983,Yes,Fair,Incident
+TRF-02349,17,Rain,Urban,96,14.1,78,266,Yes,Fair,Incident
+TRF-02350,15,Clear,Residential,11,13.8,39,634,No,Good,No Incident
+TRF-02351,7,Rain,Urban,57,10.5,86,831,Yes,Poor,Incident
+TRF-02352,5,Clear,Residential,12,7.6,83,506,Yes,Fair,No Incident
+TRF-02353,7,Storm,Highway,63,12.5,89,921,No,Poor,Incident
+TRF-02354,18,Storm,Urban,16,7.6,32,56,Yes,Fair,Incident
+TRF-02355,3,Clear,Highway,46,12.3,60,961,No,Fair,No Incident
+TRF-02356,12,Clear,Urban,71,12.2,29,453,No,Fair,No Incident
+TRF-02357,23,Rain,Industrial,16,3.4,41,521,No,Poor,Incident
+TRF-02358,1,Rain,Urban,5,3.9,20,878,No,Poor,Incident
+TRF-02359,13,Storm,Urban,37,13.1,73,863,No,Fair,No Incident
+TRF-02360,7,Fog,Industrial,68,2.7,51,453,Yes,Good,Incident
+TRF-02361,20,Fog,Residential,76,3.1,79,334,Yes,Fair,Incident
+TRF-02362,3,Clear,Highway,9,7.3,29,203,No,Good,No Incident
+TRF-02363,14,Clear,Urban,90,7.3,86,749,No,Fair,Incident
+TRF-02364,17,Clear,Residential,31,1.9,93,161,No,Good,Incident
+TRF-02365,3,Fog,Highway,81,11.5,31,698,No,Poor,Incident
+TRF-02366,9,Clear,Highway,42,2.9,93,805,Yes,Fair,Incident
+TRF-02367,3,Rain,Residential,57,8.6,95,852,Yes,Poor,Incident
+TRF-02368,12,Clear,Industrial,91,4.7,78,141,Yes,Fair,Incident
+TRF-02369,0,Fog,Urban,30,11.4,25,95,No,Fair,Incident
+TRF-02370,14,Clear,Highway,22,7.1,54,237,No,Fair,No Incident
+TRF-02371,7,Clear,Highway,2,8.3,93,573,No,Good,No Incident
+TRF-02372,8,Clear,Residential,93,14.9,40,388,No,Fair,No Incident
+TRF-02373,18,Clear,Urban,56,11.2,38,427,Yes,Fair,No Incident
+TRF-02374,23,Rain,Highway,85,8.6,95,178,No,Poor,Incident
+TRF-02375,11,Clear,Highway,52,6.5,33,318,No,Fair,No Incident
+TRF-02376,18,Rain,Urban,47,11.8,34,578,Yes,Good,No Incident
+TRF-02377,9,Rain,Industrial,73,12.3,51,359,No,Good,No Incident
+TRF-02378,15,Clear,Residential,49,8.8,96,927,No,Good,No Incident
+TRF-02379,9,Clear,Urban,36,11.9,99,137,No,Fair,Incident
+TRF-02380,3,Rain,Residential,30,8.1,93,349,No,Good,No Incident
+TRF-02381,20,Clear,Industrial,58,3.3,34,776,No,Good,No Incident
+TRF-02382,8,Clear,Urban,27,8.8,59,708,No,Poor,No Incident
+TRF-02383,8,Rain,Urban,93,8.0,65,766,No,Fair,Incident
+TRF-02384,9,Fog,Highway,8,13.5,99,515,No,Poor,Incident
+TRF-02385,19,Rain,Highway,30,4.7,45,168,Yes,Poor,No Incident
+TRF-02386,16,Rain,Highway,4,13.9,72,538,Yes,Good,No Incident
+TRF-02387,4,Clear,Urban,32,13.2,88,894,No,Poor,No Incident
+TRF-02388,1,Fog,Residential,36,8.9,22,189,No,Fair,No Incident
+TRF-02389,14,Storm,Urban,24,4.8,97,535,No,Good,Incident
+TRF-02390,3,Clear,Urban,85,4.4,40,526,No,Good,No Incident
+TRF-02391,3,Rain,Residential,28,13.0,51,598,No,Good,No Incident
+TRF-02392,19,Clear,Residential,21,5.2,73,616,No,Good,No Incident
+TRF-02393,17,Rain,Industrial,30,13.3,83,813,Yes,Good,Incident
+TRF-02394,9,Rain,Urban,76,6.6,75,119,No,Good,Incident
+TRF-02395,17,Rain,Urban,59,8.9,94,587,No,Poor,Incident
+TRF-02396,7,Storm,Highway,5,8.7,65,163,No,Fair,Incident
+TRF-02397,11,Fog,Residential,54,11.9,96,760,No,Poor,Incident
+TRF-02398,2,Clear,Industrial,56,11.3,43,847,No,Good,No Incident
+TRF-02399,19,Clear,Highway,11,10.4,55,422,Yes,Fair,No Incident
+TRF-02400,2,Rain,Highway,61,4.4,88,897,Yes,Good,No Incident
+TRF-02401,22,Clear,Urban,55,5.2,82,481,No,Fair,Incident
+TRF-02402,10,Fog,Residential,66,2.3,27,683,Yes,Fair,No Incident
+TRF-02403,7,Storm,Industrial,84,14.7,52,260,No,Poor,Incident
+TRF-02404,11,Clear,Residential,38,11.8,23,408,Yes,Fair,No Incident
+TRF-02405,14,Clear,Highway,8,11.4,74,517,Yes,Good,No Incident
+TRF-02406,23,Storm,Urban,63,9.1,92,479,No,Poor,Incident
+TRF-02407,22,Clear,Highway,61,14.4,98,802,No,Fair,Incident
+TRF-02408,15,Clear,Industrial,26,1.5,98,997,No,Good,Incident
+TRF-02409,23,Clear,Urban,48,6.9,50,745,No,Good,No Incident
+TRF-02410,5,Fog,Highway,72,14.5,64,354,Yes,Good,No Incident
+TRF-02411,0,Clear,Residential,50,10.7,31,439,No,Good,No Incident
+TRF-02412,16,Rain,Urban,57,4.3,49,662,Yes,Fair,No Incident
+TRF-02413,22,Clear,Residential,59,5.6,46,984,Yes,Good,No Incident
+TRF-02414,0,Clear,Residential,43,11.2,27,101,No,Good,No Incident
+TRF-02415,21,Rain,Highway,65,8.0,80,267,No,Good,No Incident
+TRF-02416,17,Rain,Urban,50,14.0,42,982,Yes,Good,No Incident
+TRF-02417,17,Clear,Urban,84,4.0,89,329,No,Good,No Incident
+TRF-02418,7,Clear,Highway,92,4.5,83,953,No,Good,Incident
+TRF-02419,19,Clear,Highway,16,13.1,78,151,No,Fair,No Incident
+TRF-02420,16,Clear,Residential,33,2.7,72,975,No,Fair,No Incident
+TRF-02421,19,Rain,Industrial,92,6.3,36,297,Yes,Poor,Incident
+TRF-02422,22,Rain,Industrial,34,3.0,97,782,No,Good,Incident
+TRF-02423,12,Clear,Residential,65,13.4,75,213,No,Good,No Incident
+TRF-02424,23,Rain,Urban,33,4.1,74,708,No,Good,No Incident
+TRF-02425,8,Clear,Highway,13,8.1,31,120,No,Fair,Incident
+TRF-02426,13,Clear,Urban,4,4.9,29,919,No,Fair,No Incident
+TRF-02427,22,Clear,Urban,66,5.8,21,202,Yes,Good,No Incident
+TRF-02428,1,Clear,Residential,7,8.1,25,510,No,Fair,No Incident
+TRF-02429,6,Clear,Urban,72,1.5,36,82,No,Good,No Incident
+TRF-02430,1,Clear,Highway,3,8.1,100,734,No,Good,No Incident
+TRF-02431,16,Clear,Urban,60,1.4,76,344,Yes,Fair,Incident
+TRF-02432,6,Storm,Highway,64,4.4,84,744,No,Poor,Incident
+TRF-02433,3,Fog,Highway,81,14.3,53,292,Yes,Good,No Incident
+TRF-02434,2,Rain,Urban,29,12.3,38,298,No,Poor,No Incident
+TRF-02435,17,Clear,Industrial,14,11.5,85,971,No,Good,Incident
+TRF-02436,6,Clear,Highway,44,5.5,72,506,No,Fair,No Incident
+TRF-02437,22,Rain,Industrial,58,7.6,41,164,No,Fair,No Incident
+TRF-02438,21,Clear,Residential,88,5.4,23,493,No,Fair,No Incident
+TRF-02439,8,Clear,Industrial,7,11.9,42,852,No,Fair,No Incident
+TRF-02440,7,Clear,Residential,41,8.5,98,87,Yes,Good,No Incident
+TRF-02441,21,Clear,Urban,22,2.3,82,779,No,Good,Incident
+TRF-02442,7,Clear,Residential,81,2.5,29,999,No,Good,Incident
+TRF-02443,13,Fog,Industrial,59,10.7,22,841,Yes,Fair,No Incident
+TRF-02444,19,Clear,Residential,47,3.2,40,676,No,Fair,No Incident
+TRF-02445,20,Rain,Highway,88,7.0,85,501,No,Fair,Incident
+TRF-02446,18,Rain,Urban,42,13.7,55,704,No,Fair,Incident
+TRF-02447,14,Rain,Industrial,21,10.0,24,683,No,Good,No Incident
+TRF-02448,7,Clear,Urban,29,7.6,79,775,No,Good,No Incident
+TRF-02449,5,Clear,Highway,82,3.5,78,665,No,Good,No Incident
+TRF-02450,12,Rain,Urban,83,12.2,100,430,Yes,Good,Incident
+TRF-02451,23,Clear,Highway,41,2.6,96,192,Yes,Good,No Incident
+TRF-02452,13,Clear,Urban,38,5.2,39,107,No,Fair,Incident
+TRF-02453,9,Rain,Highway,64,7.0,60,432,Yes,Good,No Incident
+TRF-02454,17,Storm,Urban,72,11.3,39,712,No,Fair,Incident
+TRF-02455,3,Rain,Urban,17,1.7,63,821,No,Good,No Incident
+TRF-02456,3,Clear,Urban,9,2.2,61,311,No,Good,Incident
+TRF-02457,8,Fog,Residential,47,13.4,47,983,No,Good,No Incident
+TRF-02458,18,Fog,Highway,21,8.5,71,203,Yes,Good,No Incident
+TRF-02459,20,Clear,Urban,30,11.4,99,86,No,Good,No Incident
+TRF-02460,2,Clear,Highway,94,7.8,77,128,Yes,Good,Incident
+TRF-02461,3,Clear,Industrial,47,4.7,76,861,No,Fair,No Incident
+TRF-02462,14,Rain,Highway,100,3.0,96,404,No,Fair,Incident
+TRF-02463,17,Clear,Industrial,30,2.4,43,934,No,Good,Incident
+TRF-02464,22,Clear,Highway,45,3.8,54,642,No,Good,No Incident
+TRF-02465,9,Rain,Urban,66,7.1,33,743,No,Poor,Incident
+TRF-02466,4,Rain,Residential,92,6.7,47,804,No,Good,Incident
+TRF-02467,6,Storm,Highway,76,4.7,78,159,No,Good,Incident
+TRF-02468,18,Clear,Highway,59,14.7,31,422,No,Fair,No Incident
+TRF-02469,15,Rain,Residential,85,12.0,67,278,No,Good,No Incident
+TRF-02470,9,Rain,Highway,92,10.5,38,95,Yes,Good,Incident
+TRF-02471,13,Clear,Highway,25,3.0,50,651,No,Good,No Incident
+TRF-02472,5,Rain,Residential,83,13.9,30,834,No,Good,No Incident
+TRF-02473,13,Rain,Highway,57,9.5,75,925,Yes,Good,No Incident
+TRF-02474,12,Storm,Urban,98,8.5,30,151,No,Good,Incident
+TRF-02475,3,Clear,Highway,50,12.8,64,702,Yes,Good,No Incident
+TRF-02476,4,Clear,Urban,54,9.6,76,880,No,Good,No Incident
+TRF-02477,19,Clear,Residential,11,2.3,67,926,No,Fair,Incident
+TRF-02478,10,Clear,Urban,95,10.7,26,159,No,Good,No Incident
+TRF-02479,3,Rain,Urban,25,6.9,38,696,No,Fair,No Incident
+TRF-02480,14,Clear,Urban,33,5.4,83,384,Yes,Good,No Incident
+TRF-02481,11,Clear,Urban,76,12.2,79,888,No,Poor,Incident
+TRF-02482,18,Rain,Urban,85,10.2,96,101,Yes,Fair,Incident
+TRF-02483,3,Clear,Industrial,60,13.3,61,912,No,Good,No Incident
+TRF-02484,19,Rain,Residential,58,1.4,46,870,Yes,Fair,Incident
+TRF-02485,21,Clear,Residential,5,6.2,24,949,No,Good,No Incident
+TRF-02486,21,Clear,Residential,86,3.2,71,976,Yes,Good,Incident
+TRF-02487,3,Clear,Highway,39,4.8,74,513,Yes,Poor,No Incident
+TRF-02488,11,Fog,Residential,68,10.8,21,339,No,Fair,No Incident
+TRF-02489,8,Clear,Urban,82,2.8,24,664,No,Good,Incident
+TRF-02490,21,Clear,Industrial,30,8.1,95,417,No,Fair,Incident
+TRF-02491,21,Clear,Highway,60,14.5,70,802,No,Fair,No Incident
+TRF-02492,21,Clear,Industrial,74,12.2,40,297,No,Good,No Incident
+TRF-02493,20,Clear,Highway,52,4.4,66,343,Yes,Good,No Incident
+TRF-02494,11,Rain,Residential,45,14.5,60,637,No,Good,No Incident
+TRF-02495,0,Clear,Industrial,14,5.6,27,638,No,Good,No Incident
+TRF-02496,2,Rain,Urban,1,1.7,69,85,Yes,Good,No Incident
+TRF-02497,5,Clear,Residential,91,4.0,35,629,Yes,Fair,No Incident
+TRF-02498,8,Rain,Highway,96,4.5,66,278,No,Fair,Incident
+TRF-02499,12,Clear,Urban,85,5.9,30,195,No,Poor,No Incident
+TRF-02500,17,Clear,Urban,97,6.8,27,484,Yes,Good,Incident
+TRF-02501,5,Fog,Industrial,41,12.1,56,703,No,Good,Incident
+TRF-02502,13,Clear,Urban,4,8.0,42,682,No,Good,No Incident
+TRF-02503,11,Storm,Highway,44,1.6,64,738,Yes,Fair,Incident
+TRF-02504,4,Clear,Urban,4,6.8,89,418,Yes,Good,No Incident
+TRF-02505,5,Rain,Highway,58,8.1,100,332,No,Fair,Incident
+TRF-02506,20,Storm,Residential,14,4.4,89,533,No,Fair,Incident
+TRF-02507,11,Clear,Urban,80,6.8,39,333,No,Good,No Incident
+TRF-02508,15,Rain,Residential,66,3.7,79,602,Yes,Fair,Incident
+TRF-02509,8,Rain,Urban,60,9.4,95,696,No,Fair,Incident
+TRF-02510,3,Clear,Urban,36,3.9,81,521,Yes,Good,No Incident
+TRF-02511,6,Rain,Industrial,65,5.1,67,980,No,Good,No Incident
+TRF-02512,19,Fog,Urban,47,3.7,91,325,No,Fair,Incident
+TRF-02513,21,Fog,Highway,91,12.6,77,933,No,Good,Incident
+TRF-02514,12,Rain,Highway,12,2.7,20,764,Yes,Fair,Incident
+TRF-02515,15,Clear,Residential,78,13.8,83,864,No,Good,Incident
+TRF-02516,8,Clear,Highway,31,5.9,90,975,Yes,Fair,No Incident
+TRF-02517,21,Clear,Highway,31,6.1,82,443,Yes,Fair,Incident
+TRF-02518,12,Rain,Highway,98,12.8,41,251,No,Fair,No Incident
+TRF-02519,15,Clear,Industrial,93,10.2,67,90,Yes,Fair,No Incident
+TRF-02520,12,Rain,Urban,45,2.6,95,235,Yes,Poor,Incident
+TRF-02521,13,Clear,Highway,79,2.9,65,399,Yes,Good,Incident
+TRF-02522,23,Rain,Highway,76,1.1,78,450,No,Fair,Incident
+TRF-02523,12,Rain,Residential,94,11.1,27,377,Yes,Good,Incident
+TRF-02524,16,Fog,Urban,62,6.6,86,584,No,Fair,No Incident
+TRF-02525,10,Storm,Urban,74,11.5,51,206,No,Fair,Incident
+TRF-02526,6,Clear,Highway,95,9.8,32,120,No,Good,Incident
+TRF-02527,3,Fog,Highway,3,4.4,46,159,No,Fair,No Incident
+TRF-02528,10,Storm,Urban,10,6.8,84,329,No,Good,Incident
+TRF-02529,13,Clear,Industrial,14,13.5,74,961,No,Good,No Incident
+TRF-02530,2,Clear,Highway,7,4.6,34,272,No,Good,No Incident
+TRF-02531,22,Clear,Urban,39,6.6,44,218,No,Fair,No Incident
+TRF-02532,8,Clear,Urban,80,5.0,24,607,No,Fair,No Incident
+TRF-02533,22,Rain,Urban,85,13.5,34,85,Yes,Good,No Incident
+TRF-02534,19,Clear,Urban,19,1.6,48,953,No,Good,No Incident
+TRF-02535,2,Clear,Urban,58,3.5,80,643,No,Good,Incident
+TRF-02536,9,Clear,Residential,15,5.5,34,192,Yes,Fair,No Incident
+TRF-02537,3,Clear,Residential,97,8.6,97,493,No,Good,No Incident
+TRF-02538,19,Rain,Residential,48,10.9,26,491,No,Fair,No Incident
+TRF-02539,8,Clear,Industrial,72,1.3,55,411,No,Good,No Incident
+TRF-02540,7,Clear,Highway,51,1.9,79,756,No,Good,Incident
+TRF-02541,18,Clear,Highway,86,7.5,40,451,No,Good,No Incident
+TRF-02542,14,Clear,Highway,29,3.8,30,603,Yes,Poor,No Incident
+TRF-02543,0,Rain,Highway,54,10.4,51,973,No,Good,No Incident
+TRF-02544,1,Clear,Residential,67,6.3,82,428,No,Good,No Incident
+TRF-02545,0,Clear,Industrial,87,12.9,43,209,No,Good,No Incident
+TRF-02546,3,Clear,Urban,80,4.6,41,793,Yes,Fair,No Incident
+TRF-02547,10,Rain,Industrial,40,8.2,43,773,No,Poor,No Incident
+TRF-02548,9,Fog,Residential,5,9.2,73,260,No,Good,No Incident
+TRF-02549,8,Clear,Highway,87,14.4,65,615,No,Fair,Incident
+TRF-02550,22,Rain,Highway,82,7.0,41,201,Yes,Fair,No Incident
+TRF-02551,13,Clear,Highway,39,10.8,93,477,Yes,Good,No Incident
+TRF-02552,17,Clear,Residential,84,13.1,92,989,Yes,Fair,Incident
+TRF-02553,4,Clear,Urban,56,3.2,69,896,No,Fair,No Incident
+TRF-02554,5,Rain,Urban,69,8.7,43,848,No,Good,No Incident
+TRF-02555,6,Fog,Highway,49,10.9,31,736,No,Good,No Incident
+TRF-02556,7,Clear,Urban,70,14.1,31,998,Yes,Good,No Incident
+TRF-02557,17,Clear,Urban,72,9.9,64,491,No,Good,No Incident
+TRF-02558,1,Clear,Highway,19,10.5,80,932,No,Good,No Incident
+TRF-02559,1,Clear,Urban,21,9.6,60,672,Yes,Poor,No Incident
+TRF-02560,15,Fog,Residential,97,2.0,60,478,No,Fair,Incident
+TRF-02561,3,Rain,Industrial,70,2.6,86,847,No,Good,No Incident
+TRF-02562,22,Rain,Highway,98,11.4,92,839,Yes,Fair,Incident
+TRF-02563,0,Rain,Urban,92,7.4,43,926,Yes,Good,No Incident
+TRF-02564,15,Rain,Urban,42,14.2,67,840,No,Good,No Incident
+TRF-02565,9,Rain,Residential,3,8.7,78,243,No,Fair,No Incident
+TRF-02566,18,Storm,Highway,55,2.7,50,881,No,Fair,Incident
+TRF-02567,21,Fog,Urban,24,1.1,34,441,No,Good,No Incident
+TRF-02568,9,Rain,Urban,80,11.7,21,930,Yes,Fair,Incident
+TRF-02569,14,Rain,Highway,79,14.6,59,663,No,Fair,Incident
+TRF-02570,18,Clear,Industrial,79,12.2,59,615,No,Poor,Incident
+TRF-02571,11,Storm,Urban,27,1.7,84,767,Yes,Good,Incident
+TRF-02572,11,Clear,Urban,69,14.9,90,586,No,Good,No Incident
+TRF-02573,9,Rain,Urban,62,5.5,44,881,Yes,Good,No Incident
+TRF-02574,17,Fog,Highway,26,9.6,82,526,No,Good,Incident
+TRF-02575,23,Clear,Urban,46,12.7,35,230,No,Fair,No Incident
+TRF-02576,6,Clear,Residential,2,13.3,78,482,Yes,Fair,No Incident
+TRF-02577,6,Clear,Residential,68,9.8,81,427,No,Fair,No Incident
+TRF-02578,16,Fog,Urban,90,14.8,64,439,No,Fair,No Incident
+TRF-02579,8,Clear,Urban,10,10.1,92,329,Yes,Good,No Incident
+TRF-02580,5,Clear,Residential,28,13.9,63,921,No,Poor,No Incident
+TRF-02581,1,Clear,Residential,12,2.6,86,879,No,Poor,Incident
+TRF-02582,8,Storm,Residential,23,14.9,41,224,No,Good,Incident
+TRF-02583,12,Rain,Highway,55,7.9,21,850,No,Poor,No Incident
+TRF-02584,6,Rain,Residential,48,6.3,50,837,Yes,Good,No Incident
+TRF-02585,17,Rain,Highway,52,14.0,76,874,Yes,Good,No Incident
+TRF-02586,10,Rain,Urban,47,7.8,62,446,No,Good,Incident
+TRF-02587,7,Fog,Highway,61,2.5,63,609,No,Fair,Incident
+TRF-02588,5,Clear,Urban,78,11.2,77,946,No,Poor,Incident
+TRF-02589,9,Storm,Urban,86,2.6,54,241,No,Good,Incident
+TRF-02590,14,Clear,Urban,20,13.5,55,787,No,Good,No Incident
+TRF-02591,14,Clear,Highway,84,14.9,59,193,No,Fair,No Incident
+TRF-02592,15,Fog,Urban,82,10.2,64,976,No,Fair,Incident
+TRF-02593,9,Clear,Residential,80,14.6,74,389,Yes,Fair,No Incident
+TRF-02594,5,Clear,Highway,81,13.9,68,373,No,Fair,No Incident
+TRF-02595,23,Clear,Residential,37,7.1,27,570,No,Fair,No Incident
+TRF-02596,18,Fog,Urban,26,2.9,96,240,No,Poor,Incident
+TRF-02597,21,Fog,Highway,38,14.6,46,395,No,Good,No Incident
+TRF-02598,15,Rain,Urban,52,3.4,38,567,Yes,Good,Incident
+TRF-02599,19,Fog,Highway,90,14.9,34,703,No,Fair,Incident
+TRF-02600,22,Fog,Residential,90,8.0,63,389,Yes,Poor,Incident
+TRF-02601,7,Clear,Highway,7,7.3,30,553,Yes,Good,No Incident
+TRF-02602,20,Rain,Urban,48,9.1,95,132,No,Good,No Incident
+TRF-02603,13,Rain,Urban,62,10.1,57,466,Yes,Good,No Incident
+TRF-02604,22,Fog,Residential,32,2.6,47,529,No,Good,No Incident
+TRF-02605,22,Rain,Highway,79,1.2,44,964,No,Good,Incident
+TRF-02606,22,Clear,Industrial,50,6.0,50,927,No,Good,No Incident
+TRF-02607,22,Rain,Highway,97,11.7,42,77,No,Good,No Incident
+TRF-02608,21,Rain,Urban,85,10.1,52,889,No,Good,Incident
+TRF-02609,16,Clear,Urban,16,13.0,88,838,No,Poor,Incident
+TRF-02610,23,Clear,Urban,20,13.2,63,87,No,Poor,No Incident
+TRF-02611,21,Clear,Residential,9,7.7,100,496,No,Good,No Incident
+TRF-02612,22,Fog,Highway,60,6.1,84,382,No,Fair,No Incident
+TRF-02613,12,Clear,Highway,70,14.1,34,965,Yes,Good,No Incident
+TRF-02614,8,Clear,Industrial,79,3.5,85,812,No,Good,Incident
+TRF-02615,4,Rain,Highway,53,4.2,27,627,Yes,Good,No Incident
+TRF-02616,3,Rain,Residential,72,12.8,31,102,Yes,Poor,No Incident
+TRF-02617,16,Clear,Urban,60,9.1,91,411,No,Good,No Incident
+TRF-02618,22,Clear,Residential,2,3.8,92,500,Yes,Poor,Incident
+TRF-02619,15,Fog,Highway,13,8.4,53,505,No,Good,No Incident
+TRF-02620,7,Clear,Residential,19,2.2,38,93,No,Fair,Incident
+TRF-02621,4,Storm,Residential,6,5.2,45,778,No,Good,No Incident
+TRF-02622,20,Clear,Urban,56,3.5,100,423,No,Fair,No Incident
+TRF-02623,0,Clear,Highway,77,6.6,87,132,No,Good,No Incident
+TRF-02624,23,Clear,Highway,55,8.5,91,674,No,Good,No Incident
+TRF-02625,4,Clear,Highway,88,8.0,92,723,No,Good,Incident
+TRF-02626,14,Rain,Highway,1,9.2,86,198,No,Fair,No Incident
+TRF-02627,20,Rain,Industrial,64,6.9,60,92,No,Fair,No Incident
+TRF-02628,6,Clear,Residential,52,7.3,68,266,No,Fair,No Incident
+TRF-02629,1,Clear,Urban,37,9.2,48,979,Yes,Good,No Incident
+TRF-02630,15,Rain,Urban,33,9.7,90,175,No,Good,Incident
+TRF-02631,21,Storm,Highway,15,8.7,60,345,No,Fair,No Incident
+TRF-02632,20,Clear,Residential,28,14.7,35,182,No,Good,No Incident
+TRF-02633,10,Rain,Urban,78,9.0,56,584,No,Poor,Incident
+TRF-02634,4,Clear,Urban,2,7.6,93,138,No,Poor,Incident
+TRF-02635,4,Clear,Urban,78,9.2,62,379,No,Poor,No Incident
+TRF-02636,21,Clear,Residential,61,11.4,97,155,Yes,Fair,No Incident
+TRF-02637,12,Rain,Urban,56,8.7,57,574,No,Fair,No Incident
+TRF-02638,17,Fog,Urban,9,8.9,50,88,No,Fair,No Incident
+TRF-02639,19,Clear,Urban,100,10.9,92,266,No,Good,Incident
+TRF-02640,22,Rain,Highway,75,9.2,75,57,No,Good,No Incident
+TRF-02641,6,Clear,Industrial,89,10.2,74,457,Yes,Poor,No Incident
+TRF-02642,8,Clear,Residential,11,9.3,31,127,Yes,Fair,No Incident
+TRF-02643,14,Rain,Residential,61,3.1,38,861,No,Fair,No Incident
+TRF-02644,21,Clear,Highway,12,4.4,83,829,No,Good,Incident
+TRF-02645,20,Clear,Urban,26,7.5,79,466,No,Good,No Incident
+TRF-02646,4,Clear,Highway,92,4.7,40,707,No,Good,No Incident
+TRF-02647,21,Rain,Highway,38,12.3,98,311,No,Fair,No Incident
+TRF-02648,17,Clear,Highway,66,1.5,99,584,No,Good,Incident
+TRF-02649,19,Storm,Urban,51,14.3,40,410,Yes,Poor,Incident
+TRF-02650,22,Clear,Residential,51,14.5,44,167,Yes,Good,No Incident
+TRF-02651,1,Clear,Residential,1,11.0,44,631,Yes,Good,No Incident
+TRF-02652,13,Clear,Urban,56,9.3,70,797,No,Fair,No Incident
+TRF-02653,0,Clear,Urban,70,5.3,57,635,No,Poor,No Incident
+TRF-02654,3,Clear,Industrial,32,4.7,62,636,Yes,Fair,No Incident
+TRF-02655,7,Clear,Highway,1,8.2,37,409,No,Good,No Incident
+TRF-02656,23,Clear,Urban,39,8.2,68,561,No,Fair,No Incident
+TRF-02657,15,Rain,Residential,21,13.8,30,908,Yes,Fair,No Incident
+TRF-02658,14,Rain,Urban,73,8.1,77,626,No,Good,Incident
+TRF-02659,2,Clear,Urban,36,7.3,88,672,No,Poor,No Incident
+TRF-02660,6,Fog,Highway,36,14.4,51,768,Yes,Fair,No Incident
+TRF-02661,0,Clear,Urban,64,2.7,37,676,No,Fair,No Incident
+TRF-02662,22,Rain,Residential,59,14.4,86,354,Yes,Fair,No Incident
+TRF-02663,9,Clear,Highway,23,7.5,43,241,No,Fair,No Incident
+TRF-02664,19,Clear,Highway,69,4.8,31,991,No,Fair,Incident
+TRF-02665,1,Rain,Residential,47,5.6,96,839,Yes,Good,No Incident
+TRF-02666,22,Clear,Residential,35,6.9,39,232,Yes,Poor,No Incident
+TRF-02667,12,Storm,Highway,40,7.8,57,991,Yes,Poor,Incident
+TRF-02668,15,Rain,Industrial,64,6.2,70,244,Yes,Good,No Incident
+TRF-02669,17,Fog,Urban,21,7.2,95,488,No,Good,Incident
+TRF-02670,5,Rain,Urban,36,9.6,51,212,No,Fair,No Incident
+TRF-02671,11,Rain,Residential,60,12.8,22,222,No,Poor,No Incident
+TRF-02672,14,Clear,Industrial,1,5.0,65,482,No,Fair,No Incident
+TRF-02673,19,Fog,Urban,82,13.3,98,877,Yes,Poor,Incident
+TRF-02674,12,Fog,Residential,18,2.9,33,439,No,Good,No Incident
+TRF-02675,14,Clear,Urban,25,7.0,73,765,No,Good,No Incident
+TRF-02676,12,Clear,Urban,91,13.9,77,727,No,Good,Incident
+TRF-02677,7,Clear,Industrial,93,11.8,94,991,Yes,Good,Incident
+TRF-02678,0,Clear,Highway,35,13.0,98,421,Yes,Good,No Incident
+TRF-02679,19,Clear,Industrial,25,10.2,26,984,Yes,Good,No Incident
+TRF-02680,6,Clear,Urban,53,11.0,20,528,Yes,Fair,No Incident
+TRF-02681,9,Clear,Residential,34,7.0,87,187,Yes,Fair,No Incident
+TRF-02682,6,Rain,Residential,81,7.7,41,351,No,Good,Incident
+TRF-02683,16,Clear,Urban,40,6.2,98,720,Yes,Fair,No Incident
+TRF-02684,2,Clear,Highway,80,13.4,50,730,No,Fair,Incident
+TRF-02685,11,Fog,Residential,56,13.5,25,507,No,Poor,Incident
+TRF-02686,9,Clear,Urban,78,9.7,43,680,Yes,Good,No Incident
+TRF-02687,14,Clear,Highway,89,11.0,63,427,No,Fair,Incident
+TRF-02688,10,Rain,Highway,31,3.4,80,301,No,Good,Incident
+TRF-02689,5,Clear,Industrial,48,8.7,49,725,Yes,Good,No Incident
+TRF-02690,16,Rain,Industrial,63,5.6,84,987,Yes,Good,No Incident
+TRF-02691,18,Rain,Highway,8,11.4,62,532,No,Good,Incident
+TRF-02692,12,Clear,Residential,76,12.4,43,856,No,Good,Incident
+TRF-02693,17,Rain,Highway,42,6.0,58,572,No,Fair,No Incident
+TRF-02694,10,Rain,Industrial,61,11.2,83,130,No,Fair,Incident
+TRF-02695,13,Clear,Urban,50,11.4,99,575,Yes,Poor,No Incident
+TRF-02696,3,Storm,Residential,38,6.7,87,315,No,Good,Incident
+TRF-02697,14,Clear,Highway,15,2.8,27,221,Yes,Good,No Incident
+TRF-02698,5,Fog,Industrial,68,11.6,74,696,No,Good,No Incident
+TRF-02699,20,Rain,Urban,1,5.0,86,685,No,Fair,Incident
+TRF-02700,7,Clear,Urban,30,12.0,95,980,No,Good,No Incident
+TRF-02701,4,Fog,Urban,16,12.2,49,757,No,Good,No Incident
+TRF-02702,3,Rain,Industrial,59,7.7,37,233,No,Fair,No Incident
+TRF-02703,0,Clear,Urban,65,2.1,32,947,No,Fair,No Incident
+TRF-02704,6,Storm,Residential,72,12.2,35,337,Yes,Fair,No Incident
+TRF-02705,5,Rain,Urban,46,2.8,35,363,No,Fair,No Incident
+TRF-02706,9,Clear,Highway,53,14.6,78,433,No,Poor,Incident
+TRF-02707,0,Rain,Urban,70,4.7,70,51,No,Good,No Incident
+TRF-02708,5,Rain,Residential,79,13.1,20,80,No,Fair,Incident
+TRF-02709,21,Rain,Urban,47,1.6,49,928,No,Poor,Incident
+TRF-02710,6,Fog,Residential,39,9.5,81,910,No,Good,No Incident
+TRF-02711,21,Storm,Urban,64,13.5,71,844,No,Fair,Incident
+TRF-02712,18,Clear,Residential,58,13.4,97,387,No,Good,No Incident
+TRF-02713,1,Rain,Industrial,59,10.6,25,521,No,Good,No Incident
+TRF-02714,8,Clear,Highway,43,10.0,23,633,No,Fair,No Incident
+TRF-02715,0,Clear,Highway,5,13.5,69,854,Yes,Good,No Incident
+TRF-02716,9,Clear,Urban,97,1.1,54,396,Yes,Good,No Incident
+TRF-02717,9,Clear,Residential,18,1.6,36,120,Yes,Fair,No Incident
+TRF-02718,18,Fog,Highway,20,1.3,78,783,No,Good,Incident
+TRF-02719,8,Rain,Industrial,72,14.2,94,743,No,Good,Incident
+TRF-02720,18,Clear,Residential,39,13.2,59,730,Yes,Good,No Incident
+TRF-02721,12,Rain,Residential,98,2.6,74,833,No,Fair,Incident
+TRF-02722,17,Clear,Residential,71,6.3,68,766,Yes,Fair,No Incident
+TRF-02723,7,Fog,Industrial,5,7.0,60,959,No,Good,No Incident
+TRF-02724,13,Clear,Highway,83,10.0,28,363,Yes,Fair,No Incident
+TRF-02725,0,Clear,Residential,61,7.6,89,456,No,Good,No Incident
+TRF-02726,1,Clear,Urban,83,12.2,29,360,No,Good,Incident
+TRF-02727,17,Clear,Industrial,89,14.9,60,246,Yes,Good,No Incident
+TRF-02728,20,Clear,Highway,25,4.6,50,999,Yes,Good,No Incident
+TRF-02729,1,Clear,Residential,7,6.1,93,673,No,Good,No Incident
+TRF-02730,15,Clear,Highway,70,4.7,44,100,No,Fair,No Incident
+TRF-02731,2,Clear,Highway,66,11.6,84,726,Yes,Fair,No Incident
+TRF-02732,22,Clear,Industrial,4,6.2,49,374,No,Fair,No Incident
+TRF-02733,1,Clear,Highway,18,13.5,20,775,Yes,Good,No Incident
+TRF-02734,4,Rain,Urban,71,7.2,31,978,No,Good,No Incident
+TRF-02735,19,Clear,Residential,36,5.8,88,186,No,Good,Incident
+TRF-02736,2,Clear,Urban,48,10.6,20,94,Yes,Fair,No Incident
+TRF-02737,3,Rain,Urban,57,14.0,57,350,No,Poor,No Incident
+TRF-02738,21,Fog,Urban,77,2.7,45,779,Yes,Poor,Incident
+TRF-02739,1,Clear,Urban,10,11.1,66,998,No,Good,No Incident
+TRF-02740,7,Rain,Residential,13,13.3,82,256,No,Fair,No Incident
+TRF-02741,20,Storm,Highway,90,3.4,86,319,Yes,Good,Incident
+TRF-02742,23,Rain,Urban,38,10.2,82,505,No,Poor,No Incident
+TRF-02743,3,Fog,Urban,100,8.7,21,299,No,Good,No Incident
+TRF-02744,18,Storm,Residential,77,2.8,94,69,Yes,Good,Incident
+TRF-02745,22,Clear,Industrial,26,5.7,77,315,Yes,Good,No Incident
+TRF-02746,5,Storm,Residential,8,14.4,59,431,Yes,Fair,No Incident
+TRF-02747,12,Clear,Urban,54,7.6,54,723,No,Fair,No Incident
+TRF-02748,15,Rain,Residential,80,14.1,37,94,No,Fair,Incident
+TRF-02749,8,Clear,Urban,2,13.8,71,628,No,Good,No Incident
+TRF-02750,8,Clear,Residential,26,11.2,98,676,No,Fair,No Incident
+TRF-02751,8,Clear,Urban,66,4.6,90,122,No,Fair,No Incident
+TRF-02752,19,Storm,Urban,100,8.7,82,153,Yes,Fair,Incident
+TRF-02753,0,Clear,Highway,87,13.4,83,558,No,Good,Incident
+TRF-02754,15,Clear,Highway,81,14.4,46,617,Yes,Fair,No Incident
+TRF-02755,12,Rain,Urban,2,8.1,81,116,No,Poor,Incident
+TRF-02756,17,Fog,Urban,77,8.1,29,659,No,Good,Incident
+TRF-02757,17,Clear,Urban,81,11.5,60,721,No,Good,No Incident
+TRF-02758,6,Rain,Residential,7,4.8,54,996,No,Good,No Incident
+TRF-02759,10,Rain,Industrial,12,10.6,38,325,Yes,Fair,No Incident
+TRF-02760,0,Storm,Urban,34,14.1,82,547,No,Poor,Incident
+TRF-02761,11,Clear,Highway,15,7.9,55,828,No,Fair,No Incident
+TRF-02762,9,Rain,Urban,72,2.4,29,682,No,Good,Incident
+TRF-02763,19,Clear,Urban,74,13.4,31,780,No,Fair,Incident
+TRF-02764,17,Storm,Residential,18,5.3,43,612,No,Fair,Incident
+TRF-02765,8,Clear,Highway,64,3.5,95,849,No,Fair,Incident
+TRF-02766,21,Clear,Urban,89,8.9,85,216,No,Fair,Incident
+TRF-02767,12,Storm,Urban,88,5.7,91,261,Yes,Poor,Incident
+TRF-02768,7,Storm,Urban,96,6.6,55,646,No,Fair,Incident
+TRF-02769,15,Clear,Residential,70,14.7,28,485,No,Fair,No Incident
+TRF-02770,11,Clear,Highway,7,3.4,80,349,No,Fair,Incident
+TRF-02771,23,Clear,Urban,70,3.1,85,534,No,Good,No Incident
+TRF-02772,21,Clear,Urban,68,3.2,76,275,Yes,Good,No Incident
+TRF-02773,0,Clear,Residential,61,6.2,41,151,No,Fair,No Incident
+TRF-02774,6,Fog,Urban,94,8.3,78,511,No,Good,Incident
+TRF-02775,9,Clear,Industrial,86,9.1,31,51,Yes,Poor,Incident
+TRF-02776,16,Rain,Urban,19,2.4,35,775,Yes,Good,No Incident
+TRF-02777,14,Rain,Highway,89,8.1,84,183,No,Good,Incident
+TRF-02778,21,Storm,Urban,33,12.5,54,728,No,Poor,Incident
+TRF-02779,3,Fog,Highway,20,12.5,33,769,No,Good,No Incident
+TRF-02780,15,Rain,Urban,65,1.7,85,970,No,Poor,Incident
+TRF-02781,21,Clear,Industrial,38,12.2,91,580,No,Fair,No Incident
+TRF-02782,2,Clear,Highway,71,9.4,24,120,No,Fair,No Incident
+TRF-02783,16,Rain,Urban,56,1.6,74,629,Yes,Good,No Incident
+TRF-02784,15,Clear,Highway,75,11.5,54,262,No,Good,No Incident
+TRF-02785,0,Clear,Urban,73,4.7,57,778,No,Fair,No Incident
+TRF-02786,0,Clear,Highway,42,11.0,30,212,No,Good,No Incident
+TRF-02787,1,Rain,Residential,9,9.0,57,439,Yes,Good,No Incident
+TRF-02788,6,Clear,Residential,30,6.3,77,195,No,Good,No Incident
+TRF-02789,16,Clear,Urban,78,12.5,56,356,No,Fair,No Incident
+TRF-02790,21,Clear,Residential,98,8.5,46,83,No,Good,No Incident
+TRF-02791,16,Clear,Industrial,59,13.8,67,132,No,Good,No Incident
+TRF-02792,17,Rain,Highway,12,14.7,76,88,Yes,Fair,Incident
+TRF-02793,9,Rain,Urban,33,8.7,89,624,No,Good,No Incident
+TRF-02794,5,Fog,Highway,52,10.0,66,476,No,Fair,No Incident
+TRF-02795,13,Rain,Highway,10,8.7,31,633,No,Fair,No Incident
+TRF-02796,16,Fog,Residential,59,2.3,61,542,No,Good,No Incident
+TRF-02797,20,Rain,Highway,76,12.5,62,722,Yes,Good,Incident
+TRF-02798,13,Clear,Highway,67,6.0,28,564,No,Fair,No Incident
+TRF-02799,23,Rain,Residential,91,3.8,21,826,No,Good,Incident
+TRF-02800,19,Rain,Urban,100,7.3,36,220,No,Good,No Incident
+TRF-02801,22,Rain,Urban,99,2.1,72,571,No,Fair,Incident
+TRF-02802,16,Clear,Industrial,68,5.7,82,607,Yes,Good,No Incident
+TRF-02803,5,Rain,Residential,93,10.2,86,331,No,Good,No Incident
+TRF-02804,19,Storm,Highway,88,1.1,54,857,No,Good,Incident
+TRF-02805,15,Clear,Urban,5,7.1,79,795,No,Fair,No Incident
+TRF-02806,17,Rain,Urban,65,10.6,86,215,No,Poor,Incident
+TRF-02807,6,Clear,Industrial,99,3.1,93,748,Yes,Good,Incident
+TRF-02808,1,Clear,Residential,26,12.6,71,509,No,Fair,No Incident
+TRF-02809,23,Fog,Urban,26,7.4,72,349,Yes,Fair,No Incident
+TRF-02810,11,Clear,Industrial,23,7.0,90,917,No,Good,No Incident
+TRF-02811,14,Clear,Urban,29,13.8,49,580,No,Fair,No Incident
+TRF-02812,1,Clear,Urban,98,10.1,41,830,Yes,Good,No Incident
+TRF-02813,20,Rain,Urban,54,1.8,53,647,No,Good,No Incident
+TRF-02814,6,Clear,Highway,66,2.5,62,938,Yes,Fair,Incident
+TRF-02815,0,Rain,Urban,92,1.1,37,860,No,Fair,Incident
+TRF-02816,6,Clear,Residential,22,2.6,69,906,No,Fair,No Incident
+TRF-02817,3,Clear,Highway,48,6.9,42,687,No,Fair,No Incident
+TRF-02818,11,Clear,Industrial,40,14.7,100,179,Yes,Good,No Incident
+TRF-02819,15,Fog,Highway,24,6.7,93,880,No,Good,Incident
+TRF-02820,7,Clear,Highway,80,5.3,55,957,No,Fair,Incident
+TRF-02821,4,Clear,Highway,4,8.9,26,726,No,Good,No Incident
+TRF-02822,5,Rain,Industrial,58,5.7,51,400,Yes,Fair,No Incident
+TRF-02823,3,Rain,Residential,27,8.1,25,472,No,Good,No Incident
+TRF-02824,20,Clear,Highway,27,5.7,60,663,No,Good,No Incident
+TRF-02825,12,Fog,Urban,70,14.7,45,315,No,Good,No Incident
+TRF-02826,1,Clear,Urban,79,5.6,22,263,No,Good,No Incident
+TRF-02827,10,Storm,Industrial,22,14.7,30,963,No,Poor,Incident
+TRF-02828,11,Clear,Highway,24,6.9,33,296,No,Fair,No Incident
+TRF-02829,17,Clear,Urban,53,5.4,64,361,No,Fair,No Incident
+TRF-02830,15,Rain,Urban,40,6.7,51,245,No,Fair,No Incident
+TRF-02831,17,Rain,Urban,26,13.8,93,871,No,Poor,Incident
+TRF-02832,4,Clear,Urban,16,8.7,70,617,Yes,Good,No Incident
+TRF-02833,0,Fog,Industrial,20,4.9,52,413,Yes,Good,No Incident
+TRF-02834,10,Clear,Residential,33,14.8,89,407,No,Fair,No Incident
+TRF-02835,7,Rain,Urban,28,14.0,64,86,Yes,Fair,No Incident
+TRF-02836,8,Clear,Highway,80,8.0,73,403,Yes,Fair,Incident
+TRF-02837,21,Clear,Highway,35,7.6,93,992,Yes,Poor,Incident
+TRF-02838,20,Clear,Urban,75,13.6,34,891,No,Poor,No Incident
+TRF-02839,18,Rain,Urban,79,5.3,29,956,Yes,Good,No Incident
+TRF-02840,1,Clear,Residential,84,14.5,68,848,No,Good,No Incident
+TRF-02841,4,Rain,Residential,53,2.6,27,60,No,Good,No Incident
+TRF-02842,1,Rain,Urban,12,7.2,100,523,Yes,Good,No Incident
+TRF-02843,6,Rain,Residential,100,14.3,96,340,No,Good,Incident
+TRF-02844,11,Clear,Urban,47,11.2,71,949,No,Poor,No Incident
+TRF-02845,7,Clear,Urban,31,14.9,29,939,No,Poor,No Incident
+TRF-02846,16,Clear,Highway,19,8.0,60,190,No,Poor,No Incident
+TRF-02847,2,Storm,Urban,13,6.4,50,178,Yes,Good,Incident
+TRF-02848,20,Clear,Highway,20,3.8,71,325,No,Good,Incident
+TRF-02849,2,Rain,Industrial,28,13.3,96,53,Yes,Poor,Incident
+TRF-02850,12,Clear,Urban,40,14.3,91,744,No,Good,No Incident
+TRF-02851,14,Clear,Urban,72,4.6,42,767,No,Poor,No Incident
+TRF-02852,23,Clear,Urban,12,14.7,55,480,No,Good,No Incident
+TRF-02853,0,Rain,Highway,28,7.5,96,198,No,Fair,No Incident
+TRF-02854,16,Clear,Urban,10,3.5,46,979,No,Good,No Incident
+TRF-02855,20,Fog,Industrial,82,5.0,75,989,Yes,Good,No Incident
+TRF-02856,22,Fog,Urban,56,13.6,31,689,No,Fair,No Incident
+TRF-02857,18,Clear,Urban,4,5.9,42,728,No,Poor,No Incident
+TRF-02858,20,Fog,Highway,41,5.2,87,399,No,Good,No Incident
+TRF-02859,0,Clear,Highway,10,3.9,35,290,No,Good,No Incident
+TRF-02860,21,Clear,Highway,72,8.3,67,788,No,Fair,No Incident
+TRF-02861,7,Rain,Urban,7,10.2,95,94,No,Fair,Incident
+TRF-02862,0,Clear,Urban,45,1.5,34,919,No,Good,No Incident
+TRF-02863,0,Rain,Residential,89,7.9,58,589,Yes,Poor,Incident
+TRF-02864,21,Rain,Residential,45,12.2,27,208,No,Good,No Incident
+TRF-02865,9,Fog,Urban,67,14.4,43,567,Yes,Good,No Incident
+TRF-02866,15,Clear,Urban,62,4.6,96,651,No,Good,No Incident
+TRF-02867,12,Storm,Highway,13,13.4,46,632,No,Good,No Incident
+TRF-02868,3,Fog,Industrial,89,1.6,81,455,No,Fair,Incident
+TRF-02869,22,Rain,Urban,18,3.8,66,306,No,Poor,No Incident
+TRF-02870,2,Rain,Highway,70,4.2,71,194,No,Fair,No Incident
+TRF-02871,1,Rain,Highway,53,9.7,87,124,No,Good,No Incident
+TRF-02872,2,Clear,Residential,99,9.1,53,224,No,Good,No Incident
+TRF-02873,10,Clear,Urban,32,2.9,22,139,No,Fair,No Incident
+TRF-02874,11,Clear,Urban,77,5.1,30,641,No,Good,No Incident
+TRF-02875,18,Clear,Urban,13,8.8,81,798,No,Good,No Incident
+TRF-02876,1,Clear,Highway,58,8.4,48,557,No,Good,No Incident
+TRF-02877,23,Clear,Residential,87,14.1,78,175,Yes,Good,No Incident
+TRF-02878,10,Clear,Highway,39,7.6,22,438,No,Fair,No Incident
+TRF-02879,21,Clear,Urban,34,5.5,96,213,Yes,Good,No Incident
+TRF-02880,3,Rain,Residential,31,14.3,27,212,No,Poor,Incident
+TRF-02881,8,Clear,Highway,72,15.0,20,748,Yes,Good,Incident
+TRF-02882,1,Clear,Residential,31,14.9,80,435,Yes,Poor,No Incident
+TRF-02883,11,Clear,Residential,75,5.0,98,162,No,Poor,No Incident
+TRF-02884,2,Fog,Urban,17,7.9,46,394,No,Good,No Incident
+TRF-02885,10,Rain,Urban,12,14.2,73,520,No,Good,No Incident
+TRF-02886,2,Fog,Highway,59,11.3,23,393,Yes,Poor,Incident
+TRF-02887,10,Clear,Urban,8,4.5,69,933,No,Good,No Incident
+TRF-02888,21,Clear,Urban,6,3.3,30,299,No,Fair,No Incident
+TRF-02889,0,Rain,Urban,91,8.3,21,777,Yes,Good,No Incident
+TRF-02890,15,Clear,Highway,46,1.9,41,522,No,Fair,Incident
+TRF-02891,13,Clear,Residential,25,14.1,37,530,No,Good,No Incident
+TRF-02892,15,Clear,Residential,15,2.7,86,945,No,Poor,Incident
+TRF-02893,3,Clear,Highway,52,12.9,63,114,No,Good,No Incident
+TRF-02894,23,Clear,Residential,16,6.0,55,311,No,Fair,No Incident
+TRF-02895,17,Storm,Highway,68,13.3,83,846,No,Good,Incident
+TRF-02896,13,Rain,Highway,13,7.0,54,689,Yes,Good,No Incident
+TRF-02897,3,Fog,Residential,13,3.8,24,727,Yes,Fair,Incident
+TRF-02898,22,Rain,Residential,83,3.8,53,128,Yes,Good,Incident
+TRF-02899,5,Clear,Urban,35,11.3,45,880,Yes,Fair,No Incident
+TRF-02900,15,Storm,Urban,21,1.2,43,469,Yes,Fair,Incident
+TRF-02901,4,Rain,Residential,78,5.9,52,172,No,Poor,Incident
+TRF-02902,10,Fog,Urban,86,4.9,64,327,No,Good,No Incident
+TRF-02903,0,Rain,Industrial,30,7.5,53,212,Yes,Poor,No Incident
+TRF-02904,16,Clear,Highway,89,6.8,79,575,Yes,Good,Incident
+TRF-02905,20,Storm,Residential,69,3.6,23,919,No,Fair,Incident
+TRF-02906,10,Clear,Urban,31,7.4,21,368,No,Poor,No Incident
+TRF-02907,19,Clear,Urban,78,12.0,47,790,No,Fair,No Incident
+TRF-02908,4,Clear,Residential,43,1.8,37,413,No,Fair,No Incident
+TRF-02909,1,Clear,Industrial,17,5.2,49,539,No,Poor,No Incident
+TRF-02910,1,Clear,Urban,56,11.4,25,278,No,Good,No Incident
+TRF-02911,0,Rain,Highway,8,10.8,35,431,Yes,Poor,No Incident
+TRF-02912,22,Fog,Residential,24,10.9,47,910,No,Good,No Incident
+TRF-02913,13,Storm,Highway,19,12.7,22,207,No,Good,No Incident
+TRF-02914,8,Rain,Urban,55,2.5,68,60,No,Good,Incident
+TRF-02915,5,Fog,Urban,52,7.2,63,836,No,Fair,Incident
+TRF-02916,20,Storm,Highway,90,11.1,51,960,No,Good,Incident
+TRF-02917,10,Rain,Highway,58,8.6,38,493,No,Good,No Incident
+TRF-02918,10,Clear,Highway,41,7.6,77,504,Yes,Fair,No Incident
+TRF-02919,6,Clear,Highway,92,7.6,70,754,Yes,Fair,Incident
+TRF-02920,1,Clear,Highway,93,14.4,51,53,No,Fair,No Incident
+TRF-02921,13,Rain,Residential,18,11.3,90,565,No,Good,No Incident
+TRF-02922,13,Storm,Urban,31,1.7,70,414,No,Good,Incident
+TRF-02923,19,Rain,Highway,58,2.7,92,960,No,Good,Incident
+TRF-02924,2,Rain,Residential,98,8.1,87,256,Yes,Fair,No Incident
+TRF-02925,21,Fog,Industrial,43,2.9,23,566,Yes,Fair,No Incident
+TRF-02926,17,Rain,Residential,76,8.1,67,317,No,Good,Incident
+TRF-02927,17,Clear,Urban,8,2.2,92,274,No,Poor,Incident
+TRF-02928,9,Fog,Urban,92,12.0,24,682,No,Good,No Incident
+TRF-02929,11,Rain,Urban,19,10.9,76,813,No,Poor,Incident
+TRF-02930,19,Storm,Residential,4,5.1,25,600,No,Poor,Incident
+TRF-02931,8,Fog,Urban,12,12.0,22,344,No,Good,No Incident
+TRF-02932,2,Clear,Urban,48,14.5,35,434,Yes,Good,No Incident
+TRF-02933,7,Storm,Industrial,79,13.9,94,393,No,Good,Incident
+TRF-02934,0,Clear,Residential,55,3.1,33,345,Yes,Fair,No Incident
+TRF-02935,3,Clear,Residential,89,3.9,29,621,No,Good,Incident
+TRF-02936,2,Rain,Urban,89,10.3,73,567,No,Good,No Incident
+TRF-02937,18,Clear,Highway,89,8.3,70,359,Yes,Fair,No Incident
+TRF-02938,22,Clear,Residential,81,2.6,20,917,Yes,Fair,Incident
+TRF-02939,8,Rain,Highway,99,14.6,32,704,No,Fair,Incident
+TRF-02940,6,Rain,Urban,61,12.8,56,151,Yes,Fair,No Incident
+TRF-02941,18,Clear,Highway,5,8.5,61,50,No,Fair,No Incident
+TRF-02942,14,Clear,Highway,89,14.9,44,897,Yes,Fair,No Incident
+TRF-02943,8,Rain,Residential,18,13.7,66,606,No,Good,No Incident
+TRF-02944,9,Rain,Residential,78,3.4,51,310,No,Good,Incident
+TRF-02945,23,Clear,Highway,36,14.7,87,380,Yes,Poor,Incident
+TRF-02946,5,Clear,Highway,17,5.1,62,853,No,Fair,Incident
+TRF-02947,11,Rain,Urban,68,7.1,33,935,No,Fair,No Incident
+TRF-02948,3,Fog,Highway,82,11.9,70,70,Yes,Good,Incident
+TRF-02949,15,Rain,Urban,89,1.8,66,981,No,Good,Incident
+TRF-02950,14,Rain,Highway,16,14.2,40,609,No,Good,No Incident
+TRF-02951,5,Clear,Urban,72,12.4,37,586,Yes,Fair,No Incident
+TRF-02952,11,Clear,Highway,38,14.6,91,583,Yes,Fair,No Incident
+TRF-02953,2,Clear,Residential,3,14.0,52,628,Yes,Poor,No Incident
+TRF-02954,23,Clear,Highway,68,5.0,66,833,No,Fair,No Incident
+TRF-02955,20,Rain,Urban,43,6.7,84,322,No,Poor,Incident
+TRF-02956,19,Clear,Urban,73,7.4,43,322,No,Poor,No Incident
+TRF-02957,7,Rain,Urban,11,1.0,55,548,No,Fair,Incident
+TRF-02958,19,Rain,Urban,81,10.6,49,246,No,Fair,Incident
+TRF-02959,6,Clear,Urban,72,1.0,37,605,No,Fair,No Incident
+TRF-02960,1,Clear,Urban,80,5.1,87,639,No,Fair,No Incident
+TRF-02961,4,Fog,Highway,28,7.4,82,563,No,Good,Incident
+TRF-02962,10,Fog,Urban,92,3.6,94,344,No,Fair,Incident
+TRF-02963,12,Clear,Residential,27,12.1,24,85,No,Good,No Incident
+TRF-02964,0,Clear,Highway,50,9.0,67,558,Yes,Fair,No Incident
+TRF-02965,21,Rain,Industrial,88,9.1,99,708,Yes,Good,Incident
+TRF-02966,20,Clear,Industrial,69,9.7,94,374,Yes,Fair,No Incident
+TRF-02967,9,Clear,Highway,94,7.9,91,821,No,Good,Incident
+TRF-02968,6,Fog,Urban,98,9.5,78,719,No,Good,Incident
+TRF-02969,14,Clear,Industrial,97,9.7,26,466,No,Fair,No Incident
+TRF-02970,10,Rain,Urban,33,4.0,45,346,No,Good,No Incident
+TRF-02971,15,Clear,Residential,32,3.0,76,235,No,Good,No Incident
+TRF-02972,5,Storm,Highway,25,7.1,59,952,Yes,Poor,Incident
+TRF-02973,6,Fog,Urban,84,13.7,27,524,No,Good,No Incident
+TRF-02974,2,Rain,Residential,28,14.8,43,916,Yes,Poor,Incident
+TRF-02975,14,Storm,Urban,85,14.2,48,546,Yes,Good,No Incident
+TRF-02976,23,Storm,Urban,72,14.7,69,283,No,Good,Incident
+TRF-02977,21,Rain,Highway,77,3.6,100,89,No,Fair,Incident
+TRF-02978,13,Rain,Highway,20,3.4,70,876,No,Fair,No Incident
+TRF-02979,3,Fog,Residential,10,7.1,55,892,No,Good,No Incident
+TRF-02980,11,Rain,Urban,76,11.9,95,850,No,Good,Incident
+TRF-02981,10,Rain,Highway,71,2.4,93,648,No,Good,Incident
+TRF-02982,18,Clear,Industrial,40,11.1,92,502,Yes,Good,Incident
+TRF-02983,6,Rain,Highway,94,5.9,64,511,No,Poor,No Incident
+TRF-02984,11,Clear,Residential,97,3.3,39,175,No,Fair,Incident
+TRF-02985,11,Clear,Urban,5,13.7,42,882,Yes,Poor,No Incident
+TRF-02986,20,Clear,Industrial,46,10.6,34,829,Yes,Good,No Incident
+TRF-02987,22,Clear,Residential,18,13.3,34,686,No,Good,No Incident
+TRF-02988,19,Clear,Highway,7,3.0,79,592,No,Good,Incident
+TRF-02989,7,Clear,Industrial,95,6.8,37,394,No,Good,No Incident
+TRF-02990,0,Rain,Urban,23,12.4,76,118,No,Fair,No Incident
+TRF-02991,14,Fog,Highway,17,5.3,56,101,No,Fair,No Incident
+TRF-02992,11,Rain,Highway,72,14.7,22,380,No,Fair,No Incident
+TRF-02993,22,Clear,Urban,8,12.1,45,522,No,Good,No Incident
+TRF-02994,0,Rain,Residential,23,10.2,25,728,No,Poor,No Incident
+TRF-02995,15,Clear,Urban,93,10.9,22,635,No,Good,No Incident
+TRF-02996,9,Clear,Urban,33,13.6,90,574,No,Fair,No Incident
+TRF-02997,12,Clear,Highway,46,7.1,94,539,Yes,Fair,No Incident
+TRF-02998,8,Fog,Industrial,21,1.7,61,963,Yes,Good,Incident
+TRF-02999,1,Clear,Urban,58,11.4,24,121,No,Good,No Incident
+TRF-03000,19,Clear,Urban,84,7.3,94,883,No,Fair,Incident
