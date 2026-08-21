@@ -30,7 +30,6 @@
 <!-- Dynamic Repo Card -->
 <p align="center">
   <a href="https://github.com/lokeshboddu006/ML-Algorithms-Models-and-Training-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lokeshboddu006&repo=ML-Algorithms-Models-and-Training-&theme=tokyonight&border_radius=12&title_color=38bdf8&icon_color=a855f7&hide_border=true" alt="Repository Card" />
   </a>
 </p>
 
