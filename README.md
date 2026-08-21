@@ -176,7 +176,7 @@ $$\text{Gini}(p) = 1 - \sum_{i=1}^{C} p_i^2 \qquad \text{Entropy}(S) = -\sum_{i=
 ## 🛠️ Technology & Tooling Ecosystem
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter,git,github" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,git,github" alt="Skill Icons" />
 </p>
 
 | Domain | Stack Component |
